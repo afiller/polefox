@@ -384,7 +384,7 @@
     <color name="device_foreground">@color/photonInk80</color>
 
     <!-- Launcher Icon colors -->
-    <color name="default_launcher_background">#FDFDFD</color>
+    <color name="default_launcher_background">#E3E3E3</color>
     <color name="nightly_launcher_background">#220033</color>
     <color name="debug_launcher_background">@color/photonInk20</color>
     <color name="ic_launcher_background">@color/default_launcher_background</color>
