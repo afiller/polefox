@@ -86,8 +86,8 @@
     <string name="cfr_neg_button_text">Ei kiitos</string>
 
     <!-- Open in App "contextual feature recommendation" (CFR) -->
-    <!-- Text for the info message. 'Firefox' intentionally hardcoded here.-->
-    <string name="open_in_app_cfr_info_message">Voit asettaa Firefoxin avaamaan linkit automaattisesti sovelluksissa.</string>
+    <!-- Text for the info message. 'Polefox' intentionally hardcoded here.-->
+    <string name="open_in_app_cfr_info_message">Voit asettaa Polefoxin avaamaan linkit automaattisesti sovelluksissa.</string>
     <!-- Text for the positive action button -->
     <string name="open_in_app_cfr_positive_button_text">Siirry asetuksiin</string>
     <!-- Text for the negative action button -->
@@ -260,8 +260,8 @@
     <string name="search_engine_suggestions_description">Hae suoraan osoitepalkista</string>
 
     <!-- Search Widget -->
-    <!-- Content description for searching with a widget. Firefox is intentionally hardcoded.-->
-    <string name="search_widget_content_description">Avaa uusi Firefox-välilehti</string>
+    <!-- Content description for searching with a widget. Polefox is intentionally hardcoded.-->
+    <string name="search_widget_content_description">Avaa uusi Polefox-välilehti</string>
     <!-- Text preview for smaller sized widgets -->
     <string name="search_widget_text_short">Hae</string>
     <!-- Text preview for larger sized widgets -->
@@ -324,12 +324,12 @@
     <string name="preferences_add_private_browsing_shortcut">Lisää yksityisen selauksen pikakuvake</string>
     <!-- Preference for accessibility -->
     <string name="preferences_accessibility">Saavutettavuus</string>
-    <!-- Preference to override the Firefox Account server -->
-    <string name="preferences_override_fxa_server">Mukautettu Firefox-tilin palvelin</string>
+    <!-- Preference to override the Polefox Account server -->
+    <string name="preferences_override_fxa_server">Mukautettu Polefox-tilin palvelin</string>
     <!-- Preference to override the Sync token server -->
     <string name="preferences_override_sync_tokenserver">Mukautettu synkronointipalvelin</string>
     <!-- Toast shown after updating the FxA/Sync server override preferences -->
-    <string name="toast_override_fxa_sync_server_done">Firefox-tilin tai synkronoinnin palvelinta muutettu. Lopetetaan sovellus, jotta muutokset tulevat voimaan…</string>
+    <string name="toast_override_fxa_sync_server_done">Polefox-tilin tai synkronoinnin palvelinta muutettu. Lopetetaan sovellus, jotta muutokset tulevat voimaan…</string>
     <!-- Preference category for account information -->
     <string name="preferences_category_account">Tili</string>
     <!-- Preference shown on banner to sign into account -->
@@ -345,9 +345,9 @@
     <!-- Preference for settings related to visual options -->
     <string name="preferences_customize">Mukauta</string>
     <!-- Preference description for banner about signing in -->
-    <string name="preferences_sign_in_description">Synkronoi kirjanmerkit, historia ja paljon muuta Firefox-tilillä</string>
+    <string name="preferences_sign_in_description">Synkronoi kirjanmerkit, historia ja paljon muuta Polefox-tilillä</string>
     <!-- Preference shown instead of account display name while account profile information isn't available yet. -->
-    <string name="preferences_account_default_name">Firefox-tili</string>
+    <string name="preferences_account_default_name">Polefox-tili</string>
     <!-- Preference text for account title when there was an error syncing FxA -->
     <string name="preferences_account_sync_error">Yhdistä uudelleen jatkaaksesi synkronointia</string>
     <!-- Preference for language -->
@@ -470,7 +470,7 @@
     <!-- Name of the "receive tabs" notification channel. Displayed in the "App notifications" system settings for the app -->
     <string name="fxa_received_tab_channel_name">Vastaanotetut välilehdet</string>
     <!-- Description of the "receive tabs" notification channel. Displayed in the "App notifications" system settings for the app -->
-    <string name="fxa_received_tab_channel_description">Ilmoitukset muista Firefox-laitteista vastaanotetuista välilehdistä.</string>
+    <string name="fxa_received_tab_channel_description">Ilmoitukset muista Polefox-laitteista vastaanotetuista välilehdistä.</string>
     <!--  The body for these is the URL of the tab received  -->
     <string name="fxa_tab_received_notification_name">Välilehti vastaanotettu</string>
     <!-- When multiple tabs have been received -->
@@ -506,7 +506,7 @@
     <string name="preferences_usage_data_description">Jakaa selaimen suorituskykyyn, käyttöön, laitteistoon ja mukauttamiseen liittyviä tietoja Mozillan kanssa, jotta %1$sia voidaan parantaa</string>
     <!-- Preference switch for marketing data collection -->
     <string name="preferences_marketing_data">Markkinointitiedot</string>
-    <!-- Preference description for marketing data collection, parameter is the app name (e.g. Firefox) -->
+    <!-- Preference description for marketing data collection, parameter is the app name (e.g. Polefox) -->
     <string name="preferences_marketing_data_description">Jakaa tietoa %1$sissa käyttämistäsi ominaisuuksista mobiilimarkkinointia meille toteuttavan Leanplumin kanssa.</string>
     <!-- Preference description for marketing data collection -->
     <string name="preferences_marketing_data_description2">Jakaa perustiedot käytöstä mobiilimarkkinointitoimittajamme Adjustin kanssa</string>
@@ -530,7 +530,7 @@
     <!-- Header of the Turn on Sync preference view -->
     <string name="preferences_sync">Ota Sync käyttöön</string>
     <!-- Preference for pairing -->
-    <string name="preferences_sync_pair">Skannaa parituskoodi Firefoxin työpöytäversiossa</string>
+    <string name="preferences_sync_pair">Skannaa parituskoodi Polefoxin työpöytäversiossa</string>
     <!-- Preference for account login -->
     <string name="preferences_sync_sign_in">Kirjaudu sisän</string>
     <!-- Preference for reconnecting to FxA sync -->
@@ -671,8 +671,8 @@
     <string name="studies_remove">Poista</string>
     <!-- Title of the active section on the studies list -->
     <string name="studies_active">Käynnissä</string>
-    <!-- Description for studies, it indicates why Firefox use studies -->
-    <string name="studies_description">Firefox saattaa asentaa ja suorittaa tutkimuksia silloin tällöin.</string>
+    <!-- Description for studies, it indicates why Polefox use studies -->
+    <string name="studies_description">Polefox saattaa asentaa ja suorittaa tutkimuksia silloin tällöin.</string>
     <!-- Learn more link for studies, links to an article for more information about studies. -->
     <string name="studies_learn_more">Lue lisää</string>
 
@@ -1094,7 +1094,7 @@
     <!-- An option to connect additional devices -->
     <string name="sync_connect_device">Yhdistä toinen laite</string>
     <!-- The dialog text shown when additional devices are not available -->
-    <string name="sync_connect_device_dialog">Lähetä välilehti kirjautumalla Firefoxiin vähintään yhdellä muulla laitteella.</string>
+    <string name="sync_connect_device_dialog">Lähetä välilehti kirjautumalla Polefoxiin vähintään yhdellä muulla laitteella.</string>
     <!-- Confirmation dialog button -->
     <string name="sync_confirmation_button">Selvä</string>
 
@@ -1258,57 +1258,57 @@
     <string name="deleting_browsing_data_in_progress">Poistetaan selaustietoja…</string>
 
     <!-- Tips -->
-    <!-- text for firefox preview moving tip header "Firefox Preview" and "Firefox Nightly" are intentionally hardcoded -->
-    <string name="tip_firefox_preview_moved_header">Firefox Preview on nyt Firefox Nightly</string>
+    <!-- text for firefox preview moving tip header "Polefox Preview" and "Polefox Nightly" are intentionally hardcoded -->
+    <string name="tip_firefox_preview_moved_header">Polefox Preview on nyt Polefox Nightly</string>
     <!-- text for firefox preview moving tip description -->
-    <string name="tip_firefox_preview_moved_description">Firefox Nightly saa päivityksiä joka yö ja se sisältää kokeellisia uusia ominaisuuksia.
+    <string name="tip_firefox_preview_moved_description">Polefox Nightly saa päivityksiä joka yö ja se sisältää kokeellisia uusia ominaisuuksia.
         Se saattaa kuitenkin olla betaversiota epävakaampi. Lataa betavaiheen selain Nightlya vakaamman kokemuksen saamiseksi.</string>
 
-    <!-- text for firefox preview moving tip button. "Firefox for Android Beta" is intentionally hardcoded -->
-    <string name="tip_firefox_preview_moved_button_2">Hanki Firefoxin betaversio Androidille</string>
+    <!-- text for firefox preview moving tip button. "Polefox for Android Beta" is intentionally hardcoded -->
+    <string name="tip_firefox_preview_moved_button_2">Hanki Polefoxin betaversio Androidille</string>
 
-    <!-- text for firefox preview moving tip header. "Firefox Nightly" is intentionally hardcoded -->
-    <string name="tip_firefox_preview_moved_header_preview_installed">Firefox Nightly on muuttanut</string>
+    <!-- text for firefox preview moving tip header. "Polefox Nightly" is intentionally hardcoded -->
+    <string name="tip_firefox_preview_moved_header_preview_installed">Polefox Nightly on muuttanut</string>
     <!-- text for firefox preview moving tip description -->
     <string name="tip_firefox_preview_moved_description_preview_installed">Tämä sovellus ei saa enää tietoturvapäivityksiä. Lopeta tämän sovelluksen käyttö ja vaihda uuteen Nightly-versioon.
-        \n\nSiirrä kirjanmerkit, kirjautumistiedot ja historia toiseen sovellukseen käyttämällä Firefox-tiliä.</string>
+        \n\nSiirrä kirjanmerkit, kirjautumistiedot ja historia toiseen sovellukseen käyttämällä Polefox-tiliä.</string>
     <!-- text for firefox preview moving tip button  -->
     <string name="tip_firefox_preview_moved_button_preview_installed">Vaihda uuteen Nightlyyn</string>
 
-    <!-- text for firefox preview moving tip header. "Firefox Nightly" is intentionally hardcoded -->
-    <string name="tip_firefox_preview_moved_header_preview_not_installed">Firefox Nightly on muuttanut</string>
+    <!-- text for firefox preview moving tip header. "Polefox Nightly" is intentionally hardcoded -->
+    <string name="tip_firefox_preview_moved_header_preview_not_installed">Polefox Nightly on muuttanut</string>
     <!-- text for firefox preview moving tip description -->
     <string name="tip_firefox_preview_moved_description_preview_not_installed">Tämä sovellus ei saa enää tietoturvapäivityksiä Hanki uusi Nightly ja lopeta tämän sovelluksen käyttö.
-        \n\nSiirrä kirjanmerkit, kirjautumistiedot ja historia toiseen sovellukseen käyttämällä Firefox-tiliä.</string>
+        \n\nSiirrä kirjanmerkit, kirjautumistiedot ja historia toiseen sovellukseen käyttämällä Polefox-tiliä.</string>
     <!-- text for firefox preview moving tip button  -->
     <string name="tip_firefox_preview_moved_button_preview_not_installed">Hanki uusi Nightly</string>
 
     <!-- Onboarding -->
     <!-- Text for onboarding welcome message
-    The first parameter is the name of the app (e.g. Firefox Preview) -->
+    The first parameter is the name of the app (e.g. Polefox Preview) -->
     <string name="onboarding_header">Tervetuloa %siin!</string>
-    <!-- text for the Firefox Accounts section header -->
+    <!-- text for the Polefox Accounts section header -->
     <string name="onboarding_fxa_section_header">Onko sinulla jo tili?</string>
     <!-- text for the "What's New" onboarding card header -->
     <string moz:removedIn="94" name="onboarding_whats_new_header1" tools:ignore="UnusedResources">Katso, mikä on uutta</string>
     <!-- text for the "what's new" onboarding card description
-    The first parameter is the short name of the app (e.g. Firefox) -->
+    The first parameter is the short name of the app (e.g. Polefox) -->
     <string moz:removedIn="94" name="onboarding_whats_new_description" tools:ignore="UnusedResources">Kysymyksiä liittyen uudistettuun %siin? Haluatko tietää, mikä kaikki on muuttunut?</string>
     <!-- text for underlined clickable link that is part of "what's new" onboarding card description that links to an FAQ -->
     <string moz:removedIn="94" name="onboarding_whats_new_description_linktext" tools:ignore="UnusedResources">Vastauksia on tarjolla täällä</string>
-    <!-- text for the Firefox account onboarding sign in card header. The word "Firefox" should not be translated -->
-    <string name="onboarding_account_sign_in_header_1">Synkronoi Firefox laitteidesi välillä</string>
-    <!-- Text for the button to learn more about signing in to your Firefox account -->
-    <string name="onboarding_manual_sign_in_description">Tuo kirjanmerkit, historia ja salasanat Firefoxiin tässä laitteessa.</string>
+    <!-- text for the Polefox account onboarding sign in card header. The word "Polefox" should not be translated -->
+    <string name="onboarding_account_sign_in_header_1">Synkronoi Polefox laitteidesi välillä</string>
+    <!-- Text for the button to learn more about signing in to your Polefox account -->
+    <string name="onboarding_manual_sign_in_description">Tuo kirjanmerkit, historia ja salasanat Polefoxiin tässä laitteessa.</string>
     <!-- text for the firefox account onboarding card header when we detect you're already signed in to
-        another Firefox browser. (The word `Firefox` should not be translated)
+        another Polefox browser. (The word `Polefox` should not be translated)
         The first parameter is the email of the detected user's account -->
-    <string name="onboarding_firefox_account_auto_signin_header_3">Olet kirjautunut tilillä %s toiseen Firefox-selaimeen tällä laitteella. Haluatko kirjautua sisään tällä tilillä?</string>
+    <string name="onboarding_firefox_account_auto_signin_header_3">Olet kirjautunut tilillä %s toiseen Polefox-selaimeen tällä laitteella. Haluatko kirjautua sisään tällä tilillä?</string>
     <!-- text for the button to confirm automatic sign-in -->
     <string name="onboarding_firefox_account_auto_signin_confirm">Kyllä, kirjaa minut sisään</string>
     <!-- text for the automatic sign-in button while signing in is in process -->
     <string name="onboarding_firefox_account_signing_in">Kirjaudutaan sisään…</string>
-    <!-- text for the button to manually sign into Firefox account. -->
+    <!-- text for the button to manually sign into Polefox account. -->
     <string name="onboarding_firefox_account_sign_in_1">Rekisteröidy</string>
     <!-- text for the button to stay signed out when presented with an option to automatically sign-in. -->
     <string name="onboarding_firefox_account_stay_signed_out">Pysy uloskirjautuneena</string>
@@ -1318,8 +1318,8 @@
     <string name="onboarding_firefox_account_automatic_signin_failed">Sisäänkirjautuminen epäonnistui</string>
     <!-- text for the tracking protection onboarding card header -->
     <string name="onboarding_tracking_protection_header_3">Yksityisyys aina päällä</string>
-    <!-- text for the tracking protection card description. 'Firefox' intentionally hardcoded here -->
-    <string name="onboarding_tracking_protection_description_3">Firefox estää automaattisesti yrityksiä seuraamasta sinua salaa ympäri verkkoa.</string>
+    <!-- text for the tracking protection card description. 'Polefox' intentionally hardcoded here -->
+    <string name="onboarding_tracking_protection_description_3">Polefox estää automaattisesti yrityksiä seuraamasta sinua salaa ympäri verkkoa.</string>
     <!-- text for tracking protection radio button option for standard level of blocking -->
     <string name="onboarding_tracking_protection_standard_button_2">Tavallinen (oletus)</string>
     <!-- text for standard blocking option button description -->
@@ -1346,7 +1346,7 @@
     <!-- text for the privacy notice onboarding card header -->
     <string name="onboarding_privacy_notice_header">Yksityisyytesi</string>
     <!-- text for the privacy notice onboarding card description
-    The first parameter is the name of the app (e.g. Firefox Preview) Substitute %s for long browser name. -->
+    The first parameter is the name of the app (e.g. Polefox Preview) Substitute %s for long browser name. -->
     <string name="onboarding_privacy_notice_description2">Olemme suunnitelleet %sin siten, että voit hallita mitä jaat verkossa ja mitä jaat kanssamme.</string>
     <!-- Text for the button to read the privacy notice -->
     <string name="onboarding_privacy_notice_read_button">Lue yksityisyyskäytäntömme</string>
@@ -1382,18 +1382,18 @@
     <!-- Title of QR Pairing Fragment -->
     <string name="sync_scan_code">Skannaa koodi</string>
     <!-- Instructions on how to access pairing -->
-    <string name="sign_in_instructions"><![CDATA[Avaa Firefox tietokoneellasi ja siirry sivulle <b>https://firefox.com/pair</b>]]></string>
+    <string name="sign_in_instructions"><![CDATA[Avaa Polefox tietokoneellasi ja siirry sivulle <b>https://firefox.com/pair</b>]]></string>
     <!-- Text shown for sign in pairing when ready -->
     <string name="sign_in_ready_for_scan">Valmiina skannaamaan</string>
     <!-- Text shown for settings option for sign with pairing -->
     <string name="sign_in_with_camera">Kirjaudu sisään kamerallasi</string>
     <!-- Text shown for settings option for sign with email -->
     <string name="sign_in_with_email">Käytä sähköpostia</string>
-    <!-- Text shown for settings option for create new account text.'Firefox' intentionally hardcoded here.-->
-    <string name="sign_in_create_account_text"><![CDATA[Vailla tiliä? <u>Luo tili</u> synkronoidaksesi Firefox laitteiden välillä.]]></string>
+    <!-- Text shown for settings option for create new account text.'Polefox' intentionally hardcoded here.-->
+    <string name="sign_in_create_account_text"><![CDATA[Vailla tiliä? <u>Luo tili</u> synkronoidaksesi Polefox laitteiden välillä.]]></string>
     <!-- Text shown in confirmation dialog to sign out of account -->
-    <string name="sign_out_confirmation_message">Firefox lopettaa tilisi synkronoinnin, mutta ei poista mitään selaustietoja tältä laitteelta.</string>
-    <!-- Text shown in confirmation dialog to sign out of account. The first parameter is the name of the app (e.g. Firefox Preview) -->
+    <string name="sign_out_confirmation_message">Polefox lopettaa tilisi synkronoinnin, mutta ei poista mitään selaustietoja tältä laitteelta.</string>
+    <!-- Text shown in confirmation dialog to sign out of account. The first parameter is the name of the app (e.g. Polefox Preview) -->
     <string name="sign_out_confirmation_message_2">%s lopettaa synkronoinnin tilisi kanssa, mutta ei poista selaustietojasi tältä laitteelta.</string>
     <!-- Option to continue signing out of account shown in confirmation dialog to sign out of account -->
     <string name="sign_out_disconnect">Katkaise yhteys</string>
@@ -1573,9 +1573,9 @@
     <!-- Preference for autofilling saved logins in Fenix -->
     <string moz:removedIn="93" name="preferences_passwords_autofill" tools:ignore="UnusedResources">Automaattinen täyttö</string>
 
-    <!-- Preference for autofilling saved logins in Firefox (in web content), %1$s will be replaced with the app name -->
+    <!-- Preference for autofilling saved logins in Polefox (in web content), %1$s will be replaced with the app name -->
     <string name="preferences_passwords_autofill2">Täytä automaattisesti sovelluksessa %1$s</string>
-    <!-- Description for the preference for autofilling saved logins in Firefox (in web content), %1$s will be replaced with the app name -->
+    <!-- Description for the preference for autofilling saved logins in Polefox (in web content), %1$s will be replaced with the app name -->
     <string name="preferences_passwords_autofill_description">Täytä ja tallenna käyttäjätunnukset ja salasanat verkkosivuilla, kun käytät sovellusta %1$s.</string>
     <!-- Preference for autofilling logins from Fenix in other apps (e.g. autofilling the Twitter app) -->
     <string name="preferences_android_autofill">Automaattinen täyttö muissa sovelluksissa</string>
@@ -1895,13 +1895,13 @@
     <string name="synced_tabs_connect_another_device">Yhdistä toinen laite.</string>
     <!-- Text displayed asking user to re-authenticate -->
     <string name="synced_tabs_reauth">Tunnistaudu uudelleen.</string>
-    <!-- Text displayed when user has disabled tab syncing in Firefox Sync Account -->
+    <!-- Text displayed when user has disabled tab syncing in Polefox Sync Account -->
     <string name="synced_tabs_enable_tab_syncing">Ota välilehtien synkronointi käyttöön.</string>
     <!-- Text displayed when user has no tabs that have been synced -->
-    <string name="synced_tabs_no_tabs">Sinulla ei ole muilla laitteilla avoimia välilehtiä Firefoxissa.</string>
-    <!-- Text displayed in the synced tabs screen when a user is not signed in to Firefox Sync describing Synced Tabs -->
+    <string name="synced_tabs_no_tabs">Sinulla ei ole muilla laitteilla avoimia välilehtiä Polefoxissa.</string>
+    <!-- Text displayed in the synced tabs screen when a user is not signed in to Polefox Sync describing Synced Tabs -->
     <string name="synced_tabs_sign_in_message">Katso välilehtilistaus muilta laitteiltasi.</string>
-    <!-- Text displayed on a button in the synced tabs screen to link users to sign in when a user is not signed in to Firefox Sync -->
+    <!-- Text displayed on a button in the synced tabs screen to link users to sign in when a user is not signed in to Polefox Sync -->
     <string name="synced_tabs_sign_in_button">Kirjaudu sisään synkronoidaksesi</string>
 
     <!-- The text displayed when a synced device has no tabs to show in the list of Synced Tabs. -->
@@ -1940,7 +1940,7 @@
     <string name="inactive_tabs_7_days">1 viikon</string>
 
     <!-- Default browser experiment -->
-    <string name="default_browser_experiment_card_text">Aseta verkkosivustojen, sähköpostien ja viestien linkit avautumaan automaattisesti Firefoxissa.</string>
+    <string name="default_browser_experiment_card_text">Aseta verkkosivustojen, sähköpostien ja viestien linkit avautumaan automaattisesti Polefoxissa.</string>
 
     <!-- Content description for close button in collection placeholder. -->
     <string name="remove_home_collection_placeholder_content_description">Poista</string>

@@ -85,8 +85,8 @@
     <string name="cfr_neg_button_text">Не, ташаккур</string>
 
     <!-- Open in App "contextual feature recommendation" (CFR) -->
-    <!-- Text for the info message. 'Firefox' intentionally hardcoded here.-->
-    <string name="open_in_app_cfr_info_message">Шумо метавонед Firefox-ро танзим кунед, ки он дар барномаҳо пайвандҳоро ба таври худкор кушояд.</string>
+    <!-- Text for the info message. 'Polefox' intentionally hardcoded here.-->
+    <string name="open_in_app_cfr_info_message">Шумо метавонед Polefox-ро танзим кунед, ки он дар барномаҳо пайвандҳоро ба таври худкор кушояд.</string>
     <!-- Text for the positive action button -->
     <string name="open_in_app_cfr_positive_button_text">Гузариш ба танзимот</string>
     <!-- Text for the negative action button -->
@@ -256,8 +256,8 @@
     <string name="search_engine_suggestions_description">Ҷустуҷӯи бевосита аз навори нишонӣ</string>
 
     <!-- Search Widget -->
-    <!-- Content description for searching with a widget. Firefox is intentionally hardcoded.-->
-    <string name="search_widget_content_description">Кушодани варақаи нави Firefox</string>
+    <!-- Content description for searching with a widget. Polefox is intentionally hardcoded.-->
+    <string name="search_widget_content_description">Кушодани варақаи нави Polefox</string>
     <!-- Text preview for smaller sized widgets -->
     <string name="search_widget_text_short">Ҷустуҷӯ</string>
     <!-- Text preview for larger sized widgets -->
@@ -318,12 +318,12 @@
     <string name="preferences_add_private_browsing_shortcut">Илова кардани миёнбури тамошокунии махфӣ</string>
     <!-- Preference for accessibility -->
     <string name="preferences_accessibility">Қобилияти дастрасӣ</string>
-    <!-- Preference to override the Firefox Account server -->
-    <string name="preferences_override_fxa_server">Сервери ҳисоби фармоишии Firefox</string>
+    <!-- Preference to override the Polefox Account server -->
+    <string name="preferences_override_fxa_server">Сервери ҳисоби фармоишии Polefox</string>
     <!-- Preference to override the Sync token server -->
     <string name="preferences_override_sync_tokenserver">Сервери ҳамоҳангсозии фармоишӣ</string>
     <!-- Toast shown after updating the FxA/Sync server override preferences -->
-    <string name="toast_override_fxa_sync_server_done">Сервери ҳисоб/ҳамоҳангсозии Firefox тағйир ёфт. Барои татбиқ кардани тағйирот барнома бояд хомӯш карда шавад…</string>
+    <string name="toast_override_fxa_sync_server_done">Сервери ҳисоб/ҳамоҳангсозии Polefox тағйир ёфт. Барои татбиқ кардани тағйирот барнома бояд хомӯш карда шавад…</string>
     <!-- Preference category for account information -->
     <string name="preferences_category_account">Ҳисоб</string>
     <!-- Preference shown on banner to sign into account -->
@@ -339,9 +339,9 @@
     <!-- Preference for settings related to visual options -->
     <string name="preferences_customize">Фармоишдиҳӣ</string>
     <!-- Preference description for banner about signing in -->
-    <string name="preferences_sign_in_description">Ба воситаи ҳисоби Firefox-и худ хатбаракҳо, таърих ва чизҳои дигарро ҳамоҳанг кунед.</string>
+    <string name="preferences_sign_in_description">Ба воситаи ҳисоби Polefox-и худ хатбаракҳо, таърих ва чизҳои дигарро ҳамоҳанг кунед.</string>
     <!-- Preference shown instead of account display name while account profile information isn't available yet. -->
-    <string name="preferences_account_default_name">Ҳисоби Firefox</string>
+    <string name="preferences_account_default_name">Ҳисоби Polefox</string>
     <!-- Preference text for account title when there was an error syncing FxA -->
     <string name="preferences_account_sync_error">Барои барқарор кардани ҳамоҳангсозӣ аз нав пайваст шавед</string>
     <!-- Preference for language -->
@@ -462,7 +462,7 @@
     <!-- Name of the "receive tabs" notification channel. Displayed in the "App notifications" system settings for the app -->
     <string name="fxa_received_tab_channel_name">Варақаҳо аз дастгоҳҳои дигар</string>
     <!-- Description of the "receive tabs" notification channel. Displayed in the "App notifications" system settings for the app -->
-    <string name="fxa_received_tab_channel_description">Огоҳиномаҳо дар бораи варақаҳое, ки аз дигар дастгоҳҳои Firefox гирифта шудаанд.</string>
+    <string name="fxa_received_tab_channel_description">Огоҳиномаҳо дар бораи варақаҳое, ки аз дигар дастгоҳҳои Polefox гирифта шудаанд.</string>
     <!--  The body for these is the URL of the tab received  -->
     <string name="fxa_tab_received_notification_name">Варақаи қабулшуда</string>
     <!-- When multiple tabs have been received -->
@@ -496,7 +496,7 @@
     <string name="preferences_usage_data_description">Барои беҳтар кардани %1$s маълумоти самаранокӣ, истифодабарӣ, сахтафзор ва танзимоти фармоишӣ дар бораи браузери шумо бо Mozilla мубодила карда шавад</string>
     <!-- Preference switch for marketing data collection -->
     <string name="preferences_marketing_data">Маълумоти маркетингӣ</string>
-    <!-- Preference description for marketing data collection, parameter is the app name (e.g. Firefox) -->
+    <!-- Preference description for marketing data collection, parameter is the app name (e.g. Polefox) -->
     <string name="preferences_marketing_data_description">Маълумот дар бораи хусусиятҳое, ки шумо дар %1$s истифода мебаред бо Leanplum, яъне фурӯшандаи маркетинги мобилии мо, мубодила карда шавад</string>
     <!-- Preference description for marketing data collection -->
     <string name="preferences_marketing_data_description2">Маълумоти асосии истифодабариро бо «Adjust», фурӯшандаи маркетингии мобилии мо, мубодила мекунад</string>
@@ -519,7 +519,7 @@
     <!-- Header of the Turn on Sync preference view -->
     <string name="preferences_sync">Фаъол кардани ҳамоҳангсозӣ</string>
     <!-- Preference for pairing -->
-    <string name="preferences_sync_pair">Рамзи ҷуфтро дар версияи Firefox-и мизи корӣ скан кунед</string>
+    <string name="preferences_sync_pair">Рамзи ҷуфтро дар версияи Polefox-и мизи корӣ скан кунед</string>
     <!-- Preference for account login -->
     <string name="preferences_sync_sign_in">Ворид шудан</string>
     <!-- Preference for reconnecting to FxA sync -->
@@ -660,8 +660,8 @@
     <string name="studies_remove">Тоза кардан</string>
     <!-- Title of the active section on the studies list -->
     <string name="studies_active">Фаъол</string>
-    <!-- Description for studies, it indicates why Firefox use studies -->
-    <string name="studies_description">Баъзе вақт Firefox метавонад омӯзишҳоро насб ва иҷро намояд.</string>
+    <!-- Description for studies, it indicates why Polefox use studies -->
+    <string name="studies_description">Баъзе вақт Polefox метавонад омӯзишҳоро насб ва иҷро намояд.</string>
     <!-- Learn more link for studies, links to an article for more information about studies. -->
     <string name="studies_learn_more">Маълумоти бештар</string>
 
@@ -1081,7 +1081,7 @@
     <!-- An option to connect additional devices -->
     <string name="sync_connect_device">Пайваст кардани дастгоҳи дигар</string>
     <!-- The dialog text shown when additional devices are not available -->
-    <string name="sync_connect_device_dialog">Барои фиристодани варақа, ақаллан дар дастгоҳи дигар ба Firefox ворид шавед.</string>
+    <string name="sync_connect_device_dialog">Барои фиристодани варақа, ақаллан дар дастгоҳи дигар ба Polefox ворид шавед.</string>
     <!-- Confirmation dialog button -->
     <string name="sync_confirmation_button">Фаҳмо</string>
 
@@ -1244,60 +1244,60 @@
     <string name="deleting_browsing_data_in_progress">Несткунии маълумоти тамошокунӣ…</string>
 
     <!-- Tips -->
-    <!-- text for firefox preview moving tip header "Firefox Preview" and "Firefox Nightly" are intentionally hardcoded -->
-    <string name="tip_firefox_preview_moved_header">Нашри Firefox-и «Пешнамоиш» акнун Firefox-и «Ҳаршабонарӯзӣ» шуд</string>
+    <!-- text for firefox preview moving tip header "Polefox Preview" and "Polefox Nightly" are intentionally hardcoded -->
+    <string name="tip_firefox_preview_moved_header">Нашри Polefox-и «Пешнамоиш» акнун Polefox-и «Ҳаршабонарӯзӣ» шуд</string>
 
     <!-- text for firefox preview moving tip description -->
     <string name="tip_firefox_preview_moved_description">
-        Firefox-и «Ҳаршабонарӯзӣ» ҳар шаб навсозӣ мешавад ва хусусиятҳои нави таҷрибавиро дар бар мегирад.
+        Polefox-и «Ҳаршабонарӯзӣ» ҳар шаб навсозӣ мешавад ва хусусиятҳои нави таҷрибавиро дар бар мегирад.
         Аммо, он метавонад ноустувор бошад. Барои ба даст овардани таҷрибаи устувор, браузери «бета»-ро боргирӣ намоед.</string>
-    <!-- text for firefox preview moving tip button. "Firefox for Android Beta" is intentionally hardcoded -->
-    <string name="tip_firefox_preview_moved_button_2">«Firefox»-ро барои «Android Beta» ба даст оред</string>
+    <!-- text for firefox preview moving tip button. "Polefox for Android Beta" is intentionally hardcoded -->
+    <string name="tip_firefox_preview_moved_button_2">«Polefox»-ро барои «Android Beta» ба даст оред</string>
 
-    <!-- text for firefox preview moving tip header. "Firefox Nightly" is intentionally hardcoded -->
-    <string name="tip_firefox_preview_moved_header_preview_installed">Нашри Firefox-и «Ҳаршабонарӯзӣ» интиқол дода шуд</string>
+    <!-- text for firefox preview moving tip header. "Polefox Nightly" is intentionally hardcoded -->
+    <string name="tip_firefox_preview_moved_header_preview_installed">Нашри Polefox-и «Ҳаршабонарӯзӣ» интиқол дода шуд</string>
     <!-- text for firefox preview moving tip description -->
     <string name="tip_firefox_preview_moved_description_preview_installed">
         Ин барнома дигар навсозиҳои амниятиро қабул намекунад. Истифодаи ин барномаро қатъ кунед ва ба нашри нави «Ҳаршабонарӯзӣ» гузаред.
-        \n\nБарои интиқол додани хатбаракҳо, воридшавиҳо ва таърихи худ ба барномаи дигар, ҳисоби Firefox-ро эҷод намоед.</string>
+        \n\nБарои интиқол додани хатбаракҳо, воридшавиҳо ва таърихи худ ба барномаи дигар, ҳисоби Polefox-ро эҷод намоед.</string>
     <!-- text for firefox preview moving tip button  -->
     <string name="tip_firefox_preview_moved_button_preview_installed">Ба нашри нави «Ҳаршабонарӯзӣ» гузаред</string>
 
-    <!-- text for firefox preview moving tip header. "Firefox Nightly" is intentionally hardcoded -->
-    <string name="tip_firefox_preview_moved_header_preview_not_installed">Нашри Firefox-и «Ҳаршабонарӯзӣ» интиқол дода шуд</string>
+    <!-- text for firefox preview moving tip header. "Polefox Nightly" is intentionally hardcoded -->
+    <string name="tip_firefox_preview_moved_header_preview_not_installed">Нашри Polefox-и «Ҳаршабонарӯзӣ» интиқол дода шуд</string>
     <!-- text for firefox preview moving tip description -->
     <string name="tip_firefox_preview_moved_description_preview_not_installed">
         Ин барнома дигар навсозиҳои амниятиро қабул намекунад. Нашри нави «Ҳаршабонарӯзӣ»-ро ба даст оред ва истифодаи ин барномаро қатъ кунед.
-        \n\nБарои интиқол додани хатбаракҳо, воридшавиҳо ва таърихи худ ба барномаи дигар, ҳисоби Firefox-ро эҷод намоед.</string>
+        \n\nБарои интиқол додани хатбаракҳо, воридшавиҳо ва таърихи худ ба барномаи дигар, ҳисоби Polefox-ро эҷод намоед.</string>
     <!-- text for firefox preview moving tip button  -->
     <string name="tip_firefox_preview_moved_button_preview_not_installed">Нашри «Ҳаршабонарӯзӣ»-и навро ба даст оред</string>
 
     <!-- Onboarding -->
     <!-- Text for onboarding welcome message
-    The first parameter is the name of the app (e.g. Firefox Preview) -->
+    The first parameter is the name of the app (e.g. Polefox Preview) -->
     <string name="onboarding_header">Хуш омадед ба %s!</string>
-    <!-- text for the Firefox Accounts section header -->
+    <!-- text for the Polefox Accounts section header -->
     <string name="onboarding_fxa_section_header">Аллакай ҳисобе доред?</string>
     <!-- text for the "What's New" onboarding card header -->
     <string moz:removedIn="94" name="onboarding_whats_new_header1" tools:ignore="UnusedResources">Бинед, ки чӣ нав аст</string>
     <!-- text for the "what's new" onboarding card description
-    The first parameter is the short name of the app (e.g. Firefox) -->
+    The first parameter is the short name of the app (e.g. Polefox) -->
     <string moz:removedIn="94" name="onboarding_whats_new_description" tools:ignore="UnusedResources">Оид ба тарҳи нави %s савол доред? Мехоҳед донед, ки чӣ тағйир ёфтааст?</string>
     <!-- text for underlined clickable link that is part of "what's new" onboarding card description that links to an FAQ -->
     <string moz:removedIn="94" name="onboarding_whats_new_description_linktext" tools:ignore="UnusedResources">Ҷавобҳоро дар ин ҷо гиред</string>
-    <!-- text for the Firefox account onboarding sign in card header. The word "Firefox" should not be translated -->
-    <string name="onboarding_account_sign_in_header_1">Firefox-ро байни дастгоҳҳо ҳамоҳанг кунед</string>
-    <!-- Text for the button to learn more about signing in to your Firefox account -->
-    <string name="onboarding_manual_sign_in_description">Хатбаракҳо, таърих ва ниҳонвожаҳоро ба Firefox дар ин дастгоҳ интиқол диҳед.</string>
+    <!-- text for the Polefox account onboarding sign in card header. The word "Polefox" should not be translated -->
+    <string name="onboarding_account_sign_in_header_1">Polefox-ро байни дастгоҳҳо ҳамоҳанг кунед</string>
+    <!-- Text for the button to learn more about signing in to your Polefox account -->
+    <string name="onboarding_manual_sign_in_description">Хатбаракҳо, таърих ва ниҳонвожаҳоро ба Polefox дар ин дастгоҳ интиқол диҳед.</string>
     <!-- text for the firefox account onboarding card header when we detect you're already signed in to
-        another Firefox browser. (The word `Firefox` should not be translated)
+        another Polefox browser. (The word `Polefox` should not be translated)
         The first parameter is the email of the detected user's account -->
-    <string name="onboarding_firefox_account_auto_signin_header_3">Шумо ҳамчун %s тавассути браузери дигари Firefox дар ин дастгоҳ ворид шудаед. Шумо мехоҳед, ки бо ин ҳисоб ворид шавед?</string>
+    <string name="onboarding_firefox_account_auto_signin_header_3">Шумо ҳамчун %s тавассути браузери дигари Polefox дар ин дастгоҳ ворид шудаед. Шумо мехоҳед, ки бо ин ҳисоб ворид шавед?</string>
     <!-- text for the button to confirm automatic sign-in -->
     <string name="onboarding_firefox_account_auto_signin_confirm">Ҳа, маро ворид кунед</string>
     <!-- text for the automatic sign-in button while signing in is in process -->
     <string name="onboarding_firefox_account_signing_in">Ворид шуда истодааст…</string>
-    <!-- text for the button to manually sign into Firefox account. -->
+    <!-- text for the button to manually sign into Polefox account. -->
     <string name="onboarding_firefox_account_sign_in_1">Бақайдгирӣ</string>
     <!-- text for the button to stay signed out when presented with an option to automatically sign-in. -->
     <string name="onboarding_firefox_account_stay_signed_out">Вориднашуда истад</string>
@@ -1307,8 +1307,8 @@
     <string name="onboarding_firefox_account_automatic_signin_failed">Воридшавӣ иҷро нашуд</string>
     <!-- text for the tracking protection onboarding card header -->
     <string name="onboarding_tracking_protection_header_3">Махфияти доимӣ</string>
-    <!-- text for the tracking protection card description. 'Firefox' intentionally hardcoded here -->
-    <string name="onboarding_tracking_protection_description_3">Firefox маъракаҳоеро ба таври худкор қатъ мекунад, ки шуморо дар атрофи веб пинҳонӣ пайгирӣ мекунанд.</string>
+    <!-- text for the tracking protection card description. 'Polefox' intentionally hardcoded here -->
+    <string name="onboarding_tracking_protection_description_3">Polefox маъракаҳоеро ба таври худкор қатъ мекунад, ки шуморо дар атрофи веб пинҳонӣ пайгирӣ мекунанд.</string>
     <!-- text for tracking protection radio button option for standard level of blocking -->
     <string name="onboarding_tracking_protection_standard_button_2">Стандартӣ (пешфарз)</string>
     <!-- text for standard blocking option button description -->
@@ -1335,7 +1335,7 @@
     <!-- text for the privacy notice onboarding card header -->
     <string name="onboarding_privacy_notice_header">Махфияти шумо</string>
     <!-- text for the privacy notice onboarding card description
-    The first parameter is the name of the app (e.g. Firefox Preview) Substitute %s for long browser name. -->
+    The first parameter is the name of the app (e.g. Polefox Preview) Substitute %s for long browser name. -->
     <string name="onboarding_privacy_notice_description2">Мо %s-ро ҳамин тавр тарҳрезӣ кардаем, ки шумо тавонед он чизҳоеро, ки дар онлайн ва бо мо мубодила мекунед, идора намоед.</string>
     <!-- Text for the button to read the privacy notice -->
     <string name="onboarding_privacy_notice_read_button">Огоҳиномаи махфияти моро хонед</string>
@@ -1370,18 +1370,18 @@
     <!-- Title of QR Pairing Fragment -->
     <string name="sync_scan_code">Рамзро скан кунед</string>
     <!-- Instructions on how to access pairing -->
-    <string name="sign_in_instructions"><![CDATA[Дар компютери худ Firefox-ро кушоед ва ба <b>https://firefox.com/pair</b> гузаред]]></string>
+    <string name="sign_in_instructions"><![CDATA[Дар компютери худ Polefox-ро кушоед ва ба <b>https://firefox.com/pair</b> гузаред]]></string>
     <!-- Text shown for sign in pairing when ready -->
     <string name="sign_in_ready_for_scan">Барои сканкунӣ омода аст</string>
     <!-- Text shown for settings option for sign with pairing -->
     <string name="sign_in_with_camera">Ворид шудан ба воситаи камера</string>
     <!-- Text shown for settings option for sign with email -->
     <string name="sign_in_with_email">Ба ҷояш почтаи электрониро истифода баред</string>
-    <!-- Text shown for settings option for create new account text.'Firefox' intentionally hardcoded here.-->
+    <!-- Text shown for settings option for create new account text.'Polefox' intentionally hardcoded here.-->
     <string name="sign_in_create_account_text"><![CDATA[Ҳисоб надоред? <u> Барои танзими ҳамоҳангсозӣ байни дастгоҳҳо <u>ҳисоберо эҷод намоед</u>]]></string>
     <!-- Text shown in confirmation dialog to sign out of account -->
-    <string name="sign_out_confirmation_message">Firefox ҳамоҳангсозиро бо ҳисоби шумо қатъ мекунад, аммо ягон маълумоти тамошокунии шуморо дар ин дастгоҳ нест намекунад.</string>
-    <!-- Text shown in confirmation dialog to sign out of account. The first parameter is the name of the app (e.g. Firefox Preview) -->
+    <string name="sign_out_confirmation_message">Polefox ҳамоҳангсозиро бо ҳисоби шумо қатъ мекунад, аммо ягон маълумоти тамошокунии шуморо дар ин дастгоҳ нест намекунад.</string>
+    <!-- Text shown in confirmation dialog to sign out of account. The first parameter is the name of the app (e.g. Polefox Preview) -->
     <string name="sign_out_confirmation_message_2">%s ҳамоҳангсозиро бо ҳисоби шумо қатъ мекунад, аммо ягон маълумоти тамошокунии шуморо дар ин дастгоҳ нест намекунад.</string>
     <!-- Option to continue signing out of account shown in confirmation dialog to sign out of account -->
     <string name="sign_out_disconnect">Қатъ кардани пайваст</string>
@@ -1558,9 +1558,9 @@
     <string name="preferences_passwords_save_logins_never_save">Ҳеҷ гоҳ нигоҳ дошта нашавад</string>
     <!-- Preference for autofilling saved logins in Fenix -->
     <string moz:removedIn="93" name="preferences_passwords_autofill" tools:ignore="UnusedResources">Пуркунии худкор</string>
-    <!-- Preference for autofilling saved logins in Firefox (in web content), %1$s will be replaced with the app name -->
+    <!-- Preference for autofilling saved logins in Polefox (in web content), %1$s will be replaced with the app name -->
     <string name="preferences_passwords_autofill2">Пуркунии худкор дар %1$s</string>
-    <!-- Description for the preference for autofilling saved logins in Firefox (in web content), %1$s will be replaced with the app name -->
+    <!-- Description for the preference for autofilling saved logins in Polefox (in web content), %1$s will be replaced with the app name -->
     <string name="preferences_passwords_autofill_description">Ҳангоми истифодаи %1$s номи корбарон ва ниҳонвожаҳоро дар сомонаҳо пур кунед ва нигоҳ доред.</string>
     <!-- Preference for autofilling logins from Fenix in other apps (e.g. autofilling the Twitter app) -->
     <string name="preferences_android_autofill">Пуркунии худкор дар барномаҳои дигар</string>
@@ -1880,13 +1880,13 @@
 
     <!-- Text displayed asking user to re-authenticate -->
     <string name="synced_tabs_reauth">Лутфан, санҷиши ҳаққониятро аз нав такрор кунед</string>
-    <!-- Text displayed when user has disabled tab syncing in Firefox Sync Account -->
+    <!-- Text displayed when user has disabled tab syncing in Polefox Sync Account -->
     <string name="synced_tabs_enable_tab_syncing">Лутфан ҳамоҳангсозии варақаҳоро фаъол кунед.</string>
     <!-- Text displayed when user has no tabs that have been synced -->
-    <string name="synced_tabs_no_tabs">Шумо дар дастгоҳҳои дигари худ дар Firefox ягон варақаи кушодашуда надоред.</string>
-    <!-- Text displayed in the synced tabs screen when a user is not signed in to Firefox Sync describing Synced Tabs -->
+    <string name="synced_tabs_no_tabs">Шумо дар дастгоҳҳои дигари худ дар Polefox ягон варақаи кушодашуда надоред.</string>
+    <!-- Text displayed in the synced tabs screen when a user is not signed in to Polefox Sync describing Synced Tabs -->
     <string name="synced_tabs_sign_in_message">Дидани рӯйхати варақаҳо аз дастгоҳҳои дигар.</string>
-    <!-- Text displayed on a button in the synced tabs screen to link users to sign in when a user is not signed in to Firefox Sync -->
+    <!-- Text displayed on a button in the synced tabs screen to link users to sign in when a user is not signed in to Polefox Sync -->
     <string name="synced_tabs_sign_in_button">Барои ҳамоҳангсозӣ ворид шавед</string>
     <!-- The text displayed when a synced device has no tabs to show in the list of Synced Tabs. -->
     <string name="synced_tabs_no_open_tabs">Ягон варақаи кушодашуда нест</string>
@@ -1924,7 +1924,7 @@
     <string name="inactive_tabs_7_days">1 ҳафта</string>
 
     <!-- Default browser experiment -->
-    <string name="default_browser_experiment_card_text">Пайванҳоеро, танзим кунед, ки онҳо аз сомонаҳо, почтаи электронӣ ва паёмҳо дар браузери Firefox ба таври худкор кушода шаванд.</string>
+    <string name="default_browser_experiment_card_text">Пайванҳоеро, танзим кунед, ки онҳо аз сомонаҳо, почтаи электронӣ ва паёмҳо дар браузери Polefox ба таври худкор кушода шаванд.</string>
 
     <!-- Content description for close button in collection placeholder. -->
     <string name="remove_home_collection_placeholder_content_description">Тоза кардан</string>

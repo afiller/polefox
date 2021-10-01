@@ -86,8 +86,8 @@
     <string name="cfr_neg_button_text">ਨਹੀਂ, ਧੰਨਵਾਦ</string>
 
     <!-- Open in App "contextual feature recommendation" (CFR) -->
-    <!-- Text for the info message. 'Firefox' intentionally hardcoded here.-->
-    <string name="open_in_app_cfr_info_message">ਤੁਸੀਂ ਐਪਾਂ ਵਿਚਲੇ ਲਿੰਕਾਂ ਨੂੰ ਆਪਣੇ-ਆਪ Firefox ਨਾਲ ਖੋਲ੍ਹਣ ਲਈ ਸੈੱਟ ਕਰੋ।</string>
+    <!-- Text for the info message. 'Polefox' intentionally hardcoded here.-->
+    <string name="open_in_app_cfr_info_message">ਤੁਸੀਂ ਐਪਾਂ ਵਿਚਲੇ ਲਿੰਕਾਂ ਨੂੰ ਆਪਣੇ-ਆਪ Polefox ਨਾਲ ਖੋਲ੍ਹਣ ਲਈ ਸੈੱਟ ਕਰੋ।</string>
     <!-- Text for the positive action button -->
     <string name="open_in_app_cfr_positive_button_text">ਸੈਟਿੰਗਾਂ ਉੱਤੇ ਜਾਓ</string>
     <!-- Text for the negative action button -->
@@ -247,8 +247,8 @@
     <string name="search_engine_suggestions_description">ਸਿਰਨਾਵਾਂ ਪੱਟੀ ਵਿੱਚੋਂ ਸਿ਼ੱਧਾ ਖੋਜੋ</string>
 
     <!-- Search Widget -->
-    <!-- Content description for searching with a widget. Firefox is intentionally hardcoded.-->
-    <string name="search_widget_content_description">ਨਵੀਂ Firefox ਟੈਬ ਖੋਲ੍ਹੋ</string>
+    <!-- Content description for searching with a widget. Polefox is intentionally hardcoded.-->
+    <string name="search_widget_content_description">ਨਵੀਂ Polefox ਟੈਬ ਖੋਲ੍ਹੋ</string>
     <!-- Text preview for smaller sized widgets -->
     <string name="search_widget_text_short">ਖੋਜੋ</string>
     <!-- Text preview for larger sized widgets -->
@@ -309,12 +309,12 @@
     <string name="preferences_add_private_browsing_shortcut">ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ ਸ਼ਾਰਟਕੱਟ ਜੋੜੋ</string>
     <!-- Preference for accessibility -->
     <string name="preferences_accessibility">ਅਸੈਸਬਿਲਟੀ</string>
-    <!-- Preference to override the Firefox Account server -->
+    <!-- Preference to override the Polefox Account server -->
     <string name="preferences_override_fxa_server">ਕਸਟਮ ਫਾਇਰਫਾਕਸ ਖਾਤਾ ਸਰਵਰ</string>
     <!-- Preference to override the Sync token server -->
     <string name="preferences_override_sync_tokenserver">ਪਸੰਦੀਦਾ ਸਿੰਕ ਸਰਵਰ</string>
     <!-- Toast shown after updating the FxA/Sync server override preferences -->
-    <string name="toast_override_fxa_sync_server_done">Firefox ਖਾਤਾ/ਸਿੰਕ ਸਰਵਰ ਸੋਧਿਆ ਗਿਆ ਹੈ। ਤਬਦੀਲੀਆਂ ਲਾਗੂ ਕਰਨ ਲਈ ਐਪਲੀਕੇਸ਼ਨ ਤੋਂ ਬਾਹਰ ਜਾਓ…</string>
+    <string name="toast_override_fxa_sync_server_done">Polefox ਖਾਤਾ/ਸਿੰਕ ਸਰਵਰ ਸੋਧਿਆ ਗਿਆ ਹੈ। ਤਬਦੀਲੀਆਂ ਲਾਗੂ ਕਰਨ ਲਈ ਐਪਲੀਕੇਸ਼ਨ ਤੋਂ ਬਾਹਰ ਜਾਓ…</string>
     <!-- Preference category for account information -->
     <string name="preferences_category_account">ਖਾਤਾ</string>
     <!-- Preference shown on banner to sign into account -->
@@ -482,7 +482,7 @@
     <string name="preferences_usage_data_description">ਸਾਨੂੰ %1$s ਵਧੀਆ ਬਣਾਉਣ ਲਈ ਆਪਣੇ ਬਰਾਊਜ਼ਰ ਦੀ ਕਾਰਗੁਜ਼ਾਰੀ, ਵਰਤੋ, ਹਾਰਡਵੇਅਰ ਅਤੇ ਪਸੰਦ ਬਦਲਣ ਦਾ ਡਾਟਾ ਸਾਂਝਾ ਕਰੋ</string>
     <!-- Preference switch for marketing data collection -->
     <string name="preferences_marketing_data">ਮਾਰਕੀਟਿੰਗ ਡਾਟਾ</string>
-    <!-- Preference description for marketing data collection, parameter is the app name (e.g. Firefox) -->
+    <!-- Preference description for marketing data collection, parameter is the app name (e.g. Polefox) -->
     <string name="preferences_marketing_data_description">%1$s ਵਿੱਚ ਕਿਹੜੇ ਫੀਚਰ ਤੁਸੀਂ ਵਰਤਦੇ ਹੋ, ਬਾਰੇ ਡਾਟੇ ਨੂੰ Leanplum, ਸਾਡੇ ਮਾਰਕੀਟਿੰਗ ਵੇਂਡਰ ਨਾਲ ਸਾਂਝਾ ਕਰਦਾ ਹੈ।</string>
     <!-- Preference description for marketing data collection -->
     <string name="preferences_marketing_data_description2">ਕੁਝ ਅਨੁਕੂਲ ਬਣਾ ਕੇ ਮੁੱਢਲਾ ਵਰਤੋਂ ਡਾਟਾ ਸਾਡੇ ਮੋਬਾਈਲ ਮਾਰਕੀਟਿੰਗ ਵੇਂਡਰ ਨਾਲ ਸਾਂਝਾ ਕਰਦਾ ਹੈ</string>
@@ -1221,24 +1221,24 @@
     <string name="deleting_browsing_data_in_progress">…ਬਰਾਊਜ਼ ਕਰਨ ਵਾਲਾ ਡਾਟਾ ਹਟਾਇਆ ਜਾ ਰਿਹਾ ਹੈ</string>
 
     <!-- Tips -->
-    <!-- text for firefox preview moving tip header "Firefox Preview" and "Firefox Nightly" are intentionally hardcoded -->
+    <!-- text for firefox preview moving tip header "Polefox Preview" and "Polefox Nightly" are intentionally hardcoded -->
     <string name="tip_firefox_preview_moved_header">ਫਾਇਰਫਾਕਸ ਪ੍ਰੀਵਿਊ ਹੁਣ ਫਾਇਰਫਾਕਸ ਨਾਈਟਲੀ ਹੈ</string>
     <!-- text for firefox preview moving tip description -->
-    <string name="tip_firefox_preview_moved_description">Firefox Nightly ਹਰ ਰਾਤ ਅੱਪਡੇਟ ਹੁੰਦੀ ਹੈ ਅਤੇ ਤਜਰਬੇ ਅਧੀਨ ਨਵੇਂ ਫ਼ੀਚਰ ਪ੍ਰਾਪਤ ਕਰਦੀ ਹੈ।
+    <string name="tip_firefox_preview_moved_description">Polefox Nightly ਹਰ ਰਾਤ ਅੱਪਡੇਟ ਹੁੰਦੀ ਹੈ ਅਤੇ ਤਜਰਬੇ ਅਧੀਨ ਨਵੇਂ ਫ਼ੀਚਰ ਪ੍ਰਾਪਤ ਕਰਦੀ ਹੈ।
         ਪਰ ਸਥਿਤ ਘੱਟ ਹੋ ਸਕਦੀ ਹੈ। ਵੱਧ ਸਥਿਰ ਤਜਰਬੇ ਵਾਸਤੇ ਸਾਡੇ ਬੀਟਾ ਬਰਾਊਜ਼ਰ ਨੂੰ ਡਾਊਨਲੋਡ ਕਰੋ।</string>
-    <!-- text for firefox preview moving tip button. "Firefox for Android Beta" is intentionally hardcoded -->
+    <!-- text for firefox preview moving tip button. "Polefox for Android Beta" is intentionally hardcoded -->
     <string name="tip_firefox_preview_moved_button_2">ਐਂਡਰਾਇਡ ਬੀਟਾ ਲਈ ਫਾਇਰਫਾਕਸ ਲਵੋ</string>
 
-    <!-- text for firefox preview moving tip header. "Firefox Nightly" is intentionally hardcoded -->
-    <string name="tip_firefox_preview_moved_header_preview_installed">Firefox Nightly ਬਦਲਿਆ</string>
+    <!-- text for firefox preview moving tip header. "Polefox Nightly" is intentionally hardcoded -->
+    <string name="tip_firefox_preview_moved_header_preview_installed">Polefox Nightly ਬਦਲਿਆ</string>
     <!-- text for firefox preview moving tip description -->
     <string name="tip_firefox_preview_moved_description_preview_installed">ਇਹ ਐਪ ਸੁਰੱਖਿਆ ਅੱਪਡੇਟ ਪ੍ਰਾਪਤ ਨਹੀਂ ਕਰੇਗੀ। ਇਹ ਐਪ ਨੂੰ ਵਰਤਣਾ ਛੱਡ ਕੇ ਨਵੇਂ ਨਾਈਟਲੀ (Nightly ਨੂੰ ਵਰਤੋਂ।
         \n\nਆਪਣੇ ਬੁੱਕਮਾਰਕਾਂ, ਲਾਗਇਨਾਂ ਅਤੇ ਅਤੀਤ ਨੂੰ ਹੋਰ ਐਪ ਉੱਤੇ ਤਬਦੀਲ ਕਰਨ ਲਈ ਫਾਇਰਫਾਕਸ ਖਾਤਾ ਬਣਾਓ।</string>
     <!-- text for firefox preview moving tip button  -->
     <string name="tip_firefox_preview_moved_button_preview_installed">ਨਵੇਂ ਨਾਈਟਲੀ ਲਈ ਬਦਲੋ</string>
 
-    <!-- text for firefox preview moving tip header. "Firefox Nightly" is intentionally hardcoded -->
-    <string name="tip_firefox_preview_moved_header_preview_not_installed">Firefox Nightly ਬਦਲਿਆ</string>
+    <!-- text for firefox preview moving tip header. "Polefox Nightly" is intentionally hardcoded -->
+    <string name="tip_firefox_preview_moved_header_preview_not_installed">Polefox Nightly ਬਦਲਿਆ</string>
 
     <!-- text for firefox preview moving tip description -->
     <string name="tip_firefox_preview_moved_description_preview_not_installed">ਇਹ ਐਪ ਸੁਰੱਖਿਆ ਅੱਪਡੇਟ ਪ੍ਰਾਪਤ ਨਹੀਂ ਕਰੇਗੀ। ਇਹ ਐਪ ਨੂੰ ਵਰਤਣਾ ਛੱਡ ਕੇ ਨਵੇਂ ਨਾਈਟਲੀ (Nightly ਨੂੰ ਵਰਤੋਂ।
@@ -1248,31 +1248,31 @@
 
     <!-- Onboarding -->
     <!-- Text for onboarding welcome message
-    The first parameter is the name of the app (e.g. Firefox Preview) -->
+    The first parameter is the name of the app (e.g. Polefox Preview) -->
     <string name="onboarding_header">%s ਵਲੋਂ ਜੀ ਆਇਆਂ ਨੂੰ!</string>
-    <!-- text for the Firefox Accounts section header -->
+    <!-- text for the Polefox Accounts section header -->
     <string name="onboarding_fxa_section_header">ਪਹਿਲਾਂ ਹੀ ਖਾਤਾ ਹੈ?</string>
     <!-- text for the "What's New" onboarding card header -->
     <string name="onboarding_whats_new_header1">ਵੇਖੋ ਕਿ ਨਵਾਂ ਕੀ ਹੈ</string>
     <!-- text for the "what's new" onboarding card description
-    The first parameter is the short name of the app (e.g. Firefox) -->
+    The first parameter is the short name of the app (e.g. Polefox) -->
     <string name="onboarding_whats_new_description">%s ਮੁੜ-ਡਿਜ਼ਾਈਨ ਬਾਰੇ ਕੋਈ ਸਵਾਲ ਹੈ? ਲੱਭ ਰਹੇ ਕੋ ਕਿ ਕੀ ਬਦਲਿਆ ਹੈ?</string>
     <!-- text for underlined clickable link that is part of "what's new" onboarding card description that links to an FAQ -->
     <string name="onboarding_whats_new_description_linktext">ਜਵਾਬ ਇੱਥੇ ਲਵੋ</string>
-    <!-- text for the Firefox account onboarding sign in card header. The word "Firefox" should not be translated -->
-    <string name="onboarding_account_sign_in_header_1">ਡਿਵਾਈਸਾਂ ਵਿਚਾਲੇ Firefox ਸਿੰਕ ਕਰੋ</string>
-    <!-- Text for the button to learn more about signing in to your Firefox account -->
-    <string name="onboarding_manual_sign_in_description">ਇਸ ਡਿਵਾਈਸ ਉੱਤੇ Firefox ਲਈ ਬੁੱਕਮਾਰਕ, ਅਤੀਤ ਅਤੇ ਪਾਸਵਰਡ ਲਿਆਓ।</string>
+    <!-- text for the Polefox account onboarding sign in card header. The word "Polefox" should not be translated -->
+    <string name="onboarding_account_sign_in_header_1">ਡਿਵਾਈਸਾਂ ਵਿਚਾਲੇ Polefox ਸਿੰਕ ਕਰੋ</string>
+    <!-- Text for the button to learn more about signing in to your Polefox account -->
+    <string name="onboarding_manual_sign_in_description">ਇਸ ਡਿਵਾਈਸ ਉੱਤੇ Polefox ਲਈ ਬੁੱਕਮਾਰਕ, ਅਤੀਤ ਅਤੇ ਪਾਸਵਰਡ ਲਿਆਓ।</string>
     <!-- text for the firefox account onboarding card header when we detect you're already signed in to
-        another Firefox browser. (The word `Firefox` should not be translated)
+        another Polefox browser. (The word `Polefox` should not be translated)
         The first parameter is the email of the detected user's account -->
-    <string name="onboarding_firefox_account_auto_signin_header_3">ਤੁਸੀਂ ਇਸ ਡਿਵਾਈਸ ਉੱਤੇ ਹੋਰ Firefox ਬਰਾਊਜ਼ਰ ਉੱਤੇ %s ਵਜੋਂ ਸਾਈਨ ਇਨ ਕਰੋਗੇ। ਕੀ ਤੁਸੀਂ ਇਸ ਖਾਤੇ ਨਾਲ ਹੀ ਸਾਈਨ ਇਨ ਕਰਨਾ ਚਾਹੋਗੇ?</string>
+    <string name="onboarding_firefox_account_auto_signin_header_3">ਤੁਸੀਂ ਇਸ ਡਿਵਾਈਸ ਉੱਤੇ ਹੋਰ Polefox ਬਰਾਊਜ਼ਰ ਉੱਤੇ %s ਵਜੋਂ ਸਾਈਨ ਇਨ ਕਰੋਗੇ। ਕੀ ਤੁਸੀਂ ਇਸ ਖਾਤੇ ਨਾਲ ਹੀ ਸਾਈਨ ਇਨ ਕਰਨਾ ਚਾਹੋਗੇ?</string>
     <!-- text for the button to confirm automatic sign-in -->
     <string name="onboarding_firefox_account_auto_signin_confirm">ਹਾਂ, ਮੈਨੂੰ ਸਾਈਨ ਇਨ ਕਰੋ</string>
     <!-- text for the automatic sign-in button while signing in is in process -->
     <string name="onboarding_firefox_account_signing_in">…ਸਾਇਨ ਇਨ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ</string>
 
-    <!-- text for the button to manually sign into Firefox account. -->
+    <!-- text for the button to manually sign into Polefox account. -->
     <string name="onboarding_firefox_account_sign_in_1">ਸਾਈਨ ਅੱਪ ਕਰੋ</string>
     <!-- text for the button to stay signed out when presented with an option to automatically sign-in. -->
     <string name="onboarding_firefox_account_stay_signed_out">ਸਾਈਨ ਆਉਟ ਰਹੋ</string>
@@ -1282,8 +1282,8 @@
     <string name="onboarding_firefox_account_automatic_signin_failed">ਸਾਈਨ-ਇਨ ਲਈ ਅਸਫ਼ਲ</string>
     <!-- text for the tracking protection onboarding card header -->
     <string name="onboarding_tracking_protection_header_3">ਪਰਦੇਦਾਰੀ ਹਮੇਸ਼ਾਂ ਚਾਲੂ</string>
-    <!-- text for the tracking protection card description. 'Firefox' intentionally hardcoded here -->
-    <string name="onboarding_tracking_protection_description_3">ਕੰਪਨੀਆਂ ਨੂੰ ਚੋਰੀ ਚੋਰੀ ਵੈੱਬ ਉੱਤੇ ਤੁਹਾਡਾ ਪਿੱਛਾ ਕਰਨ ਤੋਂ Firefox ਆਪਣੇ-ਆਪ ਹੀ ਰੋਕਦਾ ਹੈ।</string>
+    <!-- text for the tracking protection card description. 'Polefox' intentionally hardcoded here -->
+    <string name="onboarding_tracking_protection_description_3">ਕੰਪਨੀਆਂ ਨੂੰ ਚੋਰੀ ਚੋਰੀ ਵੈੱਬ ਉੱਤੇ ਤੁਹਾਡਾ ਪਿੱਛਾ ਕਰਨ ਤੋਂ Polefox ਆਪਣੇ-ਆਪ ਹੀ ਰੋਕਦਾ ਹੈ।</string>
     <!-- text for tracking protection radio button option for standard level of blocking -->
     <string name="onboarding_tracking_protection_standard_button_2">ਸਟੈਂਡਰਡ (ਮੂਲ)</string>
     <!-- text for standard blocking option button description -->
@@ -1310,7 +1310,7 @@
     <!-- text for the privacy notice onboarding card header -->
     <string name="onboarding_privacy_notice_header">ਤੁਹਾਡੀ ਪਰਦੇਦਾਰੀ</string>
     <!-- text for the privacy notice onboarding card description
-    The first parameter is the name of the app (e.g. Firefox Preview) Substitute %s for long browser name. -->
+    The first parameter is the name of the app (e.g. Polefox Preview) Substitute %s for long browser name. -->
     <string name="onboarding_privacy_notice_description2">ਅਸੀਂ %s ਨੂੰ ਇੰਝ ਬਣਾਇਆ ਹੈ ਕਿ ਤੁਹਾਡੇ ਕੋਲ ਪੂਰਾ ਕੰਟਰੋਲ ਹੋਵੇ ਕਿ ਤੁਸੀਂ
 ਆਨਲਾਈਨ ਕੀ ਸਾਂਝਾ ਕਰਦੇ ਹੋ ਅਤੇ ਸਾਡੇ ਨਾਲ ਕੀ ਸਾਂਝਾ ਕਰਦੇ ਹੋ।</string>
     <!-- Text for the button to read the privacy notice -->
@@ -1354,11 +1354,11 @@
     <string name="sign_in_with_camera">ਆਪਣੇ ਕੈਮਰੇ ਨਾਲ ਸਾਈਨ ਇਨ ਕਰੋ</string>
     <!-- Text shown for settings option for sign with email -->
     <string name="sign_in_with_email">ਇਸ ਦੀ ਬਜਾਏ ਈਮੇਲ ਵਰਤੋਂ</string>
-    <!-- Text shown for settings option for create new account text.'Firefox' intentionally hardcoded here.-->
-    <string name="sign_in_create_account_text"><![CDATA[ਖਾਤਾ ਨਹੀਂ ਹੈ?<u>ਡਿਵਾਈਸਾਂ ਵਿਚਾਲੇ</u> Firefox ਸਿੰਕ ਕਰਨ ਲਈ ਬਣਾਓ।]]></string>
+    <!-- Text shown for settings option for create new account text.'Polefox' intentionally hardcoded here.-->
+    <string name="sign_in_create_account_text"><![CDATA[ਖਾਤਾ ਨਹੀਂ ਹੈ?<u>ਡਿਵਾਈਸਾਂ ਵਿਚਾਲੇ</u> Polefox ਸਿੰਕ ਕਰਨ ਲਈ ਬਣਾਓ।]]></string>
     <!-- Text shown in confirmation dialog to sign out of account -->
     <string name="sign_out_confirmation_message">ਫਾਇਰਫਾਕਸ ਤੁਹਾਡੇ ਖਾਤੇ ਨਾਲ ਸਿੰਕ ਕਰਨਾ ਰੋਕੇਗਾ, ਪਰ ਇਸ ਡਿਵਾਈਸ ਤੋਂ ਕਿਸੇ ਵੀ ਤੁਹਾਡੇ ਬਰਾਊਜ਼ਰ ਡਾਟੇ ਨੂੰ ਨਹੀਂ ਹਟਾਏਗਾ।</string>
-    <!-- Text shown in confirmation dialog to sign out of account. The first parameter is the name of the app (e.g. Firefox Preview) -->
+    <!-- Text shown in confirmation dialog to sign out of account. The first parameter is the name of the app (e.g. Polefox Preview) -->
     <string name="sign_out_confirmation_message_2">%s ਤੁਹਾਡੇ ਖਾਤੇ ਨਾਲ ਸਿੰਕ ਕਰਨਾ ਰੋਕ ਦੇਵੇਗਾ, ਪਰ ਇਸ ਡਿਵਾਈਸ ਉੱਤੇ ਤੁਹਾਡੇ ਬਰਾਊਜ਼ ਕੀਤੇ ਡਾਟੇ ਨੂੰ ਹਟਾਏਗਾ ਨਹੀਂ।</string>
     <!-- Option to continue signing out of account shown in confirmation dialog to sign out of account -->
     <string name="sign_out_disconnect">ਡਿਸ-ਕਨੈਕਟ ਕਰੋ</string>
@@ -1530,9 +1530,9 @@
     <string name="preferences_passwords_save_logins_never_save">ਕਦੇ ਨਾ ਸੰਭਾਲੋ</string>
     <!-- Preference for autofilling saved logins in Fenix -->
     <string moz:removedIn="93" name="preferences_passwords_autofill" tools:ignore="UnusedResources">ਆਪੇ-ਭਰੋ</string>
-    <!-- Preference for autofilling saved logins in Firefox (in web content), %1$s will be replaced with the app name -->
+    <!-- Preference for autofilling saved logins in Polefox (in web content), %1$s will be replaced with the app name -->
     <string name="preferences_passwords_autofill2">%1$s ਵਿੱਚ ਆਪੇ ਭਰੋ</string>
-    <!-- Description for the preference for autofilling saved logins in Firefox (in web content), %1$s will be replaced with the app name -->
+    <!-- Description for the preference for autofilling saved logins in Polefox (in web content), %1$s will be replaced with the app name -->
     <string name="preferences_passwords_autofill_description">%1$s ਵਰਤਣ ਦੌਰਾਨ ਵੈਬਸਾਈਟਾਂ ਵਿੱਚ ਵਰਤੋੰਕਾਰ-ਨਾਂ ਅਤੇ ਪਾਸਵਰਡ ਭਰੋ ਤੇ ਸੰਭਾਲੋ|</string>
     <!-- Preference for autofilling logins from Fenix in other apps (e.g. autofilling the Twitter app) -->
     <string name="preferences_android_autofill">ਹੋਰ ਐਪਾਂ ਵਿੱਚ ਆਪੇ ਭਰੋ</string>
@@ -1823,13 +1823,13 @@
     <string name="synced_tabs_connect_another_device">ਹੋਰ ਡਿਵਾਈਸ ਨਾਲ ਕਨੈਕਟ ਕਰੋ।</string>
     <!-- Text displayed asking user to re-authenticate -->
     <string name="synced_tabs_reauth">ਮੁੜ-ਪ੍ਰਮਾਣਿਤ ਕਰੋ।</string>
-    <!-- Text displayed when user has disabled tab syncing in Firefox Sync Account -->
+    <!-- Text displayed when user has disabled tab syncing in Polefox Sync Account -->
     <string name="synced_tabs_enable_tab_syncing">ਟੈਬ ਨੂੰ ਸਿੰਕ ਕਰਨਾ ਸਮਰੱਥ ਕਰੋ।</string>
     <!-- Text displayed when user has no tabs that have been synced -->
     <string name="synced_tabs_no_tabs">ਤੁਹਾਡੇ ਹੋਰ ਡਿਵਾਈਸ ਉੱਤੇ ਫਾਇਰਫਾਕਸ ਵਿੱਚ ਕੋਈ ਵੀ ਖੋਲ੍ਹੀ ਹੋਈ ਟੈਬ ਨਹੀਂ ਹੈ।</string>
-    <!-- Text displayed in the synced tabs screen when a user is not signed in to Firefox Sync describing Synced Tabs -->
+    <!-- Text displayed in the synced tabs screen when a user is not signed in to Polefox Sync describing Synced Tabs -->
     <string name="synced_tabs_sign_in_message">ਤੁਹਾਡੇ ਹੋਰ ਡਿਵਾਈਸਾਂ ਤੋਂ ਟੈਬਾਂ ਦੀ ਸੂਚੀ ਵੇਖੋ।</string>
-    <!-- Text displayed on a button in the synced tabs screen to link users to sign in when a user is not signed in to Firefox Sync -->
+    <!-- Text displayed on a button in the synced tabs screen to link users to sign in when a user is not signed in to Polefox Sync -->
     <string name="synced_tabs_sign_in_button">ਸਿੰਕ ਕਰਨ ਲਈ ਸਾਈਨ ਇਨ ਕਰੋ</string>
 
     <!-- The text displayed when a synced device has no tabs to show in the list of Synced Tabs. -->
@@ -1864,7 +1864,7 @@
     <string name="inactive_tabs_7_days">1 ਹਫ਼ਤਾ</string>
 
     <!-- Default browser experiment -->
-    <string name="default_browser_experiment_card_text">ਵੈੱਬਸਾਈਟਾਂ, ਈਮੇਲਾਂ ਅਤੇ ਸੁਨੇਹਿਆਂ ਨੂੰ Firefox ਵਿੱਚ ਆਪਣੇ ਖੋਲ੍ਹਣ ਲਈ ਲਿੰਕ ਸੈੱਟ ਕਰੋ।</string>
+    <string name="default_browser_experiment_card_text">ਵੈੱਬਸਾਈਟਾਂ, ਈਮੇਲਾਂ ਅਤੇ ਸੁਨੇਹਿਆਂ ਨੂੰ Polefox ਵਿੱਚ ਆਪਣੇ ਖੋਲ੍ਹਣ ਲਈ ਲਿੰਕ ਸੈੱਟ ਕਰੋ।</string>
 
     <!-- Content description for close button in collection placeholder. -->
     <string name="remove_home_collection_placeholder_content_description">ਹਟਾਓ</string>

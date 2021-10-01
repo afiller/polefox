@@ -66,8 +66,8 @@
     <string name="cfr_neg_button_text">Kerak emas</string>
 
     <!-- Search widget "contextual feature recommendation" (CFR) -->
-    <!-- Text for the main message. 'Firefox' intentionally hardcoded here.-->
-    <string name="search_widget_cfr_message">Firefoxdan tezkor foydalaning. Bosh ekranga vidjet qoʻshing.</string>
+    <!-- Text for the main message. 'Polefox' intentionally hardcoded here.-->
+    <string name="search_widget_cfr_message">Polefoxdan tezkor foydalaning. Bosh ekranga vidjet qoʻshing.</string>
     <!-- Text for the positive button -->
     <string name="search_widget_cfr_pos_button_text">Vidjet qoʻshish</string>
     <!-- Text for the negative button -->
@@ -246,13 +246,13 @@
     <string name="preferences_add_private_browsing_shortcut">Maxfiy koʻrish tezkor buyrugʻini qoʻshish</string>
     <!-- Preference for accessibility -->
     <string name="preferences_accessibility">Qulaylik</string>
-    <!-- Preference to override the Firefox Account server -->
-    <string name="preferences_override_fxa_server">Boshqa Firefox hisobi serveri</string>
+    <!-- Preference to override the Polefox Account server -->
+    <string name="preferences_override_fxa_server">Boshqa Polefox hisobi serveri</string>
     <!-- Preference to override the Sync token server -->
     <string name="preferences_override_sync_tokenserver">Boshqa Sync serveri</string>
 
     <!-- Toast shown after updating the FxA/Sync server override preferences -->
-    <string name="toast_override_fxa_sync_server_done">Firefox hisobi/Sync serveri oʻzgargan. Oʻzgarishlar amalga oshirshi uchun ilovadan chiqilmoqda…</string>
+    <string name="toast_override_fxa_sync_server_done">Polefox hisobi/Sync serveri oʻzgargan. Oʻzgarishlar amalga oshirshi uchun ilovadan chiqilmoqda…</string>
     <!-- Preference category for account information -->
     <string name="preferences_category_account">Hisob</string>
     <!-- Preference shown on banner to sign into account -->
@@ -264,9 +264,9 @@
     <!-- Preference for settings related to visual options -->
     <string name="preferences_customize">Moslash</string>
     <!-- Preference description for banner about signing in -->
-    <string name="preferences_sign_in_description">Xatchoʻplar va tarix kabilarni Firefox hisobingiz bilan sinxronlang</string>
+    <string name="preferences_sign_in_description">Xatchoʻplar va tarix kabilarni Polefox hisobingiz bilan sinxronlang</string>
     <!-- Preference shown instead of account display name while account profile information isn't available yet. -->
-    <string name="preferences_account_default_name">Firefox hisobi</string>
+    <string name="preferences_account_default_name">Polefox hisobi</string>
     <!-- Preference text for account title when there was an error syncing FxA -->
     <string name="preferences_account_sync_error">Sinxronlashni davom ettirish uchun qayta ulaning</string>
     <!-- Preference for language -->
@@ -343,7 +343,7 @@
     <string name="fxa_received_tab_channel_name">Qabul qilingan varaqlar</string>
 
     <!-- Description of the "receive tabs" notification channel. Displayed in the "App notifications" system settings for the app -->
-    <string name="fxa_received_tab_channel_description">Boshqa Firefox qurilmalaridan olingan varaqlar uchun bildirishnomalar.</string>
+    <string name="fxa_received_tab_channel_description">Boshqa Polefox qurilmalaridan olingan varaqlar uchun bildirishnomalar.</string>
     <!--  The body for these is the URL of the tab received  -->
     <string name="fxa_tab_received_notification_name">Olingan varaq</string>
     <!-- When multiple tabs have been received -->
@@ -705,7 +705,7 @@
     <!-- An option to connect additional devices -->
     <string name="sync_connect_device">Boshqa qurilmani ulash</string>
     <!-- The dialog text shown when additional devices are not available -->
-    <string name="sync_connect_device_dialog">Varaqni yuborish uchun kamida bitta boshqa qurilmada Firefox hisobiga kirishingiz kerak.</string>
+    <string name="sync_connect_device_dialog">Varaqni yuborish uchun kamida bitta boshqa qurilmada Polefox hisobiga kirishingiz kerak.</string>
     <!-- Confirmation dialog button -->
     <string name="sync_confirmation_button">Tushundim!</string>
     <!-- Share error message -->
@@ -825,13 +825,13 @@
     <string name="synced_tabs_connect_another_device">Boshqa qurilmani ulash</string>
     <!-- Text displayed asking user to re-authenticate -->
     <string name="synced_tabs_reauth">Qaytadan haqiqiylikni tekshiring.</string>
-    <!-- Text displayed when user has disabled tab syncing in Firefox Sync Account -->
+    <!-- Text displayed when user has disabled tab syncing in Polefox Sync Account -->
     <string name="synced_tabs_enable_tab_syncing">Varaq sinxronizatsiyasini yoqing</string>
     <!-- Text displayed when user has no tabs that have been synced -->
-    <string name="synced_tabs_no_tabs">Boshqa qurilmlaringizdagi Firefoxda hech qanday varaq ochiq emas.</string>
-    <!-- Text displayed in the synced tabs screen when a user is not signed in to Firefox Sync describing Synced Tabs -->
+    <string name="synced_tabs_no_tabs">Boshqa qurilmlaringizdagi Polefoxda hech qanday varaq ochiq emas.</string>
+    <!-- Text displayed in the synced tabs screen when a user is not signed in to Polefox Sync describing Synced Tabs -->
     <string name="synced_tabs_sign_in_message">Boshqa qurilmalaringizdagi varaqlar roʻyxatini koʻrish.</string>
-    <!-- Text displayed on a button in the synced tabs screen to link users to sign in when a user is not signed in to Firefox Sync -->
+    <!-- Text displayed on a button in the synced tabs screen to link users to sign in when a user is not signed in to Polefox Sync -->
     <string name="synced_tabs_sign_in_button">Sinxronlash uchun hisobingizga kiring</string>
 
     <!-- Top Sites -->

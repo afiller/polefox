@@ -84,8 +84,8 @@
     <string name="cfr_neg_button_text">ไม่ ขอบคุณ</string>
 
     <!-- Open in App "contextual feature recommendation" (CFR) -->
-    <!-- Text for the info message. 'Firefox' intentionally hardcoded here.-->
-    <string name="open_in_app_cfr_info_message">คุณสามารถตั้งค่าให้ Firefox เปิดลิงก์ในแอปโดยอัตโนมัติได้</string>
+    <!-- Text for the info message. 'Polefox' intentionally hardcoded here.-->
+    <string name="open_in_app_cfr_info_message">คุณสามารถตั้งค่าให้ Polefox เปิดลิงก์ในแอปโดยอัตโนมัติได้</string>
     <!-- Text for the positive action button -->
     <string name="open_in_app_cfr_positive_button_text">ไปยังการตั้งค่า</string>
     <!-- Text for the negative action button -->
@@ -256,8 +256,8 @@
     <string name="search_engine_suggestions_description">ค้นหาโดยตรงจากแถบที่อยู่</string>
 
     <!-- Search Widget -->
-    <!-- Content description for searching with a widget. Firefox is intentionally hardcoded.-->
-    <string name="search_widget_content_description">เปิดแท็บ Firefox ใหม่</string>
+    <!-- Content description for searching with a widget. Polefox is intentionally hardcoded.-->
+    <string name="search_widget_content_description">เปิดแท็บ Polefox ใหม่</string>
     <!-- Text preview for smaller sized widgets -->
     <string name="search_widget_text_short">ค้นหา</string>
     <!-- Text preview for larger sized widgets -->
@@ -319,12 +319,12 @@
     <string name="preferences_add_private_browsing_shortcut">เพิ่มทางลัดการเรียกดูแบบส่วนตัว</string>
     <!-- Preference for accessibility -->
     <string name="preferences_accessibility">การช่วยเข้าถึง</string>
-    <!-- Preference to override the Firefox Account server -->
-    <string name="preferences_override_fxa_server">เซิร์ฟเวอร์บัญชี Firefox ที่กำหนดเอง</string>
+    <!-- Preference to override the Polefox Account server -->
+    <string name="preferences_override_fxa_server">เซิร์ฟเวอร์บัญชี Polefox ที่กำหนดเอง</string>
     <!-- Preference to override the Sync token server -->
     <string name="preferences_override_sync_tokenserver">เซิร์ฟเวอร์ Sync ที่กำหนดเอง</string>
     <!-- Toast shown after updating the FxA/Sync server override preferences -->
-    <string name="toast_override_fxa_sync_server_done">เปลี่ยนแปลงเซิร์ฟเวอร์บัญชี Firefox/Sync แล้ว กำลังออกจากแอปพลิเคชันเพื่อนำการเปลี่ยนแปลงไปใช้…</string>
+    <string name="toast_override_fxa_sync_server_done">เปลี่ยนแปลงเซิร์ฟเวอร์บัญชี Polefox/Sync แล้ว กำลังออกจากแอปพลิเคชันเพื่อนำการเปลี่ยนแปลงไปใช้…</string>
     <!-- Preference category for account information -->
     <string name="preferences_category_account">บัญชี</string>
     <!-- Preference shown on banner to sign into account -->
@@ -340,9 +340,9 @@
     <!-- Preference for settings related to visual options -->
     <string name="preferences_customize">ปรับแต่ง</string>
     <!-- Preference description for banner about signing in -->
-    <string name="preferences_sign_in_description">ซิงค์ที่คั่นหน้า, ประวัติ, และอื่น ๆ ด้วยบัญชี Firefox ของคุณ</string>
+    <string name="preferences_sign_in_description">ซิงค์ที่คั่นหน้า, ประวัติ, และอื่น ๆ ด้วยบัญชี Polefox ของคุณ</string>
     <!-- Preference shown instead of account display name while account profile information isn't available yet. -->
-    <string name="preferences_account_default_name">บัญชี Firefox</string>
+    <string name="preferences_account_default_name">บัญชี Polefox</string>
     <!-- Preference text for account title when there was an error syncing FxA -->
     <string name="preferences_account_sync_error">เชื่อมต่ออีกครั้งเพื่อทำการซิงค์ต่อ</string>
     <!-- Preference for language -->
@@ -464,7 +464,7 @@
     <!-- Name of the "receive tabs" notification channel. Displayed in the "App notifications" system settings for the app -->
     <string name="fxa_received_tab_channel_name">แท็บที่ได้รับ</string>
     <!-- Description of the "receive tabs" notification channel. Displayed in the "App notifications" system settings for the app -->
-    <string name="fxa_received_tab_channel_description">การแจ้งเตือนสำหรับแท็บที่ได้รับจากอุปกรณ์ Firefox อื่น ๆ</string>
+    <string name="fxa_received_tab_channel_description">การแจ้งเตือนสำหรับแท็บที่ได้รับจากอุปกรณ์ Polefox อื่น ๆ</string>
     <!--  The body for these is the URL of the tab received  -->
     <string name="fxa_tab_received_notification_name">แท็บที่ได้รับ</string>
     <!-- When multiple tabs have been received -->
@@ -499,7 +499,7 @@
     <string name="preferences_usage_data_description">แบ่งปันข้อมูลประสิทธิภาพ, การใช้งาน, ฮาร์ดแวร์ และการปรับแต่งเกี่ยวกับเบราว์เซอร์ของคุณกับ Mozilla เพื่อช่วยเราทำ %1$s ให้ดีขึ้น</string>
     <!-- Preference switch for marketing data collection -->
     <string name="preferences_marketing_data">ข้อมูลการตลาด</string>
-    <!-- Preference description for marketing data collection, parameter is the app name (e.g. Firefox) -->
+    <!-- Preference description for marketing data collection, parameter is the app name (e.g. Polefox) -->
     <string name="preferences_marketing_data_description">แบ่งปันข้อมูลเกี่ยวกับคุณลักษณะที่คุณใช้ใน %1$s กับ Leanplum ผู้ให้บริการการตลาดมือถือของเรา</string>
     <!-- Preference description for marketing data collection -->
     <string name="preferences_marketing_data_description2">แบ่งปันข้อมูลการใช้งานพื้นฐานกับ Adjust ผู้จำหน่ายการตลาดมือถือของเรา</string>
@@ -522,7 +522,7 @@
     <!-- Header of the Turn on Sync preference view -->
     <string name="preferences_sync">เปิด Sync</string>
     <!-- Preference for pairing -->
-    <string name="preferences_sync_pair">สแกนรหัสการจับคู่ใน Firefox เดสก์ท็อป</string>
+    <string name="preferences_sync_pair">สแกนรหัสการจับคู่ใน Polefox เดสก์ท็อป</string>
     <!-- Preference for account login -->
     <string name="preferences_sync_sign_in">ลงชื่อเข้า</string>
     <!-- Preference for reconnecting to FxA sync -->
@@ -661,8 +661,8 @@
     <string name="studies_remove">เอาออก</string>
     <!-- Title of the active section on the studies list -->
     <string name="studies_active">ใช้งานอยู่</string>
-    <!-- Description for studies, it indicates why Firefox use studies -->
-    <string name="studies_description">Firefox อาจติดตั้งและเรียกใช้การศึกษาเป็นครั้งคราว</string>
+    <!-- Description for studies, it indicates why Polefox use studies -->
+    <string name="studies_description">Polefox อาจติดตั้งและเรียกใช้การศึกษาเป็นครั้งคราว</string>
     <!-- Learn more link for studies, links to an article for more information about studies. -->
     <string name="studies_learn_more">เรียนรู้เพิ่มเติม</string>
     <!-- Dialog message shown after removing a study -->
@@ -1080,7 +1080,7 @@
     <!-- An option to connect additional devices -->
     <string name="sync_connect_device">เชื่อมต่ออุปกรณ์อื่น</string>
     <!-- The dialog text shown when additional devices are not available -->
-    <string name="sync_connect_device_dialog">เมื่อต้องการส่งแท็บ ให้ลงชื่อเข้าไปยัง Firefox บนอุปกรณ์อื่นอย่างน้อยหนึ่งเครื่อง</string>
+    <string name="sync_connect_device_dialog">เมื่อต้องการส่งแท็บ ให้ลงชื่อเข้าไปยัง Polefox บนอุปกรณ์อื่นอย่างน้อยหนึ่งเครื่อง</string>
     <!-- Confirmation dialog button -->
     <string name="sync_confirmation_button">เข้าใจแล้ว</string>
     <!-- Share error message -->
@@ -1239,57 +1239,57 @@
     <string name="deleting_browsing_data_in_progress">กำลังลบข้อมูลการเรียกดู…</string>
 
     <!-- Tips -->
-    <!-- text for firefox preview moving tip header "Firefox Preview" and "Firefox Nightly" are intentionally hardcoded -->
-    <string name="tip_firefox_preview_moved_header">ตอนนี้ Firefox Preview เป็น Firefox Nightly แล้ว</string>
+    <!-- text for firefox preview moving tip header "Polefox Preview" and "Polefox Nightly" are intentionally hardcoded -->
+    <string name="tip_firefox_preview_moved_header">ตอนนี้ Polefox Preview เป็น Polefox Nightly แล้ว</string>
     <!-- text for firefox preview moving tip description -->
-    <string name="tip_firefox_preview_moved_description">Firefox Nightly อัปเดตทุกคืนและมีลูกเล่นใหม่ ๆ ทุกคืน
+    <string name="tip_firefox_preview_moved_description">Polefox Nightly อัปเดตทุกคืนและมีลูกเล่นใหม่ ๆ ทุกคืน
         อย่างไรก็ตามความเสถียรอาจลดลง ดาวน์โหลดเบราว์เซอร์เบต้าของเราเพื่อประสบการณ์ที่เสถียรยิ่งขึ้น</string>
 
-    <!-- text for firefox preview moving tip button. "Firefox for Android Beta" is intentionally hardcoded -->
-    <string name="tip_firefox_preview_moved_button_2">รับ Firefox Beta สำหรับ Android</string>
+    <!-- text for firefox preview moving tip button. "Polefox for Android Beta" is intentionally hardcoded -->
+    <string name="tip_firefox_preview_moved_button_2">รับ Polefox Beta สำหรับ Android</string>
 
-    <!-- text for firefox preview moving tip header. "Firefox Nightly" is intentionally hardcoded -->
-    <string name="tip_firefox_preview_moved_header_preview_installed">Firefox Nightly ย้ายไปแล้ว</string>
+    <!-- text for firefox preview moving tip header. "Polefox Nightly" is intentionally hardcoded -->
+    <string name="tip_firefox_preview_moved_header_preview_installed">Polefox Nightly ย้ายไปแล้ว</string>
     <!-- text for firefox preview moving tip description -->
     <string name="tip_firefox_preview_moved_description_preview_installed">แอพนี้จะไม่ได้รับการอัปเดตด้านความปลอดภัยอีกต่อไป หยุดใช้งานแอปนี้และเปลี่ยนเป็น Nightly ตัวใหม่
-        \n\nหากต้องการโอนที่คั่นหน้า การเข้าสู่ระบบ และประวัติการท่องของตุณไปยังแอปอื่นให้สร้างบัญชี Firefox ขึ้นมา</string>
+        \n\nหากต้องการโอนที่คั่นหน้า การเข้าสู่ระบบ และประวัติการท่องของตุณไปยังแอปอื่นให้สร้างบัญชี Polefox ขึ้นมา</string>
     <!-- text for firefox preview moving tip button  -->
     <string name="tip_firefox_preview_moved_button_preview_installed">โยกไปใช้ Nightly ตัวใหม่</string>
 
-    <!-- text for firefox preview moving tip header. "Firefox Nightly" is intentionally hardcoded -->
-    <string name="tip_firefox_preview_moved_header_preview_not_installed">Firefox Nightly ได้ย้ายไปแล้ว</string>
+    <!-- text for firefox preview moving tip header. "Polefox Nightly" is intentionally hardcoded -->
+    <string name="tip_firefox_preview_moved_header_preview_not_installed">Polefox Nightly ได้ย้ายไปแล้ว</string>
     <!-- text for firefox preview moving tip description -->
     <string name="tip_firefox_preview_moved_description_preview_not_installed">แอพนี้จะไม่ได้รับการอัปเดตความปลอดภัยอีกต่อไป รับ Nightly ใหม่และหยุดใช้แอปนี้
-        \n\nหากต้องการโอนที่คั่นหน้า การเข้าสู่ระบบ และประวัติการท่องของคุณไปยังแอปอื่นให้สร้างบัญชี Firefox ขึ้นมา</string>
+        \n\nหากต้องการโอนที่คั่นหน้า การเข้าสู่ระบบ และประวัติการท่องของคุณไปยังแอปอื่นให้สร้างบัญชี Polefox ขึ้นมา</string>
     <!-- text for firefox preview moving tip button  -->
     <string name="tip_firefox_preview_moved_button_preview_not_installed">รับ Nightly ตัวใหม่</string>
 
     <!-- Onboarding -->
     <!-- Text for onboarding welcome message
-    The first parameter is the name of the app (e.g. Firefox Preview) -->
+    The first parameter is the name of the app (e.g. Polefox Preview) -->
     <string name="onboarding_header">ยินดีต้อนรับสู่ %s!</string>
-    <!-- text for the Firefox Accounts section header -->
+    <!-- text for the Polefox Accounts section header -->
     <string name="onboarding_fxa_section_header">มีบัญชีอยู่แล้ว?</string>
     <!-- text for the "What's New" onboarding card header -->
     <string moz:removedIn="94" name="onboarding_whats_new_header1" tools:ignore="UnusedResources">ดูว่ามีอะไรใหม่</string>
     <!-- text for the "what's new" onboarding card description
-    The first parameter is the short name of the app (e.g. Firefox) -->
+    The first parameter is the short name of the app (e.g. Polefox) -->
     <string moz:removedIn="94" name="onboarding_whats_new_description" tools:ignore="UnusedResources">มีคำถามเกี่ยวกับ %s ที่ออกแบบใหม่หรือไม่? ต้องการรู้ว่ามีอะไรเปลี่ยนไปบ้างหรือไม่?</string>
     <!-- text for underlined clickable link that is part of "what's new" onboarding card description that links to an FAQ -->
     <string moz:removedIn="94" name="onboarding_whats_new_description_linktext" tools:ignore="UnusedResources">พบคำตอบได้ที่นี่</string>
-    <!-- text for the Firefox account onboarding sign in card header. The word "Firefox" should not be translated -->
-    <string name="onboarding_account_sign_in_header_1">ซิงค์ Firefox ระหว่างอุปกรณ์</string>
-    <!-- Text for the button to learn more about signing in to your Firefox account -->
-    <string name="onboarding_manual_sign_in_description">นำที่คั่นหน้า ประวัติ และรหัสผ่านไปยัง Firefox บนอุปกรณ์นี้</string>
+    <!-- text for the Polefox account onboarding sign in card header. The word "Polefox" should not be translated -->
+    <string name="onboarding_account_sign_in_header_1">ซิงค์ Polefox ระหว่างอุปกรณ์</string>
+    <!-- Text for the button to learn more about signing in to your Polefox account -->
+    <string name="onboarding_manual_sign_in_description">นำที่คั่นหน้า ประวัติ และรหัสผ่านไปยัง Polefox บนอุปกรณ์นี้</string>
     <!-- text for the firefox account onboarding card header when we detect you're already signed in to
-        another Firefox browser. (The word `Firefox` should not be translated)
+        another Polefox browser. (The word `Polefox` should not be translated)
         The first parameter is the email of the detected user's account -->
-    <string name="onboarding_firefox_account_auto_signin_header_3">คุณลงชื่อเข้าในชื่อ %s บนเบราว์เซอร์ Firefox อื่นบนอุปกรณ์นี้ คุณต้องการลงชื่อเข้าด้วยบัญชีนี้หรือไม่?</string>
+    <string name="onboarding_firefox_account_auto_signin_header_3">คุณลงชื่อเข้าในชื่อ %s บนเบราว์เซอร์ Polefox อื่นบนอุปกรณ์นี้ คุณต้องการลงชื่อเข้าด้วยบัญชีนี้หรือไม่?</string>
     <!-- text for the button to confirm automatic sign-in -->
     <string name="onboarding_firefox_account_auto_signin_confirm">ใช่ ให้ฉันลงชื่อเข้า</string>
     <!-- text for the automatic sign-in button while signing in is in process -->
     <string name="onboarding_firefox_account_signing_in">กำลังลงชื่อเข้า…</string>
-    <!-- text for the button to manually sign into Firefox account. -->
+    <!-- text for the button to manually sign into Polefox account. -->
     <string name="onboarding_firefox_account_sign_in_1">ลงทะเบียน</string>
     <!-- text for the button to stay signed out when presented with an option to automatically sign-in. -->
     <string name="onboarding_firefox_account_stay_signed_out">ลงชื่อออกต่อไป</string>
@@ -1299,8 +1299,8 @@
     <string name="onboarding_firefox_account_automatic_signin_failed">ไม่สามารถเข้าสู่ระบบ</string>
     <!-- text for the tracking protection onboarding card header -->
     <string name="onboarding_tracking_protection_header_3">ความเป็นส่วนตัวตลอดเวลา</string>
-    <!-- text for the tracking protection card description. 'Firefox' intentionally hardcoded here -->
-    <string name="onboarding_tracking_protection_description_3">Firefox จะหยุดบริษัทต่าง ๆ ไม่ให้ติดตามคุณอย่างลับ ๆ ขณะที่คุณท่องเว็บโดยอัตโนมัติ</string>
+    <!-- text for the tracking protection card description. 'Polefox' intentionally hardcoded here -->
+    <string name="onboarding_tracking_protection_description_3">Polefox จะหยุดบริษัทต่าง ๆ ไม่ให้ติดตามคุณอย่างลับ ๆ ขณะที่คุณท่องเว็บโดยอัตโนมัติ</string>
     <!-- text for tracking protection radio button option for standard level of blocking -->
     <string name="onboarding_tracking_protection_standard_button_2">มาตรฐาน (ค่าเริ่มต้น)</string>
     <!-- text for standard blocking option button description -->
@@ -1327,7 +1327,7 @@
     <!-- text for the privacy notice onboarding card header -->
     <string name="onboarding_privacy_notice_header">ความเป็นส่วนตัวของคุณ</string>
     <!-- text for the privacy notice onboarding card description
-    The first parameter is the name of the app (e.g. Firefox Preview) Substitute %s for long browser name. -->
+    The first parameter is the name of the app (e.g. Polefox Preview) Substitute %s for long browser name. -->
     <string name="onboarding_privacy_notice_description2">เราได้ออกแบบ %s เพื่อให้คุณสามารถควบคุมสิ่งที่คุณต้องการแบ่งปันออนไลน์และสิ่งที่คุณต้องการแบ่งปันกับเราได้</string>
     <!-- Text for the button to read the privacy notice -->
     <string name="onboarding_privacy_notice_read_button">อ่านประกาศความเป็นส่วนตัวของเรา</string>
@@ -1364,18 +1364,18 @@
     <string name="sync_scan_code">สแกนรหัส</string>
 
     <!-- Instructions on how to access pairing -->
-    <string name="sign_in_instructions"><![CDATA[บนคอมพิวเตอร์ของคุณ ให้เปิด Firefox แล้วไปที่ <b>https://firefox.com/pair</b>]]></string>
+    <string name="sign_in_instructions"><![CDATA[บนคอมพิวเตอร์ของคุณ ให้เปิด Polefox แล้วไปที่ <b>https://firefox.com/pair</b>]]></string>
     <!-- Text shown for sign in pairing when ready -->
     <string name="sign_in_ready_for_scan">พร้อมที่จะสแกน</string>
     <!-- Text shown for settings option for sign with pairing -->
     <string name="sign_in_with_camera">ลงชื่อเข้าด้วยกล้องของคุณ</string>
     <!-- Text shown for settings option for sign with email -->
     <string name="sign_in_with_email">ใช้อีเมลแทน</string>
-    <!-- Text shown for settings option for create new account text.'Firefox' intentionally hardcoded here.-->
-    <string name="sign_in_create_account_text"><![CDATA[ไม่มีบัญชีใช่หรือไม่? <u>สร้างบัญชี</u>เพื่อซิงค์ Firefox ระหว่างอุปกรณ์]]></string>
+    <!-- Text shown for settings option for create new account text.'Polefox' intentionally hardcoded here.-->
+    <string name="sign_in_create_account_text"><![CDATA[ไม่มีบัญชีใช่หรือไม่? <u>สร้างบัญชี</u>เพื่อซิงค์ Polefox ระหว่างอุปกรณ์]]></string>
     <!-- Text shown in confirmation dialog to sign out of account -->
-    <string name="sign_out_confirmation_message">Firefox จะหยุดการซิงค์กับบัญชีของคุณ แต่จะไม่ลบข้อมูลการเรียกดูใด ๆ ของคุณบนอุปกรณ์นี้</string>
-    <!-- Text shown in confirmation dialog to sign out of account. The first parameter is the name of the app (e.g. Firefox Preview) -->
+    <string name="sign_out_confirmation_message">Polefox จะหยุดการซิงค์กับบัญชีของคุณ แต่จะไม่ลบข้อมูลการเรียกดูใด ๆ ของคุณบนอุปกรณ์นี้</string>
+    <!-- Text shown in confirmation dialog to sign out of account. The first parameter is the name of the app (e.g. Polefox Preview) -->
     <string name="sign_out_confirmation_message_2">%s จะหยุดซิงค์กับบัญชีของคุณ แต่จะไม่ลบข้อมูลการท่องเว็บใด ๆ ของคุณบนอุปกรณ์นี้</string>
     <!-- Option to continue signing out of account shown in confirmation dialog to sign out of account -->
     <string name="sign_out_disconnect">ตัดการเชื่อมต่อ</string>
@@ -1554,10 +1554,10 @@
     <!-- Preference for autofilling saved logins in Fenix -->
     <string moz:removedIn="93" name="preferences_passwords_autofill" tools:ignore="UnusedResources">การเติมอัตโนมัติ</string>
 
-    <!-- Preference for autofilling saved logins in Firefox (in web content), %1$s will be replaced with the app name -->
+    <!-- Preference for autofilling saved logins in Polefox (in web content), %1$s will be replaced with the app name -->
     <string name="preferences_passwords_autofill2">กรอกอัตโนมัติ %1$s</string>
 
-    <!-- Description for the preference for autofilling saved logins in Firefox (in web content), %1$s will be replaced with the app name -->
+    <!-- Description for the preference for autofilling saved logins in Polefox (in web content), %1$s will be replaced with the app name -->
     <string name="preferences_passwords_autofill_description">เติมและบันทึกชื่อผู้ใช้และรหัสผ่านในเว็บไซต์ต่าง ๆ ขณะที่ใช้ %1$s</string>
     <!-- Preference for autofilling logins from Fenix in other apps (e.g. autofilling the Twitter app) -->
     <string name="preferences_android_autofill">เติมข้อมูลในแอปอื่น ๆ อัตโนมัติ</string>
@@ -1874,13 +1874,13 @@
 
     <!-- Text displayed asking user to re-authenticate -->
     <string name="synced_tabs_reauth">โปรดรับรอบความถูกต้องอีกครั้ง</string>
-    <!-- Text displayed when user has disabled tab syncing in Firefox Sync Account -->
+    <!-- Text displayed when user has disabled tab syncing in Polefox Sync Account -->
     <string name="synced_tabs_enable_tab_syncing">โปรดเปิดใช้งานซิงค์แท็บ</string>
     <!-- Text displayed when user has no tabs that have been synced -->
-    <string name="synced_tabs_no_tabs">คุณไม่มีแท็บใด ๆ ที่เปิดอยู่ใน Firefox บนอุปกรณ์อื่น ๆ ของคุณ</string>
-    <!-- Text displayed in the synced tabs screen when a user is not signed in to Firefox Sync describing Synced Tabs -->
+    <string name="synced_tabs_no_tabs">คุณไม่มีแท็บใด ๆ ที่เปิดอยู่ใน Polefox บนอุปกรณ์อื่น ๆ ของคุณ</string>
+    <!-- Text displayed in the synced tabs screen when a user is not signed in to Polefox Sync describing Synced Tabs -->
     <string name="synced_tabs_sign_in_message">ดูรายการแท็บจากอุปกรณ์อื่น ๆ ของคุณ</string>
-    <!-- Text displayed on a button in the synced tabs screen to link users to sign in when a user is not signed in to Firefox Sync -->
+    <!-- Text displayed on a button in the synced tabs screen to link users to sign in when a user is not signed in to Polefox Sync -->
     <string name="synced_tabs_sign_in_button">ลงชื่อเข้าใช้เพื่อซิงค์</string>
 
     <!-- The text displayed when a synced device has no tabs to show in the list of Synced Tabs. -->
@@ -1919,7 +1919,7 @@
     <string name="inactive_tabs_7_days">1 สัปดาห์</string>
 
     <!-- Default browser experiment -->
-    <string name="default_browser_experiment_card_text">ตั้งลิงก์จากเว็บไซต์ อีเมล และข้อความให้เปิดโดยอัตโนมัติใน Firefox</string>
+    <string name="default_browser_experiment_card_text">ตั้งลิงก์จากเว็บไซต์ อีเมล และข้อความให้เปิดโดยอัตโนมัติใน Polefox</string>
 
     <!-- Content description for close button in collection placeholder. -->
     <string name="remove_home_collection_placeholder_content_description">ลบ</string>

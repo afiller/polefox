@@ -81,8 +81,8 @@
     <string name="cfr_neg_button_text">Не, дзякуй</string>
 
     <!-- Open in App "contextual feature recommendation" (CFR) -->
-    <!-- Text for the info message. 'Firefox' intentionally hardcoded here.-->
-    <string name="open_in_app_cfr_info_message">Вы можаце наладзіць Firefox аўтаматычна адкрываць спасылкі ў праграмах.</string>
+    <!-- Text for the info message. 'Polefox' intentionally hardcoded here.-->
+    <string name="open_in_app_cfr_info_message">Вы можаце наладзіць Polefox аўтаматычна адкрываць спасылкі ў праграмах.</string>
     <!-- Text for the positive action button -->
     <string name="open_in_app_cfr_positive_button_text">Перайсці ў налады</string>
     <!-- Text for the negative action button -->
@@ -239,8 +239,8 @@
     <string name="search_engine_suggestions_description">Пошук наўпрост з адраснага радка</string>
 
     <!-- Search Widget -->
-    <!-- Content description for searching with a widget. Firefox is intentionally hardcoded.-->
-    <string name="search_widget_content_description">Адкрыць новую картку Firefox</string>
+    <!-- Content description for searching with a widget. Polefox is intentionally hardcoded.-->
+    <string name="search_widget_content_description">Адкрыць новую картку Polefox</string>
     <!-- Text preview for smaller sized widgets -->
     <string name="search_widget_text_short">Пошук</string>
     <!-- Text preview for larger sized widgets -->
@@ -300,12 +300,12 @@
     <string name="preferences_add_private_browsing_shortcut">Дадаць ярлык прыватнага аглядання</string>
     <!-- Preference for accessibility -->
     <string name="preferences_accessibility">Даступнасць</string>
-    <!-- Preference to override the Firefox Account server -->
-    <string name="preferences_override_fxa_server">Уласны сервер уліковых запісаў Firefox</string>
+    <!-- Preference to override the Polefox Account server -->
+    <string name="preferences_override_fxa_server">Уласны сервер уліковых запісаў Polefox</string>
     <!-- Preference to override the Sync token server -->
     <string name="preferences_override_sync_tokenserver">Уласны сервер сінхранізацыі</string>
     <!-- Toast shown after updating the FxA/Sync server override preferences -->
-    <string name="toast_override_fxa_sync_server_done">Сервер уліковага запісу Firefox/сінхранізацыі зменены. Выхад з праграмы, каб прымяніць змены…</string>
+    <string name="toast_override_fxa_sync_server_done">Сервер уліковага запісу Polefox/сінхранізацыі зменены. Выхад з праграмы, каб прымяніць змены…</string>
     <!-- Preference category for account information -->
     <string name="preferences_category_account">Уліковы запіс</string>
     <!-- Preference shown on banner to sign into account -->
@@ -322,9 +322,9 @@
     <string name="preferences_customize">Уладкаванне</string>
 
     <!-- Preference description for banner about signing in -->
-    <string name="preferences_sign_in_description">Сінхранізуйце закладкі, гісторыю і шмат іншага з уліковым запісам Firefox</string>
+    <string name="preferences_sign_in_description">Сінхранізуйце закладкі, гісторыю і шмат іншага з уліковым запісам Polefox</string>
     <!-- Preference shown instead of account display name while account profile information isn't available yet. -->
-    <string name="preferences_account_default_name">Уліковы запіс Firefox</string>
+    <string name="preferences_account_default_name">Уліковы запіс Polefox</string>
     <!-- Preference text for account title when there was an error syncing FxA -->
     <string name="preferences_account_sync_error">Падключыцеся, каб аднавіць сінхранізацыю</string>
     <!-- Preference for language -->
@@ -434,7 +434,7 @@
     <!-- Name of the "receive tabs" notification channel. Displayed in the "App notifications" system settings for the app -->
     <string name="fxa_received_tab_channel_name">Атрыманыя карткі</string>
     <!-- Description of the "receive tabs" notification channel. Displayed in the "App notifications" system settings for the app -->
-    <string name="fxa_received_tab_channel_description">Апавяшчэнні для картак, атрыманых ад іншых прылад Firefox.</string>
+    <string name="fxa_received_tab_channel_description">Апавяшчэнні для картак, атрыманых ад іншых прылад Polefox.</string>
     <!--  The body for these is the URL of the tab received  -->
     <string name="fxa_tab_received_notification_name">Атрыманая картка</string>
     <!-- When multiple tabs have been received -->
@@ -468,7 +468,7 @@
     <string name="preferences_usage_data_description">Дзяліцца звесткамі пра прадукцыйнасць, выкарыстанне, апаратнае забеспячэнне і налады вашага браўзера з Mozilla, каб дапамагчы ўдасканаліць %1$s</string>
     <!-- Preference switch for marketing data collection -->
     <string name="preferences_marketing_data">Маркетынгавыя дадзеныя</string>
-    <!-- Preference description for marketing data collection, parameter is the app name (e.g. Firefox) -->
+    <!-- Preference description for marketing data collection, parameter is the app name (e.g. Polefox) -->
     <string name="preferences_marketing_data_description">Дзяліцца звесткамі пра магчымасці, якімі вы карыстаецеся ў %1$s, з нашым пастаўшчыком мабільнага маркетынгу Leanplum.</string>
     <!-- Preference description for marketing data collection -->
     <string name="preferences_marketing_data_description2">Дзеліцца асноўнымі звесткамі аб выкарыстанні з Adjust, нашым пастаўшчыком мабільнага маркетынгу</string>
@@ -493,7 +493,7 @@
     <!-- Header of the Turn on Sync preference view -->
     <string name="preferences_sync">Уключыць сінхранізацыю</string>
     <!-- Preference for pairing -->
-    <string name="preferences_sync_pair">Скануйце код спалучэння ў Firefox на камп’ютары</string>
+    <string name="preferences_sync_pair">Скануйце код спалучэння ў Polefox на камп’ютары</string>
     <!-- Preference for account login -->
     <string name="preferences_sync_sign_in">Увайсці</string>
 
@@ -630,8 +630,8 @@
     <string name="studies_remove">Выдаліць</string>
     <!-- Title of the active section on the studies list -->
     <string name="studies_active">Актыўнае</string>
-    <!-- Description for studies, it indicates why Firefox use studies -->
-    <string name="studies_description">Firefox можа ўсталёўваць і выконваць даследаванні час ад часу.</string>
+    <!-- Description for studies, it indicates why Polefox use studies -->
+    <string name="studies_description">Polefox можа ўсталёўваць і выконваць даследаванні час ад часу.</string>
     <!-- Learn more link for studies, links to an article for more information about studies. -->
     <string name="studies_learn_more">Даведацца больш</string>
     <!-- Dialog message shown after removing a study -->
@@ -1049,7 +1049,7 @@
     <!-- An option to connect additional devices -->
     <string name="sync_connect_device">Падключыць іншую прыладу</string>
     <!-- The dialog text shown when additional devices are not available -->
-    <string name="sync_connect_device_dialog">Каб адправіць картку, увайдзіце ў Firefox прынамсі на адной іншай прыладзе.</string>
+    <string name="sync_connect_device_dialog">Каб адправіць картку, увайдзіце ў Polefox прынамсі на адной іншай прыладзе.</string>
     <!-- Confirmation dialog button -->
     <string name="sync_confirmation_button">Зразумела</string>
 
@@ -1214,57 +1214,57 @@
     <string name="deleting_browsing_data_in_progress">Выдаленне дадзеныя аглядання…</string>
 
     <!-- Tips -->
-    <!-- text for firefox preview moving tip header "Firefox Preview" and "Firefox Nightly" are intentionally hardcoded -->
-    <string name="tip_firefox_preview_moved_header">Firefox Preview цяпер Firefox Nightly</string>
+    <!-- text for firefox preview moving tip header "Polefox Preview" and "Polefox Nightly" are intentionally hardcoded -->
+    <string name="tip_firefox_preview_moved_header">Polefox Preview цяпер Polefox Nightly</string>
     <!-- text for firefox preview moving tip description -->
-    <string name="tip_firefox_preview_moved_description">Firefox Nightly абнаўляецца кожную ноч і мае новыя эксперыментальныя магчымасці.
+    <string name="tip_firefox_preview_moved_description">Polefox Nightly абнаўляецца кожную ноч і мае новыя эксперыментальныя магчымасці.
         Аднак ён можа быць менш стабільным. Сцягніце нашу бэта-версію для больш стабільнай працы.</string>
-    <!-- text for firefox preview moving tip button. "Firefox for Android Beta" is intentionally hardcoded -->
-    <string name="tip_firefox_preview_moved_button_2">Атрымаць Firefox для Android Beta</string>
+    <!-- text for firefox preview moving tip button. "Polefox for Android Beta" is intentionally hardcoded -->
+    <string name="tip_firefox_preview_moved_button_2">Атрымаць Polefox для Android Beta</string>
 
-    <!-- text for firefox preview moving tip header. "Firefox Nightly" is intentionally hardcoded -->
-    <string name="tip_firefox_preview_moved_header_preview_installed">Firefox Nightly пераехаў</string>
+    <!-- text for firefox preview moving tip header. "Polefox Nightly" is intentionally hardcoded -->
+    <string name="tip_firefox_preview_moved_header_preview_installed">Polefox Nightly пераехаў</string>
 
     <!-- text for firefox preview moving tip description -->
     <string name="tip_firefox_preview_moved_description_preview_installed">Гэта праграма больш не будзе атрымліваць абнаўленні бяспекі. Перастаньце карыстацца гэтай праграмай і перайдзіце на новы Nightly.
-        \n\nКаб перанесці закладкі, лагіны і гісторыю ў другую праграму, стварыце ўліковы запіс Firefox.</string>
+        \n\nКаб перанесці закладкі, лагіны і гісторыю ў другую праграму, стварыце ўліковы запіс Polefox.</string>
     <!-- text for firefox preview moving tip button  -->
     <string name="tip_firefox_preview_moved_button_preview_installed">Пераключыцца на новы Nightly</string>
 
-    <!-- text for firefox preview moving tip header. "Firefox Nightly" is intentionally hardcoded -->
-    <string name="tip_firefox_preview_moved_header_preview_not_installed">Firefox Nightly пераехаў</string>
+    <!-- text for firefox preview moving tip header. "Polefox Nightly" is intentionally hardcoded -->
+    <string name="tip_firefox_preview_moved_header_preview_not_installed">Polefox Nightly пераехаў</string>
     <!-- text for firefox preview moving tip description -->
     <string name="tip_firefox_preview_moved_description_preview_not_installed">Гэта праграма больш не будзе атрымліваць абнаўленні бяспекі. Атрымайце новы Nightly і больш не карыстайцеся гэтай праграмай.
-        \n\nКаб перанесці закладкі, лагіны і гісторыю ў другую праграму, стварыце ўліковы запіс Firefox.</string>
+        \n\nКаб перанесці закладкі, лагіны і гісторыю ў другую праграму, стварыце ўліковы запіс Polefox.</string>
     <!-- text for firefox preview moving tip button  -->
     <string name="tip_firefox_preview_moved_button_preview_not_installed">Атрымаць новы Nightly</string>
 
     <!-- Onboarding -->
     <!-- Text for onboarding welcome message
-    The first parameter is the name of the app (e.g. Firefox Preview) -->
+    The first parameter is the name of the app (e.g. Polefox Preview) -->
     <string name="onboarding_header">Вітаем у %s!</string>
-    <!-- text for the Firefox Accounts section header -->
+    <!-- text for the Polefox Accounts section header -->
     <string name="onboarding_fxa_section_header">Ужо маеце ўліковы запіс?</string>
     <!-- text for the "What's New" onboarding card header -->
     <string name="onboarding_whats_new_header1">Паглядзіце, што новага</string>
     <!-- text for the "what's new" onboarding card description
-    The first parameter is the short name of the app (e.g. Firefox) -->
+    The first parameter is the short name of the app (e.g. Polefox) -->
     <string name="onboarding_whats_new_description">Маеце пытанні па абноўленым выглядзе %s? Хочаце ведаць, што змянілася?</string>
     <!-- text for underlined clickable link that is part of "what's new" onboarding card description that links to an FAQ -->
     <string name="onboarding_whats_new_description_linktext">Адказы тут</string>
-    <!-- text for the Firefox account onboarding sign in card header. The word "Firefox" should not be translated -->
-    <string name="onboarding_account_sign_in_header_1">Сінхранізуйце Firefox паміж прыладамі</string>
-    <!-- Text for the button to learn more about signing in to your Firefox account -->
-    <string name="onboarding_manual_sign_in_description">Перанясіце закладкі, гісторыю і паролі ў Firefox на гэтай прыладзе.</string>
+    <!-- text for the Polefox account onboarding sign in card header. The word "Polefox" should not be translated -->
+    <string name="onboarding_account_sign_in_header_1">Сінхранізуйце Polefox паміж прыладамі</string>
+    <!-- Text for the button to learn more about signing in to your Polefox account -->
+    <string name="onboarding_manual_sign_in_description">Перанясіце закладкі, гісторыю і паролі ў Polefox на гэтай прыладзе.</string>
     <!-- text for the firefox account onboarding card header when we detect you're already signed in to
-        another Firefox browser. (The word `Firefox` should not be translated)
+        another Polefox browser. (The word `Polefox` should not be translated)
         The first parameter is the email of the detected user's account -->
-    <string name="onboarding_firefox_account_auto_signin_header_3">Вы ўвайшлі як %s у іншым браўзеры Firefox на гэтай прыладзе. Ці хочаце аўтарызавацца з дапамогай гэтага ўліковага запісу?</string>
+    <string name="onboarding_firefox_account_auto_signin_header_3">Вы ўвайшлі як %s у іншым браўзеры Polefox на гэтай прыладзе. Ці хочаце аўтарызавацца з дапамогай гэтага ўліковага запісу?</string>
     <!-- text for the button to confirm automatic sign-in -->
     <string name="onboarding_firefox_account_auto_signin_confirm">Так, увайсці</string>
     <!-- text for the automatic sign-in button while signing in is in process -->
     <string name="onboarding_firefox_account_signing_in">Уваход…</string>
-    <!-- text for the button to manually sign into Firefox account. -->
+    <!-- text for the button to manually sign into Polefox account. -->
     <string name="onboarding_firefox_account_sign_in_1">Зарэгістравацца</string>
     <!-- text for the button to stay signed out when presented with an option to automatically sign-in. -->
     <string name="onboarding_firefox_account_stay_signed_out">Не ўваходзіць</string>
@@ -1274,8 +1274,8 @@
     <string name="onboarding_firefox_account_automatic_signin_failed">Няўдача ўваходу</string>
     <!-- text for the tracking protection onboarding card header -->
     <string name="onboarding_tracking_protection_header_3">Прыватнасць заўжды ўключана</string>
-    <!-- text for the tracking protection card description. 'Firefox' intentionally hardcoded here -->
-    <string name="onboarding_tracking_protection_description_3">Firefox аўтаматычна спыняе таемнае сачэнне кампаній за вамі ў Інтэрнэце.</string>
+    <!-- text for the tracking protection card description. 'Polefox' intentionally hardcoded here -->
+    <string name="onboarding_tracking_protection_description_3">Polefox аўтаматычна спыняе таемнае сачэнне кампаній за вамі ў Інтэрнэце.</string>
     <!-- text for tracking protection radio button option for standard level of blocking -->
     <string name="onboarding_tracking_protection_standard_button_2">Стандартная (прадвызначана)</string>
     <!-- text for standard blocking option button description -->
@@ -1302,7 +1302,7 @@
     <!-- text for the privacy notice onboarding card header -->
     <string name="onboarding_privacy_notice_header">Ваша прыватнасць</string>
     <!-- text for the privacy notice onboarding card description
-    The first parameter is the name of the app (e.g. Firefox Preview) Substitute %s for long browser name. -->
+    The first parameter is the name of the app (e.g. Polefox Preview) Substitute %s for long browser name. -->
     <string name="onboarding_privacy_notice_description2">Мы распрацавалі %s, каб даць вам кантроль над тым, чым дзяліцца ў Інтэрнэце, і тым, чым вы падзеліцеся з намі.</string>
     <!-- Text for the button to read the privacy notice -->
     <string name="onboarding_privacy_notice_read_button">Паведамленне аб прыватнасці</string>
@@ -1338,18 +1338,18 @@
     <!-- Title of QR Pairing Fragment -->
     <string name="sync_scan_code">Скануйце код</string>
     <!-- Instructions on how to access pairing -->
-    <string name="sign_in_instructions"><![CDATA[Адкрыйце Firefox на сваім камп’ютары і перайдзіце на <b>https://firefox.com/pair</b>]]></string>
+    <string name="sign_in_instructions"><![CDATA[Адкрыйце Polefox на сваім камп’ютары і перайдзіце на <b>https://firefox.com/pair</b>]]></string>
     <!-- Text shown for sign in pairing when ready -->
     <string name="sign_in_ready_for_scan">Гатовы да сканавання</string>
     <!-- Text shown for settings option for sign with pairing -->
     <string name="sign_in_with_camera">Увайдзіце з дапамогай камеры</string>
     <!-- Text shown for settings option for sign with email -->
     <string name="sign_in_with_email">Выкарыстаць электронную пошту</string>
-    <!-- Text shown for settings option for create new account text.'Firefox' intentionally hardcoded here.-->
-    <string name="sign_in_create_account_text"><![CDATA[Не маеце ўліковага запісу? <u> Стварыце яго, </u> каб сінхранізаваць Firefox паміж прыладамі.]]></string>
+    <!-- Text shown for settings option for create new account text.'Polefox' intentionally hardcoded here.-->
+    <string name="sign_in_create_account_text"><![CDATA[Не маеце ўліковага запісу? <u> Стварыце яго, </u> каб сінхранізаваць Polefox паміж прыладамі.]]></string>
     <!-- Text shown in confirmation dialog to sign out of account -->
-    <string name="sign_out_confirmation_message">Firefox спыніць сінхранізацыю з вашым уліковым запісам, але не выдаліць дадзеныя аглядання на гэтай прыладзе.</string>
-    <!-- Text shown in confirmation dialog to sign out of account. The first parameter is the name of the app (e.g. Firefox Preview) -->
+    <string name="sign_out_confirmation_message">Polefox спыніць сінхранізацыю з вашым уліковым запісам, але не выдаліць дадзеныя аглядання на гэтай прыладзе.</string>
+    <!-- Text shown in confirmation dialog to sign out of account. The first parameter is the name of the app (e.g. Polefox Preview) -->
     <string name="sign_out_confirmation_message_2">%s спыніць сінхранізацыю з вашым уліковым запісам, але не выдаліць дадзеныя аглядання на гэтай прыладзе.</string>
     <!-- Option to continue signing out of account shown in confirmation dialog to sign out of account -->
     <string name="sign_out_disconnect">Адлучыцца</string>
@@ -1826,13 +1826,13 @@
 
     <!-- Text displayed asking user to re-authenticate -->
     <string name="synced_tabs_reauth">Калі ласка, аўтарызуйцеся яшчэ раз.</string>
-    <!-- Text displayed when user has disabled tab syncing in Firefox Sync Account -->
+    <!-- Text displayed when user has disabled tab syncing in Polefox Sync Account -->
     <string name="synced_tabs_enable_tab_syncing">Калі ласка, уключыце сінхранізацыю картак.</string>
     <!-- Text displayed when user has no tabs that have been synced -->
-    <string name="synced_tabs_no_tabs">На іншых вашых прыладах у Firefox не адкрыта ніводнай карткі.</string>
-    <!-- Text displayed in the synced tabs screen when a user is not signed in to Firefox Sync describing Synced Tabs -->
+    <string name="synced_tabs_no_tabs">На іншых вашых прыладах у Polefox не адкрыта ніводнай карткі.</string>
+    <!-- Text displayed in the synced tabs screen when a user is not signed in to Polefox Sync describing Synced Tabs -->
     <string name="synced_tabs_sign_in_message">Пабачыць спіс картак з іншых прылад.</string>
-    <!-- Text displayed on a button in the synced tabs screen to link users to sign in when a user is not signed in to Firefox Sync -->
+    <!-- Text displayed on a button in the synced tabs screen to link users to sign in when a user is not signed in to Polefox Sync -->
     <string name="synced_tabs_sign_in_button">Увайсці ў сінхранізацыю</string>
 
     <!-- The text displayed when a synced device has no tabs to show in the list of Synced Tabs. -->
@@ -1868,7 +1868,7 @@
     <string name="inactive_tabs_7_days">1 тыдзень</string>
 
     <!-- Default browser experiment -->
-    <string name="default_browser_experiment_card_text">Наладзьце аўтаматычна адкрываць спасылкі з сайтаў, пошты і паведамленняў у Firefox.</string>
+    <string name="default_browser_experiment_card_text">Наладзьце аўтаматычна адкрываць спасылкі з сайтаў, пошты і паведамленняў у Polefox.</string>
 
     <!-- Content description for close button in collection placeholder. -->
     <string name="remove_home_collection_placeholder_content_description">Выдаліць</string>

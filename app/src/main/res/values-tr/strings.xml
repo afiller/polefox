@@ -85,8 +85,8 @@
     <string name="cfr_neg_button_text">Gerek yok</string>
 
     <!-- Open in App "contextual feature recommendation" (CFR) -->
-    <!-- Text for the info message. 'Firefox' intentionally hardcoded here.-->
-    <string name="open_in_app_cfr_info_message">Firefox’u, bağlantıları otomatik olarak uygulamalarda açacak şekilde ayarlayabilirsiniz.</string>
+    <!-- Text for the info message. 'Polefox' intentionally hardcoded here.-->
+    <string name="open_in_app_cfr_info_message">Polefox’u, bağlantıları otomatik olarak uygulamalarda açacak şekilde ayarlayabilirsiniz.</string>
     <!-- Text for the positive action button -->
     <string name="open_in_app_cfr_positive_button_text">Ayarlara git</string>
     <!-- Text for the negative action button -->
@@ -257,8 +257,8 @@
     <string name="search_engine_suggestions_description">Doğrudan adres çubuğundan arama yapın</string>
 
     <!-- Search Widget -->
-    <!-- Content description for searching with a widget. Firefox is intentionally hardcoded.-->
-    <string name="search_widget_content_description">Yeni Firefox sekmesi aç</string>
+    <!-- Content description for searching with a widget. Polefox is intentionally hardcoded.-->
+    <string name="search_widget_content_description">Yeni Polefox sekmesi aç</string>
     <!-- Text preview for smaller sized widgets -->
     <string name="search_widget_text_short">Ara</string>
     <!-- Text preview for larger sized widgets -->
@@ -319,12 +319,12 @@
     <string name="preferences_add_private_browsing_shortcut">Gizli gezinti kısayolu ekle</string>
     <!-- Preference for accessibility -->
     <string name="preferences_accessibility">Erişilebilirlik</string>
-    <!-- Preference to override the Firefox Account server -->
-    <string name="preferences_override_fxa_server">Özel Firefox Hesabı sunucusu</string>
+    <!-- Preference to override the Polefox Account server -->
+    <string name="preferences_override_fxa_server">Özel Polefox Hesabı sunucusu</string>
     <!-- Preference to override the Sync token server -->
     <string name="preferences_override_sync_tokenserver">Özel Sync sunucusu</string>
     <!-- Toast shown after updating the FxA/Sync server override preferences -->
-    <string name="toast_override_fxa_sync_server_done">Firefox Hesabı/Sync sunucusu değiştirildi. Değişiklikleri uygulamak için uygulamadan çıkılıyor…</string>
+    <string name="toast_override_fxa_sync_server_done">Polefox Hesabı/Sync sunucusu değiştirildi. Değişiklikleri uygulamak için uygulamadan çıkılıyor…</string>
     <!-- Preference category for account information -->
     <string name="preferences_category_account">Hesap</string>
     <!-- Preference shown on banner to sign into account -->
@@ -340,9 +340,9 @@
     <!-- Preference for settings related to visual options -->
     <string name="preferences_customize">Özelleştir</string>
     <!-- Preference description for banner about signing in -->
-    <string name="preferences_sign_in_description">Firefox hesabınızı kullanarak yer imlerini, geçmişi ve daha fazlasını eşitleyin</string>
+    <string name="preferences_sign_in_description">Polefox hesabınızı kullanarak yer imlerini, geçmişi ve daha fazlasını eşitleyin</string>
     <!-- Preference shown instead of account display name while account profile information isn't available yet. -->
-    <string name="preferences_account_default_name">Firefox Hesabı</string>
+    <string name="preferences_account_default_name">Polefox Hesabı</string>
     <!-- Preference text for account title when there was an error syncing FxA -->
     <string name="preferences_account_sync_error">Eşitlemeye devam etmek için yeniden bağlayın</string>
     <!-- Preference for language -->
@@ -465,7 +465,7 @@
     <!-- Name of the "receive tabs" notification channel. Displayed in the "App notifications" system settings for the app -->
     <string name="fxa_received_tab_channel_name">Alınan sekmeler</string>
     <!-- Description of the "receive tabs" notification channel. Displayed in the "App notifications" system settings for the app -->
-    <string name="fxa_received_tab_channel_description">Diğer Firefox cihazlarından gelen sekmelerin bildirimleri.</string>
+    <string name="fxa_received_tab_channel_description">Diğer Polefox cihazlarından gelen sekmelerin bildirimleri.</string>
     <!--  The body for these is the URL of the tab received  -->
     <string name="fxa_tab_received_notification_name">Sekme alındı</string>
     <!-- When multiple tabs have been received -->
@@ -500,7 +500,7 @@
     <string name="preferences_usage_data_description">%1$s tarayıcınızı iyileştirmemize yardımcı olmak için tarayıcınızla ilgili performans, kullanım, donanım ve özelleştirme verilerini Mozilla ile paylaşır</string>
     <!-- Preference switch for marketing data collection -->
     <string name="preferences_marketing_data">Pazarlama verileri</string>
-    <!-- Preference description for marketing data collection, parameter is the app name (e.g. Firefox) -->
+    <!-- Preference description for marketing data collection, parameter is the app name (e.g. Polefox) -->
     <string name="preferences_marketing_data_description">Kullandığınız %1$s özellikleri ile ilgili verileri mobil pazarlama hizmeti aldığımız Leanplum ile paylaşır.</string>
     <!-- Preference description for marketing data collection -->
     <string name="preferences_marketing_data_description2">Temel kullanım verilerini mobil pazarlama iş ortağımız Adjust ile paylaşır</string>
@@ -523,7 +523,7 @@
     <!-- Header of the Turn on Sync preference view -->
     <string name="preferences_sync">Sync’i etkinleştir</string>
     <!-- Preference for pairing -->
-    <string name="preferences_sync_pair">Masaüstü Firefox’taki eşleştirme kodunu tarayın</string>
+    <string name="preferences_sync_pair">Masaüstü Polefox’taki eşleştirme kodunu tarayın</string>
     <!-- Preference for account login -->
     <string name="preferences_sync_sign_in">Oturum aç</string>
     <!-- Preference for reconnecting to FxA sync -->
@@ -663,8 +663,8 @@
     <string name="studies_remove">Kaldır</string>
     <!-- Title of the active section on the studies list -->
     <string name="studies_active">Etkin</string>
-    <!-- Description for studies, it indicates why Firefox use studies -->
-    <string name="studies_description">Firefox zaman zaman araştırmalar yükleyip çalıştırabilir.</string>
+    <!-- Description for studies, it indicates why Polefox use studies -->
+    <string name="studies_description">Polefox zaman zaman araştırmalar yükleyip çalıştırabilir.</string>
     <!-- Learn more link for studies, links to an article for more information about studies. -->
     <string name="studies_learn_more">Daha fazla bilgi al</string>
 
@@ -1083,7 +1083,7 @@
     <!-- An option to connect additional devices -->
     <string name="sync_connect_device">Başka bir cihaz bağla</string>
     <!-- The dialog text shown when additional devices are not available -->
-    <string name="sync_connect_device_dialog">Sekme göndermek için başka bir cihazdan daha Firefox’a giriş yapmalısınız.</string>
+    <string name="sync_connect_device_dialog">Sekme göndermek için başka bir cihazdan daha Polefox’a giriş yapmalısınız.</string>
     <!-- Confirmation dialog button -->
     <string name="sync_confirmation_button">Anladım</string>
 
@@ -1243,57 +1243,57 @@
     <string name="deleting_browsing_data_in_progress">Göz atma verileri siliniyor…</string>
 
     <!-- Tips -->
-    <!-- text for firefox preview moving tip header "Firefox Preview" and "Firefox Nightly" are intentionally hardcoded -->
-    <string name="tip_firefox_preview_moved_header">Firefox Preview artık Firefox Nightly oldu</string>
+    <!-- text for firefox preview moving tip header "Polefox Preview" and "Polefox Nightly" are intentionally hardcoded -->
+    <string name="tip_firefox_preview_moved_header">Polefox Preview artık Polefox Nightly oldu</string>
     <!-- text for firefox preview moving tip description -->
-    <string name="tip_firefox_preview_moved_description">Firefox Nightly her gece güncellenir ve yeni deneysel özelliklere sahiptir.
+    <string name="tip_firefox_preview_moved_description">Polefox Nightly her gece güncellenir ve yeni deneysel özelliklere sahiptir.
         Bununla birlikte, daha kararsız olabilir. Daha kararlı bir deneyim için beta tarayıcımızı indirebilirsiniz.</string>
 
-    <!-- text for firefox preview moving tip button. "Firefox for Android Beta" is intentionally hardcoded -->
-    <string name="tip_firefox_preview_moved_button_2">Android için Firefox Beta’yı indirin</string>
+    <!-- text for firefox preview moving tip button. "Polefox for Android Beta" is intentionally hardcoded -->
+    <string name="tip_firefox_preview_moved_button_2">Android için Polefox Beta’yı indirin</string>
 
-    <!-- text for firefox preview moving tip header. "Firefox Nightly" is intentionally hardcoded -->
-    <string name="tip_firefox_preview_moved_header_preview_installed">Firefox Nightly taşındı</string>
+    <!-- text for firefox preview moving tip header. "Polefox Nightly" is intentionally hardcoded -->
+    <string name="tip_firefox_preview_moved_header_preview_installed">Polefox Nightly taşındı</string>
     <!-- text for firefox preview moving tip description -->
     <string name="tip_firefox_preview_moved_description_preview_installed">Bu uygulama artık güvenlik güncellemeleri almayacak. Lütfen bu uygulamayı kullanmayı bırakın ve yeni Nightly’ye geçin.
-\n\n Yer imlerinizi, hesaplarınızı ve geçmişinizi başka bir uygulamaya aktarmak için Firefox hesabı açabilirsiniz.</string>
+\n\n Yer imlerinizi, hesaplarınızı ve geçmişinizi başka bir uygulamaya aktarmak için Polefox hesabı açabilirsiniz.</string>
     <!-- text for firefox preview moving tip button  -->
     <string name="tip_firefox_preview_moved_button_preview_installed">Yeni Nightly’ye geçin</string>
 
-    <!-- text for firefox preview moving tip header. "Firefox Nightly" is intentionally hardcoded -->
-    <string name="tip_firefox_preview_moved_header_preview_not_installed">Firefox Nightly taşındı</string>
+    <!-- text for firefox preview moving tip header. "Polefox Nightly" is intentionally hardcoded -->
+    <string name="tip_firefox_preview_moved_header_preview_not_installed">Polefox Nightly taşındı</string>
     <!-- text for firefox preview moving tip description -->
     <string name="tip_firefox_preview_moved_description_preview_not_installed">Bu uygulama artık güvenlik güncellemeleri almayacak. Yeni Nightly’yi indirin ve artık bu uygulamayı kullanmayı bırakın.
-\n\n Yer imlerinizi, hesaplarınızı ve geçmişinizi başka bir uygulamaya aktarmak için Firefox hesabı açabilirsiniz.</string>
+\n\n Yer imlerinizi, hesaplarınızı ve geçmişinizi başka bir uygulamaya aktarmak için Polefox hesabı açabilirsiniz.</string>
     <!-- text for firefox preview moving tip button  -->
     <string name="tip_firefox_preview_moved_button_preview_not_installed">Yeni Nightly’yi indirin</string>
 
     <!-- Onboarding -->
     <!-- Text for onboarding welcome message
-    The first parameter is the name of the app (e.g. Firefox Preview) -->
+    The first parameter is the name of the app (e.g. Polefox Preview) -->
     <string name="onboarding_header">%s’a hoş geldiniz!</string>
-    <!-- text for the Firefox Accounts section header -->
+    <!-- text for the Polefox Accounts section header -->
     <string name="onboarding_fxa_section_header">Zaten hesabınız var mı?</string>
     <!-- text for the "What's New" onboarding card header -->
     <string moz:removedIn="94" name="onboarding_whats_new_header1" tools:ignore="UnusedResources">Yenilikleri görün</string>
     <!-- text for the "what's new" onboarding card description
-    The first parameter is the short name of the app (e.g. Firefox) -->
+    The first parameter is the short name of the app (e.g. Polefox) -->
     <string moz:removedIn="94" name="onboarding_whats_new_description" tools:ignore="UnusedResources">Yeni %s hakkında sorularınız mı var? Nelerin değiştiğini bilmek ister misiniz?</string>
     <!-- text for underlined clickable link that is part of "what's new" onboarding card description that links to an FAQ -->
     <string moz:removedIn="94" name="onboarding_whats_new_description_linktext" tools:ignore="UnusedResources">Yanıtlar burada</string>
-    <!-- text for the Firefox account onboarding sign in card header. The word "Firefox" should not be translated -->
-    <string name="onboarding_account_sign_in_header_1">Firefox’u cihazlar arasında eşitleyin</string>
-    <!-- Text for the button to learn more about signing in to your Firefox account -->
-    <string name="onboarding_manual_sign_in_description">Yer imlerinizi, geçmişinizi ve parolalarınızı bu cihazdaki Firefox’a taşıyın.</string>
+    <!-- text for the Polefox account onboarding sign in card header. The word "Polefox" should not be translated -->
+    <string name="onboarding_account_sign_in_header_1">Polefox’u cihazlar arasında eşitleyin</string>
+    <!-- Text for the button to learn more about signing in to your Polefox account -->
+    <string name="onboarding_manual_sign_in_description">Yer imlerinizi, geçmişinizi ve parolalarınızı bu cihazdaki Polefox’a taşıyın.</string>
     <!-- text for the firefox account onboarding card header when we detect you're already signed in to
-        another Firefox browser. (The word `Firefox` should not be translated)
+        another Polefox browser. (The word `Polefox` should not be translated)
         The first parameter is the email of the detected user's account -->
-    <string name="onboarding_firefox_account_auto_signin_header_3">Bu cihazdaki başka bir Firefox tarayıcısına %s olarak giriş yapmışsınız. Bu hesapla giriş yapmak ister misiniz?</string>
+    <string name="onboarding_firefox_account_auto_signin_header_3">Bu cihazdaki başka bir Polefox tarayıcısına %s olarak giriş yapmışsınız. Bu hesapla giriş yapmak ister misiniz?</string>
     <!-- text for the button to confirm automatic sign-in -->
     <string name="onboarding_firefox_account_auto_signin_confirm">Evet, giriş yap</string>
     <!-- text for the automatic sign-in button while signing in is in process -->
     <string name="onboarding_firefox_account_signing_in">Giriş yapılıyor…</string>
-    <!-- text for the button to manually sign into Firefox account. -->
+    <!-- text for the button to manually sign into Polefox account. -->
     <string name="onboarding_firefox_account_sign_in_1">Kaydol</string>
     <!-- text for the button to stay signed out when presented with an option to automatically sign-in. -->
     <string name="onboarding_firefox_account_stay_signed_out">Giriş yapma</string>
@@ -1303,8 +1303,8 @@
     <string name="onboarding_firefox_account_automatic_signin_failed">Giriş başarısız</string>
     <!-- text for the tracking protection onboarding card header -->
     <string name="onboarding_tracking_protection_header_3">Sürekli gizlilik</string>
-    <!-- text for the tracking protection card description. 'Firefox' intentionally hardcoded here -->
-    <string name="onboarding_tracking_protection_description_3">Firefox, şirketlerin sizi web’de gizlice takip etmesini otomatik olarak engeller.</string>
+    <!-- text for the tracking protection card description. 'Polefox' intentionally hardcoded here -->
+    <string name="onboarding_tracking_protection_description_3">Polefox, şirketlerin sizi web’de gizlice takip etmesini otomatik olarak engeller.</string>
     <!-- text for tracking protection radio button option for standard level of blocking -->
     <string name="onboarding_tracking_protection_standard_button_2">Standart (varsayılan)</string>
     <!-- text for standard blocking option button description -->
@@ -1331,7 +1331,7 @@
     <!-- text for the privacy notice onboarding card header -->
     <string name="onboarding_privacy_notice_header">Gizliliğiniz</string>
     <!-- text for the privacy notice onboarding card description
-    The first parameter is the name of the app (e.g. Firefox Preview) Substitute %s for long browser name. -->
+    The first parameter is the name of the app (e.g. Polefox Preview) Substitute %s for long browser name. -->
     <string name="onboarding_privacy_notice_description2">%s, internette başkalarıyla ve bizimle neleri paylaşacağınızın kontrolünü size verir.</string>
     <!-- Text for the button to read the privacy notice -->
     <string name="onboarding_privacy_notice_read_button">Gizlilik bildirimimizi okuyun</string>
@@ -1367,18 +1367,18 @@
     <!-- Title of QR Pairing Fragment -->
     <string name="sync_scan_code">Kodu tarayın</string>
     <!-- Instructions on how to access pairing -->
-    <string name="sign_in_instructions"><![CDATA[Bilgisayarınızda Firefox’u açıp <b>https://firefox.com/pair</b> adresine gidin]]></string>
+    <string name="sign_in_instructions"><![CDATA[Bilgisayarınızda Polefox’u açıp <b>https://firefox.com/pair</b> adresine gidin]]></string>
     <!-- Text shown for sign in pairing when ready -->
     <string name="sign_in_ready_for_scan">Taramaya hazırım</string>
     <!-- Text shown for settings option for sign with pairing -->
     <string name="sign_in_with_camera">Kameranızla giriş yapın</string>
     <!-- Text shown for settings option for sign with email -->
     <string name="sign_in_with_email">E-posta ile giriş yap</string>
-    <!-- Text shown for settings option for create new account text.'Firefox' intentionally hardcoded here.-->
-    <string name="sign_in_create_account_text"><![CDATA[Hesabınız yok mu? Firefox’u cihazlar arasında eşitlemek için <u>hesap açın</u>.]]></string>
+    <!-- Text shown for settings option for create new account text.'Polefox' intentionally hardcoded here.-->
+    <string name="sign_in_create_account_text"><![CDATA[Hesabınız yok mu? Polefox’u cihazlar arasında eşitlemek için <u>hesap açın</u>.]]></string>
     <!-- Text shown in confirmation dialog to sign out of account -->
-    <string name="sign_out_confirmation_message">Firefox artık hesabınızla eşitlenmeyecek ama bu cihazdaki gezinti geçmişiniz silinmeyecek.</string>
-    <!-- Text shown in confirmation dialog to sign out of account. The first parameter is the name of the app (e.g. Firefox Preview) -->
+    <string name="sign_out_confirmation_message">Polefox artık hesabınızla eşitlenmeyecek ama bu cihazdaki gezinti geçmişiniz silinmeyecek.</string>
+    <!-- Text shown in confirmation dialog to sign out of account. The first parameter is the name of the app (e.g. Polefox Preview) -->
     <string name="sign_out_confirmation_message_2">%s artık hesabınızla eşitlenmeyecek ama bu cihazdaki gezinti geçmişiniz silinmeyecek.</string>
     <!-- Option to continue signing out of account shown in confirmation dialog to sign out of account -->
     <string name="sign_out_disconnect">Bağlatıyı kes</string>
@@ -1556,9 +1556,9 @@
     <string name="preferences_passwords_save_logins_never_save">Asla kaydetme</string>
     <!-- Preference for autofilling saved logins in Fenix -->
     <string moz:removedIn="93" name="preferences_passwords_autofill" tools:ignore="UnusedResources">Otomatik doldur</string>
-    <!-- Preference for autofilling saved logins in Firefox (in web content), %1$s will be replaced with the app name -->
+    <!-- Preference for autofilling saved logins in Polefox (in web content), %1$s will be replaced with the app name -->
     <string name="preferences_passwords_autofill2">%1$s ile otomatik doldur</string>
-    <!-- Description for the preference for autofilling saved logins in Firefox (in web content), %1$s will be replaced with the app name -->
+    <!-- Description for the preference for autofilling saved logins in Polefox (in web content), %1$s will be replaced with the app name -->
     <string name="preferences_passwords_autofill_description">%1$s kullanırken web sitelerinde kullanıcı adı ve parolalar doldurulup kaydedilsin.</string>
     <!-- Preference for autofilling logins from Fenix in other apps (e.g. autofilling the Twitter app) -->
     <string name="preferences_android_autofill">Diğer uygulamalarda otomatik doldur</string>
@@ -1877,13 +1877,13 @@
     <string name="synced_tabs_connect_another_device">Başka bir cihaz bağlayın.</string>
     <!-- Text displayed asking user to re-authenticate -->
     <string name="synced_tabs_reauth">Lütfen yeniden giriş yapın.</string>
-    <!-- Text displayed when user has disabled tab syncing in Firefox Sync Account -->
+    <!-- Text displayed when user has disabled tab syncing in Polefox Sync Account -->
     <string name="synced_tabs_enable_tab_syncing">Lütfen sekme eşitlemeyi etkinleştirin.</string>
     <!-- Text displayed when user has no tabs that have been synced -->
-    <string name="synced_tabs_no_tabs">Diğer cihazlarınızdaki Firefox’larda hiç açık sekme yok.</string>
-    <!-- Text displayed in the synced tabs screen when a user is not signed in to Firefox Sync describing Synced Tabs -->
+    <string name="synced_tabs_no_tabs">Diğer cihazlarınızdaki Polefox’larda hiç açık sekme yok.</string>
+    <!-- Text displayed in the synced tabs screen when a user is not signed in to Polefox Sync describing Synced Tabs -->
     <string name="synced_tabs_sign_in_message">Diğer cihazlarınızdaki sekmelerin listesini görün.</string>
-    <!-- Text displayed on a button in the synced tabs screen to link users to sign in when a user is not signed in to Firefox Sync -->
+    <!-- Text displayed on a button in the synced tabs screen to link users to sign in when a user is not signed in to Polefox Sync -->
     <string name="synced_tabs_sign_in_button">Sync’e giriş yapın</string>
 
     <!-- The text displayed when a synced device has no tabs to show in the list of Synced Tabs. -->
@@ -1922,7 +1922,7 @@
     <string name="inactive_tabs_7_days">1 hafta</string>
 
     <!-- Default browser experiment -->
-    <string name="default_browser_experiment_card_text">Web siteleri, e-postalar ve mesajlardaki bağlantılar otomatik olarak Firefox’ta açılsın.</string>
+    <string name="default_browser_experiment_card_text">Web siteleri, e-postalar ve mesajlardaki bağlantılar otomatik olarak Polefox’ta açılsın.</string>
 
     <!-- Content description for close button in collection placeholder. -->
     <string name="remove_home_collection_placeholder_content_description">Kaldır</string>

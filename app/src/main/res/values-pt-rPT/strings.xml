@@ -84,8 +84,8 @@
     <string name="cfr_neg_button_text">Não, obrigado</string>
 
     <!-- Open in App "contextual feature recommendation" (CFR) -->
-    <!-- Text for the info message. 'Firefox' intentionally hardcoded here.-->
-    <string name="open_in_app_cfr_info_message">Pode configurar o Firefox para abrir automaticamente as ligações nas aplicações.</string>
+    <!-- Text for the info message. 'Polefox' intentionally hardcoded here.-->
+    <string name="open_in_app_cfr_info_message">Pode configurar o Polefox para abrir automaticamente as ligações nas aplicações.</string>
     <!-- Text for the positive action button -->
     <string name="open_in_app_cfr_positive_button_text">Ir para as definições</string>
     <!-- Text for the negative action button -->
@@ -246,8 +246,8 @@
     <string name="search_engine_suggestions_description">Pesquisar diretamente a partir da barra de endereço</string>
 
     <!-- Search Widget -->
-    <!-- Content description for searching with a widget. Firefox is intentionally hardcoded.-->
-    <string name="search_widget_content_description">Abrir um novo separador Firefox</string>
+    <!-- Content description for searching with a widget. Polefox is intentionally hardcoded.-->
+    <string name="search_widget_content_description">Abrir um novo separador Polefox</string>
     <!-- Text preview for smaller sized widgets -->
     <string name="search_widget_text_short">Pesquisar</string>
     <!-- Text preview for larger sized widgets -->
@@ -308,12 +308,12 @@
     <string name="preferences_add_private_browsing_shortcut">Adicionar um atalho de navegação privada</string>
     <!-- Preference for accessibility -->
     <string name="preferences_accessibility">Acessibilidade</string>
-    <!-- Preference to override the Firefox Account server -->
-    <string name="preferences_override_fxa_server">Servidor personalizado de conta Firefox</string>
+    <!-- Preference to override the Polefox Account server -->
+    <string name="preferences_override_fxa_server">Servidor personalizado de conta Polefox</string>
     <!-- Preference to override the Sync token server -->
     <string name="preferences_override_sync_tokenserver">Servidor de sincronização personalizado</string>
     <!-- Toast shown after updating the FxA/Sync server override preferences -->
-    <string name="toast_override_fxa_sync_server_done">Servidor de conta Firefox / Sincronização modificado. A sair da aplicação para aplicar alterações…</string>
+    <string name="toast_override_fxa_sync_server_done">Servidor de conta Polefox / Sincronização modificado. A sair da aplicação para aplicar alterações…</string>
     <!-- Preference category for account information -->
     <string name="preferences_category_account">Conta</string>
     <!-- Preference shown on banner to sign into account -->
@@ -329,9 +329,9 @@
     <!-- Preference for settings related to visual options -->
     <string name="preferences_customize">Personalizar</string>
     <!-- Preference description for banner about signing in -->
-    <string name="preferences_sign_in_description">Sincronize marcadores, histórico e muito mais com a sua conta do Firefox</string>
+    <string name="preferences_sign_in_description">Sincronize marcadores, histórico e muito mais com a sua conta do Polefox</string>
     <!-- Preference shown instead of account display name while account profile information isn't available yet. -->
-    <string name="preferences_account_default_name">Conta Firefox</string>
+    <string name="preferences_account_default_name">Conta Polefox</string>
     <!-- Preference text for account title when there was an error syncing FxA -->
     <string name="preferences_account_sync_error">Restabeleça a ligação para retomar a sincronização</string>
     <!-- Preference for language -->
@@ -441,7 +441,7 @@
     <!-- Name of the "receive tabs" notification channel. Displayed in the "App notifications" system settings for the app -->
     <string name="fxa_received_tab_channel_name">Separadores recebidos</string>
     <!-- Description of the "receive tabs" notification channel. Displayed in the "App notifications" system settings for the app -->
-    <string name="fxa_received_tab_channel_description">Notificações para separadores recebidos de outros dispositivos Firefox.</string>
+    <string name="fxa_received_tab_channel_description">Notificações para separadores recebidos de outros dispositivos Polefox.</string>
     <!--  The body for these is the URL of the tab received  -->
     <string name="fxa_tab_received_notification_name">Separador recebido</string>
     <!-- When multiple tabs have been received -->
@@ -476,7 +476,7 @@
     <!-- Preference switch for marketing data collection -->
     <string name="preferences_marketing_data">Dados de marketing</string>
 
-    <!-- Preference description for marketing data collection, parameter is the app name (e.g. Firefox) -->
+    <!-- Preference description for marketing data collection, parameter is the app name (e.g. Polefox) -->
     <string name="preferences_marketing_data_description">Partilha dados sobre as funcionalidades que utiliza no %1$s com o Leanplum, o nosso parceiro de marketing para dispositivos móveis.</string>
     <!-- Preference description for marketing data collection -->
     <string name="preferences_marketing_data_description2">Partilha informação básica de utilização com a Adjust, o nosso fornecedor de marketing para dispositivos móveis</string>
@@ -500,7 +500,7 @@
     <string name="preferences_sync">Ligar Sync</string>
 
     <!-- Preference for pairing -->
-    <string name="preferences_sync_pair">Digitalizar código de emparelhamento no Firefox do computador</string>
+    <string name="preferences_sync_pair">Digitalizar código de emparelhamento no Polefox do computador</string>
 
     <!-- Preference for account login -->
     <string name="preferences_sync_sign_in">Iniciar sessão</string>
@@ -635,8 +635,8 @@
     <string name="studies_remove">Remover</string>
     <!-- Title of the active section on the studies list -->
     <string name="studies_active">Ativo</string>
-    <!-- Description for studies, it indicates why Firefox use studies -->
-    <string name="studies_description">O Firefox pode instalar e executar estudos esporadicamente.</string>
+    <!-- Description for studies, it indicates why Polefox use studies -->
+    <string name="studies_description">O Polefox pode instalar e executar estudos esporadicamente.</string>
     <!-- Learn more link for studies, links to an article for more information about studies. -->
     <string name="studies_learn_more">Saber mais</string>
     <!-- Dialog message shown after removing a study -->
@@ -1050,7 +1050,7 @@
     <!-- An option to connect additional devices -->
     <string name="sync_connect_device">Ligar outro dispositivo</string>
     <!-- The dialog text shown when additional devices are not available -->
-    <string name="sync_connect_device_dialog">Para enviar um separador, inicie sessão no Firefox em, pelo menos, um outro dispositivo.</string>
+    <string name="sync_connect_device_dialog">Para enviar um separador, inicie sessão no Polefox em, pelo menos, um outro dispositivo.</string>
     <!-- Confirmation dialog button -->
     <string name="sync_confirmation_button">Compreendi</string>
     <!-- Share error message -->
@@ -1209,58 +1209,58 @@
     <string name="deleting_browsing_data_in_progress">A eliminar dados de navegação…</string>
 
     <!-- Tips -->
-    <!-- text for firefox preview moving tip header "Firefox Preview" and "Firefox Nightly" are intentionally hardcoded -->
-    <string name="tip_firefox_preview_moved_header">Firefox Preview agora é Firefox Nightly</string>
+    <!-- text for firefox preview moving tip header "Polefox Preview" and "Polefox Nightly" are intentionally hardcoded -->
+    <string name="tip_firefox_preview_moved_header">Polefox Preview agora é Polefox Nightly</string>
     <!-- text for firefox preview moving tip description -->
-    <string name="tip_firefox_preview_moved_description">Firefox Nightly é atualizado todas as noites e possui novas funcionalidades experimentais.
+    <string name="tip_firefox_preview_moved_description">Polefox Nightly é atualizado todas as noites e possui novas funcionalidades experimentais.
         No entanto, pode ser menos estável. Transfira o nosso navegador beta para uma experiência mais estável.</string>
 
-    <!-- text for firefox preview moving tip button. "Firefox for Android Beta" is intentionally hardcoded -->
-    <string name="tip_firefox_preview_moved_button_2">Obter o Firefox Beta para o Android</string>
+    <!-- text for firefox preview moving tip button. "Polefox for Android Beta" is intentionally hardcoded -->
+    <string name="tip_firefox_preview_moved_button_2">Obter o Polefox Beta para o Android</string>
 
-    <!-- text for firefox preview moving tip header. "Firefox Nightly" is intentionally hardcoded -->
-    <string name="tip_firefox_preview_moved_header_preview_installed">Firefox Nightly mudou-se</string>
+    <!-- text for firefox preview moving tip header. "Polefox Nightly" is intentionally hardcoded -->
+    <string name="tip_firefox_preview_moved_header_preview_installed">Polefox Nightly mudou-se</string>
     <!-- text for firefox preview moving tip description -->
     <string name="tip_firefox_preview_moved_description_preview_installed">Esta aplicação não irá receber mais atualizações de segurança. Não utilize mais esta aplicação e mude para o novo Nightly.
-        \n\nPara transferir os seus marcadores, credenciais, e histórico para outra aplicação, crie uma conta Firefox.</string>
+        \n\nPara transferir os seus marcadores, credenciais, e histórico para outra aplicação, crie uma conta Polefox.</string>
     <!-- text for firefox preview moving tip button  -->
     <string name="tip_firefox_preview_moved_button_preview_installed">Mudar para o novo Nightly</string>
 
-    <!-- text for firefox preview moving tip header. "Firefox Nightly" is intentionally hardcoded -->
-    <string name="tip_firefox_preview_moved_header_preview_not_installed">Firefox Nightly mudou-se</string>
+    <!-- text for firefox preview moving tip header. "Polefox Nightly" is intentionally hardcoded -->
+    <string name="tip_firefox_preview_moved_header_preview_not_installed">Polefox Nightly mudou-se</string>
     <!-- text for firefox preview moving tip description -->
     <string name="tip_firefox_preview_moved_description_preview_not_installed">Esta aplicação não irá receber mais atualizações de segurança. Obtenha o novo Nightly e não utilize mais esta aplicação.
-        \n\nPara transferir os seus marcadores, credenciais, e histórico para outra aplicação, crie uma conta Firefox.</string>
+        \n\nPara transferir os seus marcadores, credenciais, e histórico para outra aplicação, crie uma conta Polefox.</string>
     <!-- text for firefox preview moving tip button  -->
     <string name="tip_firefox_preview_moved_button_preview_not_installed">Obter o novo Nightly</string>
 
     <!-- Onboarding -->
     <!-- Text for onboarding welcome message
-    The first parameter is the name of the app (e.g. Firefox Preview) -->
+    The first parameter is the name of the app (e.g. Polefox Preview) -->
     <string name="onboarding_header">Bem-vindo ao %s!</string>
-    <!-- text for the Firefox Accounts section header -->
+    <!-- text for the Polefox Accounts section header -->
     <string name="onboarding_fxa_section_header">Já tem uma conta?</string>
     <!-- text for the "What's New" onboarding card header -->
     <string name="onboarding_whats_new_header1">Veja as novidades</string>
     <!-- text for the "what's new" onboarding card description
-    The first parameter is the short name of the app (e.g. Firefox) -->
+    The first parameter is the short name of the app (e.g. Polefox) -->
     <string name="onboarding_whats_new_description">Tem questões sobre o redesenhado %s? Quer saber o que mudou?</string>
     <!-- text for underlined clickable link that is part of "what's new" onboarding card description that links to an FAQ -->
     <string name="onboarding_whats_new_description_linktext">Obtenha respostas aqui</string>
 
-    <!-- text for the Firefox account onboarding sign in card header. The word "Firefox" should not be translated -->
-    <string name="onboarding_account_sign_in_header_1">Sincronizar o Firefox entre dispositivos</string>
-    <!-- Text for the button to learn more about signing in to your Firefox account -->
-    <string name="onboarding_manual_sign_in_description">Traga os marcadores, histórico e palavras-passe para o Firefox neste dispositivo.</string>
+    <!-- text for the Polefox account onboarding sign in card header. The word "Polefox" should not be translated -->
+    <string name="onboarding_account_sign_in_header_1">Sincronizar o Polefox entre dispositivos</string>
+    <!-- Text for the button to learn more about signing in to your Polefox account -->
+    <string name="onboarding_manual_sign_in_description">Traga os marcadores, histórico e palavras-passe para o Polefox neste dispositivo.</string>
     <!-- text for the firefox account onboarding card header when we detect you're already signed in to
-        another Firefox browser. (The word `Firefox` should not be translated)
+        another Polefox browser. (The word `Polefox` should not be translated)
         The first parameter is the email of the detected user's account -->
-    <string name="onboarding_firefox_account_auto_signin_header_3">Está autenticado como %s noutro navegador Firefox neste dispositivo. Deseja iniciar sessão com esta conta?</string>
+    <string name="onboarding_firefox_account_auto_signin_header_3">Está autenticado como %s noutro navegador Polefox neste dispositivo. Deseja iniciar sessão com esta conta?</string>
     <!-- text for the button to confirm automatic sign-in -->
     <string name="onboarding_firefox_account_auto_signin_confirm">Sim, iniciar sessão</string>
     <!-- text for the automatic sign-in button while signing in is in process -->
     <string name="onboarding_firefox_account_signing_in">A iniciar a sessão…</string>
-    <!-- text for the button to manually sign into Firefox account. -->
+    <!-- text for the button to manually sign into Polefox account. -->
     <string name="onboarding_firefox_account_sign_in_1">Registar</string>
     <!-- text for the button to stay signed out when presented with an option to automatically sign-in. -->
     <string name="onboarding_firefox_account_stay_signed_out">Permanecer sem sessão iniciada</string>
@@ -1271,8 +1271,8 @@
     <string name="onboarding_firefox_account_automatic_signin_failed">Falha ao iniciar sessão</string>
     <!-- text for the tracking protection onboarding card header -->
     <string name="onboarding_tracking_protection_header_3">Privacidade sempre ativa</string>
-    <!-- text for the tracking protection card description. 'Firefox' intentionally hardcoded here -->
-    <string name="onboarding_tracking_protection_description_3">O Firefox impede automaticamente que as empresas o sigam secretamente pela Internet.</string>
+    <!-- text for the tracking protection card description. 'Polefox' intentionally hardcoded here -->
+    <string name="onboarding_tracking_protection_description_3">O Polefox impede automaticamente que as empresas o sigam secretamente pela Internet.</string>
     <!-- text for tracking protection radio button option for standard level of blocking -->
     <string name="onboarding_tracking_protection_standard_button_2">Padrão (predefinição)</string>
     <!-- text for standard blocking option button description -->
@@ -1299,7 +1299,7 @@
     <!-- text for the privacy notice onboarding card header -->
     <string name="onboarding_privacy_notice_header">A sua privacidade</string>
     <!-- text for the privacy notice onboarding card description
-    The first parameter is the name of the app (e.g. Firefox Preview) Substitute %s for long browser name. -->
+    The first parameter is the name of the app (e.g. Polefox Preview) Substitute %s for long browser name. -->
     <string name="onboarding_privacy_notice_description2">Nós desenhámos o %s para lhe dar mais controlo sobre o que partilha online e o que partilha connosco.</string>
     <!-- Text for the button to read the privacy notice -->
     <string name="onboarding_privacy_notice_read_button">Leia a nossa política de privacidade</string>
@@ -1335,7 +1335,7 @@
     <!-- Title of QR Pairing Fragment -->
     <string name="sync_scan_code">Digitalize o código</string>
     <!-- Instructions on how to access pairing -->
-    <string name="sign_in_instructions"><![CDATA[No seu computador, abra o Firefox e aceda a <b>https://firefox.com/pair</b>]]></string>
+    <string name="sign_in_instructions"><![CDATA[No seu computador, abra o Polefox e aceda a <b>https://firefox.com/pair</b>]]></string>
     <!-- Text shown for sign in pairing when ready -->
     <string name="sign_in_ready_for_scan">Pronto para digitalizar</string>
 
@@ -1343,11 +1343,11 @@
     <string name="sign_in_with_camera">Inicie sessão com a sua câmara</string>
     <!-- Text shown for settings option for sign with email -->
     <string name="sign_in_with_email">Como alternativa, utilizar o e-mail</string>
-    <!-- Text shown for settings option for create new account text.'Firefox' intentionally hardcoded here.-->
-    <string name="sign_in_create_account_text"><![CDATA[Sem conta? <u>Crie uma conta</u> para sincronizar o Firefox entre os dispositivos.]]></string>
+    <!-- Text shown for settings option for create new account text.'Polefox' intentionally hardcoded here.-->
+    <string name="sign_in_create_account_text"><![CDATA[Sem conta? <u>Crie uma conta</u> para sincronizar o Polefox entre os dispositivos.]]></string>
     <!-- Text shown in confirmation dialog to sign out of account -->
-    <string name="sign_out_confirmation_message">O Firefox irá parar a sincronização com a sua conta, mas não irá apagar quaisquer dados de navegação seus neste dispositivo.</string>
-    <!-- Text shown in confirmation dialog to sign out of account. The first parameter is the name of the app (e.g. Firefox Preview) -->
+    <string name="sign_out_confirmation_message">O Polefox irá parar a sincronização com a sua conta, mas não irá apagar quaisquer dados de navegação seus neste dispositivo.</string>
+    <!-- Text shown in confirmation dialog to sign out of account. The first parameter is the name of the app (e.g. Polefox Preview) -->
     <string name="sign_out_confirmation_message_2">O %s irá suspender a sincronização com a sua conta, mas não irá eliminar quaisquer dados de navegação seus neste dispositivo.</string>
     <!-- Option to continue signing out of account shown in confirmation dialog to sign out of account -->
     <string name="sign_out_disconnect">Desassociar</string>
@@ -1522,9 +1522,9 @@
     <string name="preferences_passwords_save_logins_never_save">Nunca guardar</string>
     <!-- Preference for autofilling saved logins in Fenix -->
     <string moz:removedIn="93" name="preferences_passwords_autofill" tools:ignore="UnusedResources">Preenchimento automático</string>
-    <!-- Preference for autofilling saved logins in Firefox (in web content), %1$s will be replaced with the app name -->
+    <!-- Preference for autofilling saved logins in Polefox (in web content), %1$s will be replaced with the app name -->
     <string name="preferences_passwords_autofill2">Auto-preenchimento em %1$s</string>
-    <!-- Description for the preference for autofilling saved logins in Firefox (in web content), %1$s will be replaced with the app name -->
+    <!-- Description for the preference for autofilling saved logins in Polefox (in web content), %1$s will be replaced with the app name -->
     <string name="preferences_passwords_autofill_description">Preencher e guardar nomes de utilizador e palavras-passe em site ao utilizar o %1$s.</string>
     <!-- Preference for autofilling logins from Fenix in other apps (e.g. autofilling the Twitter app) -->
     <string name="preferences_android_autofill">Preenchimento automático noutras aplicações</string>
@@ -1818,13 +1818,13 @@
     <string name="synced_tabs_connect_another_device">Associar outro dispositivo.</string>
     <!-- Text displayed asking user to re-authenticate -->
     <string name="synced_tabs_reauth">Por favor, autentique-se novamente.</string>
-    <!-- Text displayed when user has disabled tab syncing in Firefox Sync Account -->
+    <!-- Text displayed when user has disabled tab syncing in Polefox Sync Account -->
     <string name="synced_tabs_enable_tab_syncing">Por favor, ative a sincronização de separadores.</string>
     <!-- Text displayed when user has no tabs that have been synced -->
-    <string name="synced_tabs_no_tabs">Não tem quaisquer separadores abertos no Firefox dos seus outros dispositivos.</string>
-    <!-- Text displayed in the synced tabs screen when a user is not signed in to Firefox Sync describing Synced Tabs -->
+    <string name="synced_tabs_no_tabs">Não tem quaisquer separadores abertos no Polefox dos seus outros dispositivos.</string>
+    <!-- Text displayed in the synced tabs screen when a user is not signed in to Polefox Sync describing Synced Tabs -->
     <string name="synced_tabs_sign_in_message">Ver uma lista de separadores dos seus outros dispositivos.</string>
-    <!-- Text displayed on a button in the synced tabs screen to link users to sign in when a user is not signed in to Firefox Sync -->
+    <!-- Text displayed on a button in the synced tabs screen to link users to sign in when a user is not signed in to Polefox Sync -->
     <string name="synced_tabs_sign_in_button">Iniciar sessão para sincronizar</string>
 
     <!-- The text displayed when a synced device has no tabs to show in the list of Synced Tabs. -->
@@ -1861,7 +1861,7 @@
     <string name="inactive_tabs_7_days">1 semana</string>
 
     <!-- Default browser experiment -->
-    <string name="default_browser_experiment_card_text">Definir para que as ligações de sites, e-mails e mensagens sejam abertas automaticamente no Firefox.</string>
+    <string name="default_browser_experiment_card_text">Definir para que as ligações de sites, e-mails e mensagens sejam abertas automaticamente no Polefox.</string>
 
     <!-- Content description for close button in collection placeholder. -->
     <string name="remove_home_collection_placeholder_content_description">Remover</string>

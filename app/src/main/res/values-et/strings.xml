@@ -198,9 +198,9 @@
     <!-- Preference for settings related to visual options -->
     <string name="preferences_customize">Kohanda</string>
     <!-- Preference description for banner about signing in -->
-    <string name="preferences_sign_in_description">Sünkroniseeri järjehoidjad, ajalugu ja muud asjad oma Firefoxi kontoga</string>
+    <string name="preferences_sign_in_description">Sünkroniseeri järjehoidjad, ajalugu ja muud asjad oma Polefoxi kontoga</string>
     <!-- Preference shown instead of account display name while account profile information isn't available yet. -->
-    <string name="preferences_account_default_name">Firefoxi konto</string>
+    <string name="preferences_account_default_name">Polefoxi konto</string>
 
     <!-- Preference text for account title when there was an error syncing FxA -->
     <string name="preferences_account_sync_error">Sünkroniseerimise jätkamiseks loo ühendus uuesti</string>
@@ -266,7 +266,7 @@
     <string name="fxa_received_tab_channel_name">Vastuvõetud kaardid</string>
 
     <!-- Description of the "receive tabs" notification channel. Displayed in the "App notifications" system settings for the app -->
-    <string name="fxa_received_tab_channel_description">Teavitused teistest Firefoxi seadmetest vastu võetud kaartide kohta.</string>
+    <string name="fxa_received_tab_channel_description">Teavitused teistest Polefoxi seadmetest vastu võetud kaartide kohta.</string>
 
     <!--  The body for these is the URL of the tab received  -->
     <string name="fxa_tab_received_notification_name">Kaart on vastu võetud</string>
@@ -304,7 +304,7 @@
     <!-- Preference switch for marketing data collection -->
     <string name="preferences_marketing_data">Turundusandmed</string>
 
-    <!-- Preference description for marketing data collection, parameter is the app name (e.g. Firefox) -->
+    <!-- Preference description for marketing data collection, parameter is the app name (e.g. Polefox) -->
     <string name="preferences_marketing_data_description">Jagab Leanplumile (meie mobiiliturunduse pakkuja) andmeid selle kohta, milliseid %1$si funktsioone sa kasutad.</string>
     <!-- Title for experiments preferences -->
     <string name="preference_experiments">Eksperimendid</string>
@@ -322,7 +322,7 @@
     <string name="preferences_sync">Lülita Sync sisse</string>
 
     <!-- Preference for pairing -->
-    <string name="preferences_sync_pair">Skanni paaristamise koodi töölaua Firefoxist</string>
+    <string name="preferences_sync_pair">Skanni paaristamise koodi töölaua Polefoxist</string>
     <!-- Preference for account login -->
     <string name="preferences_sync_sign_in">Logi sisse</string>
     <!-- Preference for reconnecting to FxA sync -->
@@ -681,7 +681,7 @@
     <string name="sync_connect_device">Ühenda teine seade</string>
 
     <!-- The dialog text shown when additional devices are not available -->
-    <string name="sync_connect_device_dialog">Kaardi edastamiseks logi Firefoxi sisse vähemalt ühel seadmel veel.</string>
+    <string name="sync_connect_device_dialog">Kaardi edastamiseks logi Polefoxi sisse vähemalt ühel seadmel veel.</string>
     <!-- Confirmation dialog button -->
     <string name="sync_confirmation_button">Sain aru</string>
     <!-- Share error message -->
@@ -817,15 +817,15 @@
 
     <!-- Onboarding -->
     <!-- Text for onboarding welcome message
-    The first parameter is the name of the app (e.g. Firefox Preview) -->
+    The first parameter is the name of the app (e.g. Polefox Preview) -->
     <string name="onboarding_header">Tere tulemast %si!</string>
 
-    <!-- text for the Firefox Accounts section header -->
+    <!-- text for the Polefox Accounts section header -->
     <string name="onboarding_fxa_section_header">Sul on konto juba olemas?</string>
     <!-- text for the "What's New" onboarding card header -->
     <string name="onboarding_whats_new_header1">Vaata uuendusi</string>
     <!-- text for the "what's new" onboarding card description
-    The first parameter is the short name of the app (e.g. Firefox) -->
+    The first parameter is the short name of the app (e.g. Polefox) -->
     <string name="onboarding_whats_new_description">Kas sul on küsimusi ümberkujundatud %si kohta? Kas soovid teada, mis on muutunud?</string>
     <!-- text for underlined clickable link that is part of "what's new" onboarding card description that links to an FAQ -->
     <string name="onboarding_whats_new_description_linktext">Vastused saad siit</string>
@@ -884,7 +884,7 @@
     <!-- Title of QR Pairing Fragment -->
     <string name="sync_scan_code">Koodi skannimine</string>
     <!-- Instructions on how to access pairing -->
-    <string name="sign_in_instructions"><![CDATA[Ava Firefox oma arvutis ja mine aadressile <b>https://firefox.com/pair</b>]]></string>
+    <string name="sign_in_instructions"><![CDATA[Ava Polefox oma arvutis ja mine aadressile <b>https://firefox.com/pair</b>]]></string>
     <!-- Text shown for sign in pairing when ready -->
     <string name="sign_in_ready_for_scan">Skannimiseks valmis</string>
     <!-- Text shown for settings option for sign with pairing -->
@@ -892,7 +892,7 @@
     <!-- Text shown for settings option for sign with email -->
     <string name="sign_in_with_email">Kasuta selle asemel e-posti aadressi</string>
     <!-- Text shown in confirmation dialog to sign out of account -->
-    <string name="sign_out_confirmation_message">Firefox lõpetab sinu kontoga sünkroniseerimise, aga ei kustuta lehitsemise andmeid sellest seadmest.</string>
+    <string name="sign_out_confirmation_message">Polefox lõpetab sinu kontoga sünkroniseerimise, aga ei kustuta lehitsemise andmeid sellest seadmest.</string>
     <!-- Option to continue signing out of account shown in confirmation dialog to sign out of account -->
     <string name="sign_out_disconnect">Ühenda lahti</string>
     <!-- Option to cancel signing out shown in confirmation dialog to sign out of account -->
@@ -1216,9 +1216,9 @@
     <!-- Positive action of a dialog asking to delete  -->
     <string name="dialog_delete_positive">Kustuta</string>
 
-    <!-- Text displayed in the synced tabs screen when a user is not signed in to Firefox Sync describing Synced Tabs -->
+    <!-- Text displayed in the synced tabs screen when a user is not signed in to Polefox Sync describing Synced Tabs -->
     <string name="synced_tabs_sign_in_message">Vaata teistes seadmetes avatud kaartide nimekirja.</string>
-    <!-- Text displayed on a button in the synced tabs screen to link users to sign in when a user is not signed in to Firefox Sync -->
+    <!-- Text displayed on a button in the synced tabs screen to link users to sign in when a user is not signed in to Polefox Sync -->
     <string name="synced_tabs_sign_in_button">Sünkroniseerimiseks logi sisse</string>
 
     </resources>

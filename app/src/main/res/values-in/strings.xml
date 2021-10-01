@@ -85,8 +85,8 @@
     <string name="cfr_neg_button_text">Tidak, terima kasih</string>
 
     <!-- Open in App "contextual feature recommendation" (CFR) -->
-    <!-- Text for the info message. 'Firefox' intentionally hardcoded here.-->
-    <string name="open_in_app_cfr_info_message">Anda dapat mengatur Firefox untuk membuka tautan secara otomatis dalam aplikasi.</string>
+    <!-- Text for the info message. 'Polefox' intentionally hardcoded here.-->
+    <string name="open_in_app_cfr_info_message">Anda dapat mengatur Polefox untuk membuka tautan secara otomatis dalam aplikasi.</string>
     <!-- Text for the positive action button -->
     <string name="open_in_app_cfr_positive_button_text">Buka pengaturan</string>
     <!-- Text for the negative action button -->
@@ -251,8 +251,8 @@
     <string name="search_engine_suggestions_description">Cari langsung dari bilah alamat</string>
 
     <!-- Search Widget -->
-    <!-- Content description for searching with a widget. Firefox is intentionally hardcoded.-->
-    <string name="search_widget_content_description">Buka tab Firefox baru</string>
+    <!-- Content description for searching with a widget. Polefox is intentionally hardcoded.-->
+    <string name="search_widget_content_description">Buka tab Polefox baru</string>
     <!-- Text preview for smaller sized widgets -->
     <string name="search_widget_text_short">Cari</string>
     <!-- Text preview for larger sized widgets -->
@@ -315,12 +315,12 @@
     <string name="preferences_add_private_browsing_shortcut">Tambahkan pintasan penjelajahan pribadi</string>
     <!-- Preference for accessibility -->
     <string name="preferences_accessibility">Aksesibilitas</string>
-    <!-- Preference to override the Firefox Account server -->
-    <string name="preferences_override_fxa_server">Penyedia Firefox Account khusus</string>
+    <!-- Preference to override the Polefox Account server -->
+    <string name="preferences_override_fxa_server">Penyedia Polefox Account khusus</string>
     <!-- Preference to override the Sync token server -->
     <string name="preferences_override_sync_tokenserver">Penyedia Sync khusus</string>
     <!-- Toast shown after updating the FxA/Sync server override preferences -->
-    <string name="toast_override_fxa_sync_server_done">Penyedia Firefox Account/Sync dimodifikasi. Keluar dari aplikasi untuk menerapkan pengubahan…</string>
+    <string name="toast_override_fxa_sync_server_done">Penyedia Polefox Account/Sync dimodifikasi. Keluar dari aplikasi untuk menerapkan pengubahan…</string>
     <!-- Preference category for account information -->
     <string name="preferences_category_account">Akun</string>
     <!-- Preference shown on banner to sign into account -->
@@ -336,9 +336,9 @@
     <!-- Preference for settings related to visual options -->
     <string name="preferences_customize">Ubahsuai</string>
     <!-- Preference description for banner about signing in -->
-    <string name="preferences_sign_in_description">Sinkronkan markah, riwayat, dan lainnya dengan Akun Firefox Anda</string>
+    <string name="preferences_sign_in_description">Sinkronkan markah, riwayat, dan lainnya dengan Akun Polefox Anda</string>
     <!-- Preference shown instead of account display name while account profile information isn't available yet. -->
-    <string name="preferences_account_default_name">Firefox Account</string>
+    <string name="preferences_account_default_name">Polefox Account</string>
     <!-- Preference text for account title when there was an error syncing FxA -->
     <string name="preferences_account_sync_error">Hubungkan kembali untuk melanjutkan sinkronisasi</string>
     <!-- Preference for language -->
@@ -450,7 +450,7 @@
     <!-- Name of the "receive tabs" notification channel. Displayed in the "App notifications" system settings for the app -->
     <string name="fxa_received_tab_channel_name">Tab yang diterima</string>
     <!-- Description of the "receive tabs" notification channel. Displayed in the "App notifications" system settings for the app -->
-    <string name="fxa_received_tab_channel_description">Pemberitahuan untuk tab yang diterima dari perangkat Firefox lainnya.</string>
+    <string name="fxa_received_tab_channel_description">Pemberitahuan untuk tab yang diterima dari perangkat Polefox lainnya.</string>
     <!--  The body for these is the URL of the tab received  -->
     <string name="fxa_tab_received_notification_name">Tab Diterima</string>
     <!-- When multiple tabs have been received -->
@@ -486,7 +486,7 @@
     <string name="preferences_usage_data_description">Bagikan data kinerja, penggunaan, perangkat keras dan pengubahsuaian peramban Anda dengan Mozilla untuk membantu kami membuat %1$s semakin baik</string>
     <!-- Preference switch for marketing data collection -->
     <string name="preferences_marketing_data">Data pemasaran</string>
-    <!-- Preference description for marketing data collection, parameter is the app name (e.g. Firefox) -->
+    <!-- Preference description for marketing data collection, parameter is the app name (e.g. Polefox) -->
     <string name="preferences_marketing_data_description">Bagikan data mengenai fitur yang Anda gunakan pada %1$s dengan Leanplum, vendor pemasaran seluler kami.</string>
     <!-- Preference description for marketing data collection -->
     <string name="preferences_marketing_data_description2">Bagikan data penggunaan dasar dengan Adjust, vendor pemasaran seluler kami</string>
@@ -510,7 +510,7 @@
     <!-- Header of the Turn on Sync preference view -->
     <string name="preferences_sync">Aktifkan Sinkronisasi</string>
     <!-- Preference for pairing -->
-    <string name="preferences_sync_pair">Pindai kode pemasangan di Firefox desktop</string>
+    <string name="preferences_sync_pair">Pindai kode pemasangan di Polefox desktop</string>
     <!-- Preference for account login -->
     <string name="preferences_sync_sign_in">Masuk</string>
 
@@ -644,8 +644,8 @@
     <string name="studies_remove">Hapus</string>
     <!-- Title of the active section on the studies list -->
     <string name="studies_active">Aktif</string>
-    <!-- Description for studies, it indicates why Firefox use studies -->
-    <string name="studies_description">Firefox dapat memasang dan menjalankan kajian dari waktu ke waktu.</string>
+    <!-- Description for studies, it indicates why Polefox use studies -->
+    <string name="studies_description">Polefox dapat memasang dan menjalankan kajian dari waktu ke waktu.</string>
     <!-- Learn more link for studies, links to an article for more information about studies. -->
     <string name="studies_learn_more">Pelajari lebih lanjut</string>
     <!-- Dialog message shown after removing a study -->
@@ -1063,7 +1063,7 @@
     <!-- An option to connect additional devices -->
     <string name="sync_connect_device">Sambungkan peranti lain</string>
     <!-- The dialog text shown when additional devices are not available -->
-    <string name="sync_connect_device_dialog">Untuk mengirimkan tab, masuk ke Firefox minimal pada satu peranti lain.</string>
+    <string name="sync_connect_device_dialog">Untuk mengirimkan tab, masuk ke Polefox minimal pada satu peranti lain.</string>
     <!-- Confirmation dialog button -->
     <string name="sync_confirmation_button">Paham</string>
 
@@ -1225,59 +1225,59 @@
     <string name="deleting_browsing_data_in_progress">Menghapus data penjelajahan…</string>
 
     <!-- Tips -->
-    <!-- text for firefox preview moving tip header "Firefox Preview" and "Firefox Nightly" are intentionally hardcoded -->
-    <string name="tip_firefox_preview_moved_header">Sekarang, Firefox Preview adalah Firefox Nightly</string>
+    <!-- text for firefox preview moving tip header "Polefox Preview" and "Polefox Nightly" are intentionally hardcoded -->
+    <string name="tip_firefox_preview_moved_header">Sekarang, Polefox Preview adalah Polefox Nightly</string>
     <!-- text for firefox preview moving tip description -->
-    <string name="tip_firefox_preview_moved_description">Firefox Nightly mendapatkan pemutakhiran setiap malam dan memiliki fitur eksperimental baru.
+    <string name="tip_firefox_preview_moved_description">Polefox Nightly mendapatkan pemutakhiran setiap malam dan memiliki fitur eksperimental baru.
         Namun, fitur ini mungkin kurang stabil. Unduh peramban beta kami untuk pengalaman yang lebih stabil.</string>
 
-    <!-- text for firefox preview moving tip button. "Firefox for Android Beta" is intentionally hardcoded -->
-    <string name="tip_firefox_preview_moved_button_2">Dapatkan Firefox untuk Android Beta</string>
+    <!-- text for firefox preview moving tip button. "Polefox for Android Beta" is intentionally hardcoded -->
+    <string name="tip_firefox_preview_moved_button_2">Dapatkan Polefox untuk Android Beta</string>
 
-    <!-- text for firefox preview moving tip header. "Firefox Nightly" is intentionally hardcoded -->
-    <string name="tip_firefox_preview_moved_header_preview_installed">Firefox Nightly telah pindah</string>
+    <!-- text for firefox preview moving tip header. "Polefox Nightly" is intentionally hardcoded -->
+    <string name="tip_firefox_preview_moved_header_preview_installed">Polefox Nightly telah pindah</string>
 
     <!-- text for firefox preview moving tip description -->
     <string name="tip_firefox_preview_moved_description_preview_installed">Aplikasi ini tidak akan lagi menerima pemutakhiran keamanan. Hentikan memakai aplikasi ini dan beralih ke Nightly yang baru.
-        \n\nUntuk memindahkan markah, info masuk, dan riwayat ke aplikasi lain, buatlah akun Firefox.</string>
+        \n\nUntuk memindahkan markah, info masuk, dan riwayat ke aplikasi lain, buatlah akun Polefox.</string>
     <!-- text for firefox preview moving tip button  -->
     <string name="tip_firefox_preview_moved_button_preview_installed">Beralih ke Nightly baru</string>
 
-    <!-- text for firefox preview moving tip header. "Firefox Nightly" is intentionally hardcoded -->
-    <string name="tip_firefox_preview_moved_header_preview_not_installed">Firefox Nightly telah pindah</string>
+    <!-- text for firefox preview moving tip header. "Polefox Nightly" is intentionally hardcoded -->
+    <string name="tip_firefox_preview_moved_header_preview_not_installed">Polefox Nightly telah pindah</string>
     <!-- text for firefox preview moving tip description -->
     <string name="tip_firefox_preview_moved_description_preview_not_installed">Aplikasi ini tidak akan lagi menerima pemutakhiran keamanan. Dapatkan Nightly baru dan hentikan memakai aplikasi ini.
-        \n\nUntuk memindahkan markah, info masuk, dan riwayat ke aplikasi lain, buatlah akun Firefox.</string>
+        \n\nUntuk memindahkan markah, info masuk, dan riwayat ke aplikasi lain, buatlah akun Polefox.</string>
     <!-- text for firefox preview moving tip button  -->
     <string name="tip_firefox_preview_moved_button_preview_not_installed">Dapatkan Nightly baru</string>
 
     <!-- Onboarding -->
     <!-- Text for onboarding welcome message
-    The first parameter is the name of the app (e.g. Firefox Preview) -->
+    The first parameter is the name of the app (e.g. Polefox Preview) -->
     <string name="onboarding_header">Selamat datang di %s!</string>
 
-    <!-- text for the Firefox Accounts section header -->
+    <!-- text for the Polefox Accounts section header -->
     <string name="onboarding_fxa_section_header">Sudah memiliki akun?</string>
     <!-- text for the "What's New" onboarding card header -->
     <string name="onboarding_whats_new_header1">Lihat apa yang baru</string>
     <!-- text for the "what's new" onboarding card description
-    The first parameter is the short name of the app (e.g. Firefox) -->
+    The first parameter is the short name of the app (e.g. Polefox) -->
     <string name="onboarding_whats_new_description">Punya pertanyaan mengenai desain ulang %s? Ingin tahu apa saja yang berubah?</string>
     <!-- text for underlined clickable link that is part of "what's new" onboarding card description that links to an FAQ -->
     <string name="onboarding_whats_new_description_linktext">Dapatkan jawabannya di sini</string>
-    <!-- text for the Firefox account onboarding sign in card header. The word "Firefox" should not be translated -->
-    <string name="onboarding_account_sign_in_header_1">Sinkronkan Firefox antar perangkat</string>
-    <!-- Text for the button to learn more about signing in to your Firefox account -->
-    <string name="onboarding_manual_sign_in_description">Bawa markah, riwayat, dan kata sandi ke Firefox di perangkat ini.</string>
+    <!-- text for the Polefox account onboarding sign in card header. The word "Polefox" should not be translated -->
+    <string name="onboarding_account_sign_in_header_1">Sinkronkan Polefox antar perangkat</string>
+    <!-- Text for the button to learn more about signing in to your Polefox account -->
+    <string name="onboarding_manual_sign_in_description">Bawa markah, riwayat, dan kata sandi ke Polefox di perangkat ini.</string>
     <!-- text for the firefox account onboarding card header when we detect you're already signed in to
-        another Firefox browser. (The word `Firefox` should not be translated)
+        another Polefox browser. (The word `Polefox` should not be translated)
         The first parameter is the email of the detected user's account -->
-    <string name="onboarding_firefox_account_auto_signin_header_3">Anda masuk sebagai %s di peramban Firefox lainnya pada perangkat ini. Apakah Anda ingin masuk dengan akun tersebut?</string>
+    <string name="onboarding_firefox_account_auto_signin_header_3">Anda masuk sebagai %s di peramban Polefox lainnya pada perangkat ini. Apakah Anda ingin masuk dengan akun tersebut?</string>
     <!-- text for the button to confirm automatic sign-in -->
     <string name="onboarding_firefox_account_auto_signin_confirm">Ya, masukkan saya</string>
     <!-- text for the automatic sign-in button while signing in is in process -->
     <string name="onboarding_firefox_account_signing_in">Masuk…</string>
-    <!-- text for the button to manually sign into Firefox account. -->
+    <!-- text for the button to manually sign into Polefox account. -->
     <string name="onboarding_firefox_account_sign_in_1">Daftar</string>
     <!-- text for the button to stay signed out when presented with an option to automatically sign-in. -->
     <string name="onboarding_firefox_account_stay_signed_out">Tetap keluar</string>
@@ -1287,8 +1287,8 @@
     <string name="onboarding_firefox_account_automatic_signin_failed">Gagal masuk</string>
     <!-- text for the tracking protection onboarding card header -->
     <string name="onboarding_tracking_protection_header_3">Privasi selalu aktif</string>
-    <!-- text for the tracking protection card description. 'Firefox' intentionally hardcoded here -->
-    <string name="onboarding_tracking_protection_description_3">Firefox secara otomatis menghentikan perusahaan yang mengikuti Anda di web secara rahasia.</string>
+    <!-- text for the tracking protection card description. 'Polefox' intentionally hardcoded here -->
+    <string name="onboarding_tracking_protection_description_3">Polefox secara otomatis menghentikan perusahaan yang mengikuti Anda di web secara rahasia.</string>
     <!-- text for tracking protection radio button option for standard level of blocking -->
     <string name="onboarding_tracking_protection_standard_button_2">Standar (baku)</string>
     <!-- text for standard blocking option button description -->
@@ -1315,7 +1315,7 @@
     <!-- text for the privacy notice onboarding card header -->
     <string name="onboarding_privacy_notice_header">Privasi Anda</string>
     <!-- text for the privacy notice onboarding card description
-    The first parameter is the name of the app (e.g. Firefox Preview) Substitute %s for long browser name. -->
+    The first parameter is the name of the app (e.g. Polefox Preview) Substitute %s for long browser name. -->
     <string name="onboarding_privacy_notice_description2">Kami merancang %s agar Anda dapat mengendalikan apa saja yang Anda bagikan secara daring dan apa yang Anda bagikan kepada kami.</string>
     <!-- Text for the button to read the privacy notice -->
     <string name="onboarding_privacy_notice_read_button">Pelajari pemberitahuan privasi kami</string>
@@ -1351,18 +1351,18 @@
     <!-- Title of QR Pairing Fragment -->
     <string name="sync_scan_code">Pindai kode</string>
     <!-- Instructions on how to access pairing -->
-    <string name="sign_in_instructions"><![CDATA[Buka Firefox di komputer Anda lalu buka <b>https://firefox.com/pair</b>]]></string>
+    <string name="sign_in_instructions"><![CDATA[Buka Polefox di komputer Anda lalu buka <b>https://firefox.com/pair</b>]]></string>
     <!-- Text shown for sign in pairing when ready -->
     <string name="sign_in_ready_for_scan">Siap memindai</string>
     <!-- Text shown for settings option for sign with pairing -->
     <string name="sign_in_with_camera">Masuk dengan kamera Anda</string>
     <!-- Text shown for settings option for sign with email -->
     <string name="sign_in_with_email">Gunakan surel saja</string>
-    <!-- Text shown for settings option for create new account text.'Firefox' intentionally hardcoded here.-->
-    <string name="sign_in_create_account_text"><![CDATA[Tidak ada akun? <u>Buat satu</u> untuk menyinkronkan Firefox antar perangkat.]]></string>
+    <!-- Text shown for settings option for create new account text.'Polefox' intentionally hardcoded here.-->
+    <string name="sign_in_create_account_text"><![CDATA[Tidak ada akun? <u>Buat satu</u> untuk menyinkronkan Polefox antar perangkat.]]></string>
     <!-- Text shown in confirmation dialog to sign out of account -->
-    <string name="sign_out_confirmation_message">Firefox akan berhenti menyinkronkan dengan akun Anda, tetapi tidak akan menghapus data penjelajahan Anda di peranti ini.</string>
-    <!-- Text shown in confirmation dialog to sign out of account. The first parameter is the name of the app (e.g. Firefox Preview) -->
+    <string name="sign_out_confirmation_message">Polefox akan berhenti menyinkronkan dengan akun Anda, tetapi tidak akan menghapus data penjelajahan Anda di peranti ini.</string>
+    <!-- Text shown in confirmation dialog to sign out of account. The first parameter is the name of the app (e.g. Polefox Preview) -->
     <string name="sign_out_confirmation_message_2">%s akan berhenti menyinkronkan dengan akun Anda, tetapi tidak akan menghapus data penjelajahan Anda di peranti ini.</string>
     <!-- Option to continue signing out of account shown in confirmation dialog to sign out of account -->
     <string name="sign_out_disconnect">Putuskan</string>
@@ -1534,9 +1534,9 @@
     <string name="preferences_passwords_save_logins_never_save">Jangan pernah simpan</string>
     <!-- Preference for autofilling saved logins in Fenix -->
     <string moz:removedIn="93" name="preferences_passwords_autofill" tools:ignore="UnusedResources">Isi Otomatis</string>
-    <!-- Preference for autofilling saved logins in Firefox (in web content), %1$s will be replaced with the app name -->
+    <!-- Preference for autofilling saved logins in Polefox (in web content), %1$s will be replaced with the app name -->
     <string name="preferences_passwords_autofill2">Isi-otomatis di %1$s</string>
-    <!-- Description for the preference for autofilling saved logins in Firefox (in web content), %1$s will be replaced with the app name -->
+    <!-- Description for the preference for autofilling saved logins in Polefox (in web content), %1$s will be replaced with the app name -->
     <string name="preferences_passwords_autofill_description">Isi dan simpan nama pengguna dan sandi pada situs web ketika menggunakan %1$s.</string>
     <!-- Preference for autofilling logins from Fenix in other apps (e.g. autofilling the Twitter app) -->
     <string name="preferences_android_autofill">Isi-otomatis di aplikasi lainnya</string>
@@ -1826,14 +1826,14 @@
     <string name="synced_tabs_connect_another_device">Hubungkan perangkat lain</string>
     <!-- Text displayed asking user to re-authenticate -->
     <string name="synced_tabs_reauth">Harap autentikasi ulang.</string>
-    <!-- Text displayed when user has disabled tab syncing in Firefox Sync Account -->
+    <!-- Text displayed when user has disabled tab syncing in Polefox Sync Account -->
     <string name="synced_tabs_enable_tab_syncing">Harap aktifkan sinkronisasi tab.</string>
 
     <!-- Text displayed when user has no tabs that have been synced -->
-    <string name="synced_tabs_no_tabs">Anda tidak memiliki tab terbuka di Firefox pada perangkat Anda lainnya.</string>
-    <!-- Text displayed in the synced tabs screen when a user is not signed in to Firefox Sync describing Synced Tabs -->
+    <string name="synced_tabs_no_tabs">Anda tidak memiliki tab terbuka di Polefox pada perangkat Anda lainnya.</string>
+    <!-- Text displayed in the synced tabs screen when a user is not signed in to Polefox Sync describing Synced Tabs -->
     <string name="synced_tabs_sign_in_message">Lihat daftar tab dari perangkat Anda lainnya.</string>
-    <!-- Text displayed on a button in the synced tabs screen to link users to sign in when a user is not signed in to Firefox Sync -->
+    <!-- Text displayed on a button in the synced tabs screen to link users to sign in when a user is not signed in to Polefox Sync -->
     <string name="synced_tabs_sign_in_button">Masuk untuk sinkronisasi</string>
 
     <!-- The text displayed when a synced device has no tabs to show in the list of Synced Tabs. -->
@@ -1870,7 +1870,7 @@
     <string name="inactive_tabs_7_days">1 pekan</string>
 
     <!-- Default browser experiment -->
-    <string name="default_browser_experiment_card_text">Setel tautan dari situs web, surel, dan pesan untuk secara otomatis dibuka di Firefox.</string>
+    <string name="default_browser_experiment_card_text">Setel tautan dari situs web, surel, dan pesan untuk secara otomatis dibuka di Polefox.</string>
 
     <!-- Content description for close button in collection placeholder. -->
     <string name="remove_home_collection_placeholder_content_description">Hapus</string>

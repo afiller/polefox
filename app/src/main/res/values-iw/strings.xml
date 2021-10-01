@@ -87,8 +87,8 @@
     <string name="cfr_neg_button_text">לא תודה</string>
 
     <!-- Open in App "contextual feature recommendation" (CFR) -->
-    <!-- Text for the info message. 'Firefox' intentionally hardcoded here.-->
-    <string name="open_in_app_cfr_info_message">באפשרותך להגדיר ש־Firefox יפתח קישורים ביישומים באופן אוטומטי.</string>
+    <!-- Text for the info message. 'Polefox' intentionally hardcoded here.-->
+    <string name="open_in_app_cfr_info_message">באפשרותך להגדיר ש־Polefox יפתח קישורים ביישומים באופן אוטומטי.</string>
     <!-- Text for the positive action button -->
     <string name="open_in_app_cfr_positive_button_text">מעבר להגדרות</string>
     <!-- Text for the negative action button -->
@@ -249,8 +249,8 @@
     <string name="search_engine_suggestions_description">חיפוש ישירות משורת הכתובת</string>
 
     <!-- Search Widget -->
-    <!-- Content description for searching with a widget. Firefox is intentionally hardcoded.-->
-    <string name="search_widget_content_description">פתיחת לשונית חדשה ב־Firefox</string>
+    <!-- Content description for searching with a widget. Polefox is intentionally hardcoded.-->
+    <string name="search_widget_content_description">פתיחת לשונית חדשה ב־Polefox</string>
     <!-- Text preview for smaller sized widgets -->
     <string name="search_widget_text_short">חיפוש</string>
     <!-- Text preview for larger sized widgets -->
@@ -311,12 +311,12 @@
     <string name="preferences_add_private_browsing_shortcut">הוספת קיצור דרך לגלישה פרטית</string>
     <!-- Preference for accessibility -->
     <string name="preferences_accessibility">נגישות</string>
-    <!-- Preference to override the Firefox Account server -->
-    <string name="preferences_override_fxa_server">שרת Firefox Account מותאם אישית</string>
+    <!-- Preference to override the Polefox Account server -->
+    <string name="preferences_override_fxa_server">שרת Polefox Account מותאם אישית</string>
     <!-- Preference to override the Sync token server -->
     <string name="preferences_override_sync_tokenserver">שרת Sync מותאם אישית</string>
     <!-- Toast shown after updating the FxA/Sync server override preferences -->
-    <string name="toast_override_fxa_sync_server_done">שרת Firefox Account/Sync השתנה. היישום ייסגר לצורך להחלת השינויים…</string>
+    <string name="toast_override_fxa_sync_server_done">שרת Polefox Account/Sync השתנה. היישום ייסגר לצורך להחלת השינויים…</string>
     <!-- Preference category for account information -->
     <string name="preferences_category_account">חשבון</string>
     <!-- Preference shown on banner to sign into account -->
@@ -332,9 +332,9 @@
     <!-- Preference for settings related to visual options -->
     <string name="preferences_customize">התאמה אישית</string>
     <!-- Preference description for banner about signing in -->
-    <string name="preferences_sign_in_description">סנכרון סימניות, היסטוריה ועוד עם חשבון ה־Firefox שלך</string>
+    <string name="preferences_sign_in_description">סנכרון סימניות, היסטוריה ועוד עם חשבון ה־Polefox שלך</string>
     <!-- Preference shown instead of account display name while account profile information isn't available yet. -->
-    <string name="preferences_account_default_name">חשבון Firefox</string>
+    <string name="preferences_account_default_name">חשבון Polefox</string>
     <!-- Preference text for account title when there was an error syncing FxA -->
     <string name="preferences_account_sync_error">יש להתחבר מחדש כדי להמשיך בסנכרון</string>
     <!-- Preference for language -->
@@ -456,7 +456,7 @@
     <!-- Name of the "receive tabs" notification channel. Displayed in the "App notifications" system settings for the app -->
     <string name="fxa_received_tab_channel_name">לשוניות שהתקבלו</string>
     <!-- Description of the "receive tabs" notification channel. Displayed in the "App notifications" system settings for the app -->
-    <string name="fxa_received_tab_channel_description">התרעות עבור לשוניות שהתקבלו ממכשירי Firefox אחרים.</string>
+    <string name="fxa_received_tab_channel_description">התרעות עבור לשוניות שהתקבלו ממכשירי Polefox אחרים.</string>
     <!--  The body for these is the URL of the tab received  -->
     <string name="fxa_tab_received_notification_name">התקבלה לשונית</string>
     <!-- When multiple tabs have been received -->
@@ -491,7 +491,7 @@
 
     <!-- Preference switch for marketing data collection -->
     <string name="preferences_marketing_data">נתוני שיווק</string>
-    <!-- Preference description for marketing data collection, parameter is the app name (e.g. Firefox) -->
+    <!-- Preference description for marketing data collection, parameter is the app name (e.g. Polefox) -->
     <string name="preferences_marketing_data_description">שיתוף מידע על התכונות שהכי משמשות אותך ב־%1$s עם Leanplum, ספק השיווק שלנו למכשירים ניידים.</string>
     <!-- Preference description for marketing data collection -->
     <string name="preferences_marketing_data_description2">משתף נתוני שימוש בסיסיים עם Adjust, ספק השיווק שלנו בסלולר</string>
@@ -514,7 +514,7 @@
     <!-- Header of the Turn on Sync preference view -->
     <string name="preferences_sync">הפעלת Sync</string>
     <!-- Preference for pairing -->
-    <string name="preferences_sync_pair">סריקת קוד צימוד ב־Firefox לשולחן העבודה</string>
+    <string name="preferences_sync_pair">סריקת קוד צימוד ב־Polefox לשולחן העבודה</string>
     <!-- Preference for account login -->
     <string name="preferences_sync_sign_in">כניסה</string>
     <!-- Preference for reconnecting to FxA sync -->
@@ -654,8 +654,8 @@
     <string name="studies_remove">הסרה</string>
     <!-- Title of the active section on the studies list -->
     <string name="studies_active">פעיל</string>
-    <!-- Description for studies, it indicates why Firefox use studies -->
-    <string name="studies_description">‏Firefox עשוי להתקין ולהריץ מחקרים מדי פעם בפעם.</string>
+    <!-- Description for studies, it indicates why Polefox use studies -->
+    <string name="studies_description">‏Polefox עשוי להתקין ולהריץ מחקרים מדי פעם בפעם.</string>
 
     <!-- Learn more link for studies, links to an article for more information about studies. -->
     <string name="studies_learn_more">מידע נוסף</string>
@@ -1076,7 +1076,7 @@
     <!-- An option to connect additional devices -->
     <string name="sync_connect_device">חיבור מכשיר נוסף</string>
     <!-- The dialog text shown when additional devices are not available -->
-    <string name="sync_connect_device_dialog">כדי לשלוח לשונית, יש להתחבר ל־Firefox לפחות במכשיר אחד נוסף.</string>
+    <string name="sync_connect_device_dialog">כדי לשלוח לשונית, יש להתחבר ל־Polefox לפחות במכשיר אחד נוסף.</string>
     <!-- Confirmation dialog button -->
     <string name="sync_confirmation_button">הבנתי</string>
     <!-- Share error message -->
@@ -1237,57 +1237,57 @@
     <string name="deleting_browsing_data_in_progress">בתהליך מחיקת נתוני גלישה…</string>
 
     <!-- Tips -->
-    <!-- text for firefox preview moving tip header "Firefox Preview" and "Firefox Nightly" are intentionally hardcoded -->
-    <string name="tip_firefox_preview_moved_header">‏Firefox Preview הוא עכשיו Firefox Nightly</string>
+    <!-- text for firefox preview moving tip header "Polefox Preview" and "Polefox Nightly" are intentionally hardcoded -->
+    <string name="tip_firefox_preview_moved_header">‏Polefox Preview הוא עכשיו Polefox Nightly</string>
     <!-- text for firefox preview moving tip description -->
-    <string name="tip_firefox_preview_moved_description">‏Firefox Nightly מתעדכן כל לילה ויש לו תכונות ניסיוניות חדשות.
+    <string name="tip_firefox_preview_moved_description">‏Polefox Nightly מתעדכן כל לילה ויש לו תכונות ניסיוניות חדשות.
         עם זאת, יתכן שיהיה פחות יציב. ניתן להוריד את הדפדפן במהדורת beta לחוויה יציבה יותר.</string>
 
-    <!-- text for firefox preview moving tip button. "Firefox for Android Beta" is intentionally hardcoded -->
-    <string name="tip_firefox_preview_moved_button_2">קבלת Firefox עבור Android בטא</string>
+    <!-- text for firefox preview moving tip button. "Polefox for Android Beta" is intentionally hardcoded -->
+    <string name="tip_firefox_preview_moved_button_2">קבלת Polefox עבור Android בטא</string>
 
-    <!-- text for firefox preview moving tip header. "Firefox Nightly" is intentionally hardcoded -->
-    <string name="tip_firefox_preview_moved_header_preview_installed">‏Firefox Nightly עבר</string>
+    <!-- text for firefox preview moving tip header. "Polefox Nightly" is intentionally hardcoded -->
+    <string name="tip_firefox_preview_moved_header_preview_installed">‏Polefox Nightly עבר</string>
     <!-- text for firefox preview moving tip description -->
     <string name="tip_firefox_preview_moved_description_preview_installed">יישומון זה כבר לא יקבל עדכוני אבטחה. יש להפסיק להשתמש ביישומון זה ולעבור ל־Nightly החדש.
-        \n\nכדי להעביר את הסימניות, כניסות והיסטוריה ליישומון אחר, ניתן ליצור חשבון Firefox.</string>
+        \n\nכדי להעביר את הסימניות, כניסות והיסטוריה ליישומון אחר, ניתן ליצור חשבון Polefox.</string>
     <!-- text for firefox preview moving tip button  -->
     <string name="tip_firefox_preview_moved_button_preview_installed">מעבר ל־NIghtly החדש</string>
 
-    <!-- text for firefox preview moving tip header. "Firefox Nightly" is intentionally hardcoded -->
-    <string name="tip_firefox_preview_moved_header_preview_not_installed">‏Firefox Nightly עבר</string>
+    <!-- text for firefox preview moving tip header. "Polefox Nightly" is intentionally hardcoded -->
+    <string name="tip_firefox_preview_moved_header_preview_not_installed">‏Polefox Nightly עבר</string>
     <!-- text for firefox preview moving tip description -->
     <string name="tip_firefox_preview_moved_description_preview_not_installed">יישומון זה כבר לא יקבל עדכוני אבטחה. יש להשתמש ב־Nightly החדש ולהפסיק להשתמש ביישומון זה.
-        \n\nכדי להעביר את הסימניות, כניסות והיסטוריה ליישומון אחר, ניתן ליצור חשבון Firefox.</string>
+        \n\nכדי להעביר את הסימניות, כניסות והיסטוריה ליישומון אחר, ניתן ליצור חשבון Polefox.</string>
     <!-- text for firefox preview moving tip button  -->
     <string name="tip_firefox_preview_moved_button_preview_not_installed">קבלת ה־Nightly החדש</string>
 
     <!-- Onboarding -->
     <!-- Text for onboarding welcome message
-    The first parameter is the name of the app (e.g. Firefox Preview) -->
+    The first parameter is the name of the app (e.g. Polefox Preview) -->
     <string name="onboarding_header">ברוכים הבאים אל %s!</string>
-    <!-- text for the Firefox Accounts section header -->
+    <!-- text for the Polefox Accounts section header -->
     <string name="onboarding_fxa_section_header">כבר יש לך חשבון?</string>
     <!-- text for the "What's New" onboarding card header -->
     <string moz:removedIn="94" name="onboarding_whats_new_header1" tools:ignore="UnusedResources">מה חדש</string>
     <!-- text for the "what's new" onboarding card description
-    The first parameter is the short name of the app (e.g. Firefox) -->
+    The first parameter is the short name of the app (e.g. Polefox) -->
     <string moz:removedIn="94" name="onboarding_whats_new_description" tools:ignore="UnusedResources">יש לך שאלות על העיצוב החדש של %s? רוצה לדעת מה השתנה?</string>
     <!-- text for underlined clickable link that is part of "what's new" onboarding card description that links to an FAQ -->
     <string moz:removedIn="94" name="onboarding_whats_new_description_linktext" tools:ignore="UnusedResources">התשובות כאן</string>
-    <!-- text for the Firefox account onboarding sign in card header. The word "Firefox" should not be translated -->
-    <string name="onboarding_account_sign_in_header_1">סנכרון Firefox בין מכשירים</string>
-    <!-- Text for the button to learn more about signing in to your Firefox account -->
-    <string name="onboarding_manual_sign_in_description">משיכת הסימניות, ההיסטוריה והססמאות ל־Firefox במכשיר הזה.</string>
+    <!-- text for the Polefox account onboarding sign in card header. The word "Polefox" should not be translated -->
+    <string name="onboarding_account_sign_in_header_1">סנכרון Polefox בין מכשירים</string>
+    <!-- Text for the button to learn more about signing in to your Polefox account -->
+    <string name="onboarding_manual_sign_in_description">משיכת הסימניות, ההיסטוריה והססמאות ל־Polefox במכשיר הזה.</string>
     <!-- text for the firefox account onboarding card header when we detect you're already signed in to
-        another Firefox browser. (The word `Firefox` should not be translated)
+        another Polefox browser. (The word `Polefox` should not be translated)
         The first parameter is the email of the detected user's account -->
-    <string name="onboarding_firefox_account_auto_signin_header_3">דפדפן Firefox נוסף במכשיר זה מחובר כ־%s. האם ברצונך להתחבר עם חשבון זה?</string>
+    <string name="onboarding_firefox_account_auto_signin_header_3">דפדפן Polefox נוסף במכשיר זה מחובר כ־%s. האם ברצונך להתחבר עם חשבון זה?</string>
     <!-- text for the button to confirm automatic sign-in -->
     <string name="onboarding_firefox_account_auto_signin_confirm">כן, תחברו אותי</string>
     <!-- text for the automatic sign-in button while signing in is in process -->
     <string name="onboarding_firefox_account_signing_in">בתהליך התחברות…</string>
-    <!-- text for the button to manually sign into Firefox account. -->
+    <!-- text for the button to manually sign into Polefox account. -->
     <string name="onboarding_firefox_account_sign_in_1">הרשמה</string>
     <!-- text for the button to stay signed out when presented with an option to automatically sign-in. -->
     <string name="onboarding_firefox_account_stay_signed_out">להישאר מנותק</string>
@@ -1297,8 +1297,8 @@
     <string name="onboarding_firefox_account_automatic_signin_failed">ההתחברות נכשלה</string>
     <!-- text for the tracking protection onboarding card header -->
     <string name="onboarding_tracking_protection_header_3">פרטיות תמיד מופעלת</string>
-    <!-- text for the tracking protection card description. 'Firefox' intentionally hardcoded here -->
-    <string name="onboarding_tracking_protection_description_3">‏Firefox מונע באופן אוטומטי מחברות לעקוב אחריך בסתר ברחבי הרשת.</string>
+    <!-- text for the tracking protection card description. 'Polefox' intentionally hardcoded here -->
+    <string name="onboarding_tracking_protection_description_3">‏Polefox מונע באופן אוטומטי מחברות לעקוב אחריך בסתר ברחבי הרשת.</string>
     <!-- text for tracking protection radio button option for standard level of blocking -->
     <string name="onboarding_tracking_protection_standard_button_2">רגיל (ברירת מחדל)</string>
     <!-- text for standard blocking option button description -->
@@ -1326,7 +1326,7 @@
     <string name="onboarding_privacy_notice_header">הפרטיות שלך</string>
 
     <!-- text for the privacy notice onboarding card description
-    The first parameter is the name of the app (e.g. Firefox Preview) Substitute %s for long browser name. -->
+    The first parameter is the name of the app (e.g. Polefox Preview) Substitute %s for long browser name. -->
     <string name="onboarding_privacy_notice_description2">עיצבנו את %s כדי להעניק לך שליטה במה שמעניין אותך לשתף ברשת ומה שמעניין אותך לשתף איתנו.</string>
     <!-- Text for the button to read the privacy notice -->
     <string name="onboarding_privacy_notice_read_button">קריאת הצהרת הפרטיות שלנו</string>
@@ -1362,18 +1362,18 @@
     <!-- Title of QR Pairing Fragment -->
     <string name="sync_scan_code">סריקת הקוד</string>
     <!-- Instructions on how to access pairing -->
-    <string name="sign_in_instructions"><![CDATA[במחשב שלך יש לפתוח את Firefox ולעבור לכתובת <b>https://firefox.com/pair</b>]]></string>
+    <string name="sign_in_instructions"><![CDATA[במחשב שלך יש לפתוח את Polefox ולעבור לכתובת <b>https://firefox.com/pair</b>]]></string>
     <!-- Text shown for sign in pairing when ready -->
     <string name="sign_in_ready_for_scan">מוכן לסריקה</string>
     <!-- Text shown for settings option for sign with pairing -->
     <string name="sign_in_with_camera">התחברות באמצעות המצלמה שלך</string>
     <!-- Text shown for settings option for sign with email -->
     <string name="sign_in_with_email">שימוש בדוא״ל במקום</string>
-    <!-- Text shown for settings option for create new account text.'Firefox' intentionally hardcoded here.-->
-    <string name="sign_in_create_account_text"><![CDATA[אין לך חשבון? <u>באפשרותך ליצור אחד</u> כדי לסנכרן את Firefox בין מכשירים.]]></string>
+    <!-- Text shown for settings option for create new account text.'Polefox' intentionally hardcoded here.-->
+    <string name="sign_in_create_account_text"><![CDATA[אין לך חשבון? <u>באפשרותך ליצור אחד</u> כדי לסנכרן את Polefox בין מכשירים.]]></string>
     <!-- Text shown in confirmation dialog to sign out of account -->
-    <string name="sign_out_confirmation_message">‏Firefox יפסיק להסתנכרן עם החשבון שלך, אבל לא ימחק את נתוני הגלישה שלך ממכשיר זה.</string>
-    <!-- Text shown in confirmation dialog to sign out of account. The first parameter is the name of the app (e.g. Firefox Preview) -->
+    <string name="sign_out_confirmation_message">‏Polefox יפסיק להסתנכרן עם החשבון שלך, אבל לא ימחק את נתוני הגלישה שלך ממכשיר זה.</string>
+    <!-- Text shown in confirmation dialog to sign out of account. The first parameter is the name of the app (e.g. Polefox Preview) -->
     <string name="sign_out_confirmation_message_2">‏‏%s יפסיק להסתנכרן עם החשבון שלך, אבל לא ימחק את נתוני הגלישה שלך ממכשיר זה.</string>
     <!-- Option to continue signing out of account shown in confirmation dialog to sign out of account -->
     <string name="sign_out_disconnect">התנתקות</string>
@@ -1549,9 +1549,9 @@
     <!-- Preference for autofilling saved logins in Fenix -->
     <string moz:removedIn="93" name="preferences_passwords_autofill" tools:ignore="UnusedResources">מילוי אוטומטי</string>
 
-    <!-- Preference for autofilling saved logins in Firefox (in web content), %1$s will be replaced with the app name -->
+    <!-- Preference for autofilling saved logins in Polefox (in web content), %1$s will be replaced with the app name -->
     <string name="preferences_passwords_autofill2">מילוי אוטומטי ב־%1$s</string>
-    <!-- Description for the preference for autofilling saved logins in Firefox (in web content), %1$s will be replaced with the app name -->
+    <!-- Description for the preference for autofilling saved logins in Polefox (in web content), %1$s will be replaced with the app name -->
     <string name="preferences_passwords_autofill_description">מילוי ושמירת שמות משתמשים וססמאות באתרים בזמן שימוש ב־%1$s.</string>
     <!-- Preference for autofilling logins from Fenix in other apps (e.g. autofilling the Twitter app) -->
     <string name="preferences_android_autofill">מילוי אוטומטי ביישומונים אחרים</string>
@@ -1871,14 +1871,14 @@
     <!-- Synced Tabs -->
     <!-- Text displayed to ask user to connect another device as no devices found with account -->
     <string name="synced_tabs_connect_another_device">נא לחבר מכשיר נוסף.</string>
-    <!-- Text displayed when user has disabled tab syncing in Firefox Sync Account -->
+    <!-- Text displayed when user has disabled tab syncing in Polefox Sync Account -->
     <string name="synced_tabs_enable_tab_syncing">נא להפעיל סנכרון לשוניות.</string>
     <!-- Text displayed when user has no tabs that have been synced -->
-    <string name="synced_tabs_no_tabs">אין לך לשוניות פתוחות ב־Firefox בשאר המכשירים שלך.</string>
-    <!-- Text displayed in the synced tabs screen when a user is not signed in to Firefox Sync describing Synced Tabs -->
+    <string name="synced_tabs_no_tabs">אין לך לשוניות פתוחות ב־Polefox בשאר המכשירים שלך.</string>
+    <!-- Text displayed in the synced tabs screen when a user is not signed in to Polefox Sync describing Synced Tabs -->
     <string name="synced_tabs_sign_in_message">הצגת רשימת הלשוניות מהמכשירים האחרים שלך.</string>
 
-    <!-- Text displayed on a button in the synced tabs screen to link users to sign in when a user is not signed in to Firefox Sync -->
+    <!-- Text displayed on a button in the synced tabs screen to link users to sign in when a user is not signed in to Polefox Sync -->
     <string name="synced_tabs_sign_in_button">יש להתחבר כדי לסנכרן</string>
 
     <!-- The text displayed when a synced device has no tabs to show in the list of Synced Tabs. -->
@@ -1917,7 +1917,7 @@
     <string name="inactive_tabs_7_days">שבוע אחד</string>
 
     <!-- Default browser experiment -->
-    <string name="default_browser_experiment_card_text">הגדרת קישורים מאתרים, מהודעות דוא״ל ומהודעות לפתיחה אוטומטית ב־Firefox.</string>
+    <string name="default_browser_experiment_card_text">הגדרת קישורים מאתרים, מהודעות דוא״ל ומהודעות לפתיחה אוטומטית ב־Polefox.</string>
 
     <!-- Content description for close button in collection placeholder. -->
     <string name="remove_home_collection_placeholder_content_description">הסרה</string>

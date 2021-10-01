@@ -86,8 +86,8 @@
     <string name="cfr_neg_button_text">不要，謝謝</string>
 
     <!-- Open in App "contextual feature recommendation" (CFR) -->
-    <!-- Text for the info message. 'Firefox' intentionally hardcoded here.-->
-    <string name="open_in_app_cfr_info_message">您可以設定使用 Firefox 自動開啟各應用程式當中的鏈結。</string>
+    <!-- Text for the info message. 'Polefox' intentionally hardcoded here.-->
+    <string name="open_in_app_cfr_info_message">您可以設定使用 Polefox 自動開啟各應用程式當中的鏈結。</string>
     <!-- Text for the positive action button -->
     <string name="open_in_app_cfr_positive_button_text">開啟設定</string>
     <!-- Text for the negative action button -->
@@ -260,8 +260,8 @@
     <string name="search_engine_suggestions_description">從網址列直接搜尋</string>
 
     <!-- Search Widget -->
-    <!-- Content description for searching with a widget. Firefox is intentionally hardcoded.-->
-    <string name="search_widget_content_description">開新 Firefox 分頁</string>
+    <!-- Content description for searching with a widget. Polefox is intentionally hardcoded.-->
+    <string name="search_widget_content_description">開新 Polefox 分頁</string>
     <!-- Text preview for smaller sized widgets -->
     <string name="search_widget_text_short">搜尋</string>
     <!-- Text preview for larger sized widgets -->
@@ -323,12 +323,12 @@
     <string name="preferences_add_private_browsing_shortcut">新增隱私瀏覽模式捷徑</string>
     <!-- Preference for accessibility -->
     <string name="preferences_accessibility">輔助功能</string>
-    <!-- Preference to override the Firefox Account server -->
-    <string name="preferences_override_fxa_server">自訂 Firefox 帳號伺服器</string>
+    <!-- Preference to override the Polefox Account server -->
+    <string name="preferences_override_fxa_server">自訂 Polefox 帳號伺服器</string>
     <!-- Preference to override the Sync token server -->
     <string name="preferences_override_sync_tokenserver">自訂同步伺服器</string>
     <!-- Toast shown after updating the FxA/Sync server override preferences -->
-    <string name="toast_override_fxa_sync_server_done">已更改 Firefox 帳號 / 同步伺服器設定。將結束應用程式讓變更生效…</string>
+    <string name="toast_override_fxa_sync_server_done">已更改 Polefox 帳號 / 同步伺服器設定。將結束應用程式讓變更生效…</string>
     <!-- Preference category for account information -->
     <string name="preferences_category_account">帳號</string>
     <!-- Preference shown on banner to sign into account -->
@@ -344,9 +344,9 @@
     <!-- Preference for settings related to visual options -->
     <string name="preferences_customize">自訂</string>
     <!-- Preference description for banner about signing in -->
-    <string name="preferences_sign_in_description">使用您的 Firefox 帳號同步書籤、瀏覽紀錄等資料</string>
+    <string name="preferences_sign_in_description">使用您的 Polefox 帳號同步書籤、瀏覽紀錄等資料</string>
     <!-- Preference shown instead of account display name while account profile information isn't available yet. -->
-    <string name="preferences_account_default_name">Firefox 帳號</string>
+    <string name="preferences_account_default_name">Polefox 帳號</string>
     <!-- Preference text for account title when there was an error syncing FxA -->
     <string name="preferences_account_sync_error">重新連線，以恢復同步</string>
     <!-- Preference for language -->
@@ -470,7 +470,7 @@
     <!-- Name of the "receive tabs" notification channel. Displayed in the "App notifications" system settings for the app -->
     <string name="fxa_received_tab_channel_name">收到分頁</string>
     <!-- Description of the "receive tabs" notification channel. Displayed in the "App notifications" system settings for the app -->
-    <string name="fxa_received_tab_channel_description">收到來自其他 Firefox 裝置的分頁通知。</string>
+    <string name="fxa_received_tab_channel_description">收到來自其他 Polefox 裝置的分頁通知。</string>
 
     <!--  The body for these is the URL of the tab received  -->
     <string name="fxa_tab_received_notification_name">收到分頁</string>
@@ -507,7 +507,7 @@
     <string name="preferences_usage_data_description">分享您瀏覽器的效能、使用方式、硬體設備、與自訂功能的資料給 Mozilla 以幫助我們讓 %1$s 變得更好</string>
     <!-- Preference switch for marketing data collection -->
     <string name="preferences_marketing_data">行銷資料</string>
-    <!-- Preference description for marketing data collection, parameter is the app name (e.g. Firefox) -->
+    <!-- Preference description for marketing data collection, parameter is the app name (e.g. Polefox) -->
     <string name="preferences_marketing_data_description">與我們的行動行銷服務供應商 Leanplum 分享您在 %1$s 使用了哪些功能。</string>
     <!-- Preference description for marketing data collection -->
     <string name="preferences_marketing_data_description2">與我們的行動行銷服務廠商 Adjust 分享基本使用資料</string>
@@ -530,7 +530,7 @@
     <!-- Header of the Turn on Sync preference view -->
     <string name="preferences_sync">開啟 Sync</string>
     <!-- Preference for pairing -->
-    <string name="preferences_sync_pair">使用桌面版 Firefox 掃描配對碼</string>
+    <string name="preferences_sync_pair">使用桌面版 Polefox 掃描配對碼</string>
     <!-- Preference for account login -->
     <string name="preferences_sync_sign_in">登入</string>
 
@@ -671,8 +671,8 @@
     <string name="studies_remove">移除</string>
     <!-- Title of the active section on the studies list -->
     <string name="studies_active">進行中</string>
-    <!-- Description for studies, it indicates why Firefox use studies -->
-    <string name="studies_description">Firefox 會不定時安裝並執行使用者研究。</string>
+    <!-- Description for studies, it indicates why Polefox use studies -->
+    <string name="studies_description">Polefox 會不定時安裝並執行使用者研究。</string>
     <!-- Learn more link for studies, links to an article for more information about studies. -->
     <string name="studies_learn_more">了解更多</string>
 
@@ -1106,7 +1106,7 @@
     <!-- An option to connect additional devices -->
     <string name="sync_connect_device">連結其他裝置</string>
     <!-- The dialog text shown when additional devices are not available -->
-    <string name="sync_connect_device_dialog">請在至少另一台裝置上的 Firefox 登入才能傳送分頁。</string>
+    <string name="sync_connect_device_dialog">請在至少另一台裝置上的 Polefox 登入才能傳送分頁。</string>
     <!-- Confirmation dialog button -->
     <string name="sync_confirmation_button">知道了</string>
 
@@ -1275,55 +1275,55 @@
     <string name="deleting_browsing_data_in_progress">正在刪除上網資料…</string>
 
     <!-- Tips -->
-    <!-- text for firefox preview moving tip header "Firefox Preview" and "Firefox Nightly" are intentionally hardcoded -->
-    <string name="tip_firefox_preview_moved_header">Firefox Nightly 已接手原 Firefox Preview 功能</string>
+    <!-- text for firefox preview moving tip header "Polefox Preview" and "Polefox Nightly" are intentionally hardcoded -->
+    <string name="tip_firefox_preview_moved_header">Polefox Nightly 已接手原 Polefox Preview 功能</string>
     <!-- text for firefox preview moving tip description -->
-    <string name="tip_firefox_preview_moved_description">Firefox Nightly 每天都會更新，當中包含實驗中的新功能，然而這些新功能可能會較不穩定。\n\n若想要有較穩定的使用體驗，請下載 Beta 測試版。</string>
+    <string name="tip_firefox_preview_moved_description">Polefox Nightly 每天都會更新，當中包含實驗中的新功能，然而這些新功能可能會較不穩定。\n\n若想要有較穩定的使用體驗，請下載 Beta 測試版。</string>
 
-    <!-- text for firefox preview moving tip button. "Firefox for Android Beta" is intentionally hardcoded -->
-    <string name="tip_firefox_preview_moved_button_2">下載 Firefox for Android Beta 測試版</string>
+    <!-- text for firefox preview moving tip button. "Polefox for Android Beta" is intentionally hardcoded -->
+    <string name="tip_firefox_preview_moved_button_2">下載 Polefox for Android Beta 測試版</string>
 
-    <!-- text for firefox preview moving tip header. "Firefox Nightly" is intentionally hardcoded -->
-    <string name="tip_firefox_preview_moved_header_preview_installed">Firefox Nightly 版本更新</string>
+    <!-- text for firefox preview moving tip header. "Polefox Nightly" is intentionally hardcoded -->
+    <string name="tip_firefox_preview_moved_header_preview_installed">Polefox Nightly 版本更新</string>
     <!-- text for firefox preview moving tip description -->
-    <string name="tip_firefox_preview_moved_description_preview_installed">此應用程式不會再收到安全性更新。請改用新版的 Nightly 並停止使用此版應用程式。\n\n註冊 Firefox 帳號，即可快速移轉書籤、登入資訊、瀏覽紀錄到新版本。</string>
+    <string name="tip_firefox_preview_moved_description_preview_installed">此應用程式不會再收到安全性更新。請改用新版的 Nightly 並停止使用此版應用程式。\n\n註冊 Polefox 帳號，即可快速移轉書籤、登入資訊、瀏覽紀錄到新版本。</string>
     <!-- text for firefox preview moving tip button  -->
     <string name="tip_firefox_preview_moved_button_preview_installed">改用新版 Nightly</string>
 
-    <!-- text for firefox preview moving tip header. "Firefox Nightly" is intentionally hardcoded -->
-    <string name="tip_firefox_preview_moved_header_preview_not_installed">Firefox Nightly 版本更新</string>
+    <!-- text for firefox preview moving tip header. "Polefox Nightly" is intentionally hardcoded -->
+    <string name="tip_firefox_preview_moved_header_preview_not_installed">Polefox Nightly 版本更新</string>
     <!-- text for firefox preview moving tip description -->
-    <string name="tip_firefox_preview_moved_description_preview_not_installed">此應用程式不會再收到安全性更新。請改用新版的 Nightly 並停止使用此版應用程式。\n\n註冊 Firefox 帳號，即可快速移轉書籤、登入資訊、瀏覽紀錄到新版本。</string>
+    <string name="tip_firefox_preview_moved_description_preview_not_installed">此應用程式不會再收到安全性更新。請改用新版的 Nightly 並停止使用此版應用程式。\n\n註冊 Polefox 帳號，即可快速移轉書籤、登入資訊、瀏覽紀錄到新版本。</string>
     <!-- text for firefox preview moving tip button  -->
     <string name="tip_firefox_preview_moved_button_preview_not_installed">下載新版 Nightly</string>
 
     <!-- Onboarding -->
     <!-- Text for onboarding welcome message
-    The first parameter is the name of the app (e.g. Firefox Preview) -->
+    The first parameter is the name of the app (e.g. Polefox Preview) -->
     <string name="onboarding_header">歡迎使用 %s！</string>
-    <!-- text for the Firefox Accounts section header -->
+    <!-- text for the Polefox Accounts section header -->
     <string name="onboarding_fxa_section_header">已經有帳號了嗎？</string>
     <!-- text for the "What's New" onboarding card header -->
     <string moz:removedIn="94" name="onboarding_whats_new_header1" tools:ignore="UnusedResources">看看有什麼新鮮事</string>
     <!-- text for the "what's new" onboarding card description
-    The first parameter is the short name of the app (e.g. Firefox) -->
+    The first parameter is the short name of the app (e.g. Polefox) -->
     <string moz:removedIn="94" name="onboarding_whats_new_description" tools:ignore="UnusedResources">對重新設計的 %s 有好奇的地方嗎？想知道哪裡變得不一樣了？</string>
     <!-- text for underlined clickable link that is part of "what's new" onboarding card description that links to an FAQ -->
     <string moz:removedIn="94" name="onboarding_whats_new_description_linktext" tools:ignore="UnusedResources">在此尋找答案</string>
-    <!-- text for the Firefox account onboarding sign in card header. The word "Firefox" should not be translated -->
-    <string name="onboarding_account_sign_in_header_1">在不同裝置間同步 Firefox</string>
-    <!-- Text for the button to learn more about signing in to your Firefox account -->
-    <string name="onboarding_manual_sign_in_description">將 Firefox 上的書籤、瀏覽紀錄、網站密碼帶到此裝置。</string>
+    <!-- text for the Polefox account onboarding sign in card header. The word "Polefox" should not be translated -->
+    <string name="onboarding_account_sign_in_header_1">在不同裝置間同步 Polefox</string>
+    <!-- Text for the button to learn more about signing in to your Polefox account -->
+    <string name="onboarding_manual_sign_in_description">將 Polefox 上的書籤、瀏覽紀錄、網站密碼帶到此裝置。</string>
     <!-- text for the firefox account onboarding card header when we detect you're already signed in to
-        another Firefox browser. (The word `Firefox` should not be translated)
+        another Polefox browser. (The word `Polefox` should not be translated)
         The first parameter is the email of the detected user's account -->
-    <string name="onboarding_firefox_account_auto_signin_header_3">您已經在此裝置的另一套 Firefox 瀏覽器以 %s 登入。也要使用此帳號登入嗎？</string>
+    <string name="onboarding_firefox_account_auto_signin_header_3">您已經在此裝置的另一套 Polefox 瀏覽器以 %s 登入。也要使用此帳號登入嗎？</string>
     <!-- text for the button to confirm automatic sign-in -->
     <string name="onboarding_firefox_account_auto_signin_confirm">好，請幫我登入</string>
     <!-- text for the automatic sign-in button while signing in is in process -->
     <string name="onboarding_firefox_account_signing_in">登入中…</string>
 
-    <!-- text for the button to manually sign into Firefox account. -->
+    <!-- text for the button to manually sign into Polefox account. -->
     <string name="onboarding_firefox_account_sign_in_1">註冊</string>
     <!-- text for the button to stay signed out when presented with an option to automatically sign-in. -->
     <string name="onboarding_firefox_account_stay_signed_out">不要登入</string>
@@ -1333,8 +1333,8 @@
     <string name="onboarding_firefox_account_automatic_signin_failed">登入失敗</string>
     <!-- text for the tracking protection onboarding card header -->
     <string name="onboarding_tracking_protection_header_3">隨時都有隱私保護</string>
-    <!-- text for the tracking protection card description. 'Firefox' intentionally hardcoded here -->
-    <string name="onboarding_tracking_protection_description_3">Firefox 會自動封鎖讓大企業在網路上偷偷跟蹤您的程式。</string>
+    <!-- text for the tracking protection card description. 'Polefox' intentionally hardcoded here -->
+    <string name="onboarding_tracking_protection_description_3">Polefox 會自動封鎖讓大企業在網路上偷偷跟蹤您的程式。</string>
     <!-- text for tracking protection radio button option for standard level of blocking -->
     <string name="onboarding_tracking_protection_standard_button_2">標準（預設）</string>
     <!-- text for standard blocking option button description -->
@@ -1361,7 +1361,7 @@
     <!-- text for the privacy notice onboarding card header -->
     <string name="onboarding_privacy_notice_header">您的隱私權</string>
     <!-- text for the privacy notice onboarding card description
-    The first parameter is the name of the app (e.g. Firefox Preview) Substitute %s for long browser name. -->
+    The first parameter is the name of the app (e.g. Polefox Preview) Substitute %s for long browser name. -->
     <string name="onboarding_privacy_notice_description2">我們將 %s 設計成讓您可以完整控制要在網路上分享哪些東西、以及與我們分享哪些東西。</string>
     <!-- Text for the button to read the privacy notice -->
     <string name="onboarding_privacy_notice_read_button">閱讀我們的隱私權公告</string>
@@ -1397,18 +1397,18 @@
     <!-- Title of QR Pairing Fragment -->
     <string name="sync_scan_code">掃描 QR Code</string>
     <!-- Instructions on how to access pairing -->
-    <string name="sign_in_instructions"><![CDATA[在電腦上使用 Firefox 開啟 <b>https://firefox.com/pair</b>]]></string>
+    <string name="sign_in_instructions"><![CDATA[在電腦上使用 Polefox 開啟 <b>https://firefox.com/pair</b>]]></string>
     <!-- Text shown for sign in pairing when ready -->
     <string name="sign_in_ready_for_scan">準備掃描</string>
     <!-- Text shown for settings option for sign with pairing -->
     <string name="sign_in_with_camera">使用攝影機登入</string>
     <!-- Text shown for settings option for sign with email -->
     <string name="sign_in_with_email">改用電子郵件</string>
-    <!-- Text shown for settings option for create new account text.'Firefox' intentionally hardcoded here.-->
-    <string name="sign_in_create_account_text"><![CDATA[沒有帳號嗎？<u>註冊一組</u>就能在不同裝置間同步 Firefox。]]></string>
+    <!-- Text shown for settings option for create new account text.'Polefox' intentionally hardcoded here.-->
+    <string name="sign_in_create_account_text"><![CDATA[沒有帳號嗎？<u>註冊一組</u>就能在不同裝置間同步 Polefox。]]></string>
     <!-- Text shown in confirmation dialog to sign out of account -->
-    <string name="sign_out_confirmation_message">Firefox 將會停止與您帳號間的同步，但不會刪除此裝置上的任何瀏覽資料。</string>
-    <!-- Text shown in confirmation dialog to sign out of account. The first parameter is the name of the app (e.g. Firefox Preview) -->
+    <string name="sign_out_confirmation_message">Polefox 將會停止與您帳號間的同步，但不會刪除此裝置上的任何瀏覽資料。</string>
+    <!-- Text shown in confirmation dialog to sign out of account. The first parameter is the name of the app (e.g. Polefox Preview) -->
     <string name="sign_out_confirmation_message_2">%s 將會停止與您帳號間的同步，但不會刪除此裝置上的任何瀏覽資料。</string>
     <!-- Option to continue signing out of account shown in confirmation dialog to sign out of account -->
     <string name="sign_out_disconnect">取消連線</string>
@@ -1585,9 +1585,9 @@
     <string name="preferences_passwords_save_logins_never_save">永不儲存</string>
     <!-- Preference for autofilling saved logins in Fenix -->
     <string moz:removedIn="93" name="preferences_passwords_autofill" tools:ignore="UnusedResources">自動填寫</string>
-    <!-- Preference for autofilling saved logins in Firefox (in web content), %1$s will be replaced with the app name -->
+    <!-- Preference for autofilling saved logins in Polefox (in web content), %1$s will be replaced with the app name -->
     <string name="preferences_passwords_autofill2">自動填入 %1$s 欄位</string>
-    <!-- Description for the preference for autofilling saved logins in Firefox (in web content), %1$s will be replaced with the app name -->
+    <!-- Description for the preference for autofilling saved logins in Polefox (in web content), %1$s will be replaced with the app name -->
     <string name="preferences_passwords_autofill_description">使用 %1$s 時自動填寫並儲存網站使用者名稱與密碼。</string>
     <!-- Preference for autofilling logins from Fenix in other apps (e.g. autofilling the Twitter app) -->
     <string name="preferences_android_autofill">在其他應用程式中也自動填寫</string>
@@ -1906,13 +1906,13 @@
     <string name="synced_tabs_connect_another_device">連結另一部裝置。</string>
     <!-- Text displayed asking user to re-authenticate -->
     <string name="synced_tabs_reauth">請重新登入。</string>
-    <!-- Text displayed when user has disabled tab syncing in Firefox Sync Account -->
+    <!-- Text displayed when user has disabled tab syncing in Polefox Sync Account -->
     <string name="synced_tabs_enable_tab_syncing">請開啟分頁同步。</string>
     <!-- Text displayed when user has no tabs that have been synced -->
-    <string name="synced_tabs_no_tabs">您其他裝置上的 Firefox 沒有任何開啟的分頁。</string>
-    <!-- Text displayed in the synced tabs screen when a user is not signed in to Firefox Sync describing Synced Tabs -->
+    <string name="synced_tabs_no_tabs">您其他裝置上的 Polefox 沒有任何開啟的分頁。</string>
+    <!-- Text displayed in the synced tabs screen when a user is not signed in to Polefox Sync describing Synced Tabs -->
     <string name="synced_tabs_sign_in_message">檢視您其他裝置中的分頁清單。</string>
-    <!-- Text displayed on a button in the synced tabs screen to link users to sign in when a user is not signed in to Firefox Sync -->
+    <!-- Text displayed on a button in the synced tabs screen to link users to sign in when a user is not signed in to Polefox Sync -->
     <string name="synced_tabs_sign_in_button">登入 Sync</string>
 
     <!-- The text displayed when a synced device has no tabs to show in the list of Synced Tabs. -->
@@ -1951,7 +1951,7 @@
     <string name="inactive_tabs_7_days">1 週</string>
 
     <!-- Default browser experiment -->
-    <string name="default_browser_experiment_card_text">設定使用 Firefox 自動開啟網站、郵件、簡訊當中的鏈結。</string>
+    <string name="default_browser_experiment_card_text">設定使用 Polefox 自動開啟網站、郵件、簡訊當中的鏈結。</string>
 
     <!-- Content description for close button in collection placeholder. -->
     <string name="remove_home_collection_placeholder_content_description">移除</string>

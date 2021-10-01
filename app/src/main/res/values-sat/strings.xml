@@ -83,8 +83,8 @@
     <string name="cfr_neg_button_text">ᱵᱟᱝᱟ ᱥᱟᱨᱦᱟᱣ</string>
 
     <!-- Open in App "contextual feature recommendation" (CFR) -->
-    <!-- Text for the info message. 'Firefox' intentionally hardcoded here.-->
-    <string name="open_in_app_cfr_info_message">ᱟᱢ ᱮᱯᱯ ᱠᱚ ᱮᱢᱟᱱ ᱨᱮ ᱟᱡ ᱛᱮᱜᱮ ᱞᱤᱝᱠ ᱠᱚ ᱮᱢᱟᱱ ᱚᱰᱚᱠ ᱨᱮᱭᱟᱜ Firefox ᱨᱮ ᱥᱮᱴ ᱫᱟᱲᱮᱟᱜᱼᱟᱢ ᱾</string>
+    <!-- Text for the info message. 'Polefox' intentionally hardcoded here.-->
+    <string name="open_in_app_cfr_info_message">ᱟᱢ ᱮᱯᱯ ᱠᱚ ᱮᱢᱟᱱ ᱨᱮ ᱟᱡ ᱛᱮᱜᱮ ᱞᱤᱝᱠ ᱠᱚ ᱮᱢᱟᱱ ᱚᱰᱚᱠ ᱨᱮᱭᱟᱜ Polefox ᱨᱮ ᱥᱮᱴ ᱫᱟᱲᱮᱟᱜᱼᱟᱢ ᱾</string>
     <!-- Text for the positive action button -->
     <string name="open_in_app_cfr_positive_button_text">ᱥᱟᱡᱟᱣ ᱠᱚ ᱨᱮ ᱪᱟᱞᱟᱜ ᱢᱮ</string>
 
@@ -258,8 +258,8 @@
     <string name="search_engine_suggestions_description">ᱴᱷᱤᱠᱬᱟ ᱵᱟᱨ ᱠᱷᱚᱱ ᱥᱤᱫᱷᱟᱹ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ</string>
 
     <!-- Search Widget -->
-    <!-- Content description for searching with a widget. Firefox is intentionally hardcoded.-->
-    <string name="search_widget_content_description">ᱱᱟᱶᱟ Firefox ᱴᱮᱵᱽ ᱠᱷᱩᱞᱟᱹᱭ ᱢᱮ</string>
+    <!-- Content description for searching with a widget. Polefox is intentionally hardcoded.-->
+    <string name="search_widget_content_description">ᱱᱟᱶᱟ Polefox ᱴᱮᱵᱽ ᱠᱷᱩᱞᱟᱹᱭ ᱢᱮ</string>
     <!-- Text preview for smaller sized widgets -->
     <string name="search_widget_text_short">ᱥᱮᱸᱫᱽᱨᱟ</string>
     <!-- Text preview for larger sized widgets -->
@@ -319,12 +319,12 @@
     <string name="preferences_add_private_browsing_shortcut">ᱱᱤᱡᱮᱨᱟᱜ ᱵᱨᱟᱩᱡᱤᱝ ᱠᱷᱟᱴᱚᱢᱟᱪᱷᱟ ᱥᱮᱞᱮᱫᱽ ᱢᱮ</string>
     <!-- Preference for accessibility -->
     <string name="preferences_accessibility">ᱟᱹᱛᱩᱨ ᱫᱟᱲᱮᱭᱟᱜ</string>
-    <!-- Preference to override the Firefox Account server -->
-    <string name="preferences_override_fxa_server">ᱠᱟᱹᱥᱴᱚᱢ Firefox  ᱠᱷᱟᱛᱟ ᱥᱟᱹᱨᱣᱟᱹᱨ</string>
+    <!-- Preference to override the Polefox Account server -->
+    <string name="preferences_override_fxa_server">ᱠᱟᱹᱥᱴᱚᱢ Polefox  ᱠᱷᱟᱛᱟ ᱥᱟᱹᱨᱣᱟᱹᱨ</string>
     <!-- Preference to override the Sync token server -->
     <string name="preferences_override_sync_tokenserver">ᱠᱩᱥᱤᱭᱟᱜ ᱥᱭᱸᱠ ᱥᱟᱹᱨᱣᱟᱹᱨ</string>
     <!-- Toast shown after updating the FxA/Sync server override preferences -->
-    <string name="toast_override_fxa_sync_server_done">Firefox ᱠᱷᱟᱛᱟ/ ᱥᱭᱸᱠ ᱠᱟᱹᱨᱣᱟᱹᱨ ᱵᱚᱫᱚᱞᱮᱱᱟ ᱾ ᱵᱚᱫᱚᱞ ᱠᱚ ᱫᱚᱦᱚ ᱞᱟᱹᱜᱤᱫ ᱮᱯᱯᱞᱤᱠᱮᱥᱚᱱ ᱵᱚᱸᱫᱚᱜ ᱠᱟᱱᱟ…</string>
+    <string name="toast_override_fxa_sync_server_done">Polefox ᱠᱷᱟᱛᱟ/ ᱥᱭᱸᱠ ᱠᱟᱹᱨᱣᱟᱹᱨ ᱵᱚᱫᱚᱞᱮᱱᱟ ᱾ ᱵᱚᱫᱚᱞ ᱠᱚ ᱫᱚᱦᱚ ᱞᱟᱹᱜᱤᱫ ᱮᱯᱯᱞᱤᱠᱮᱥᱚᱱ ᱵᱚᱸᱫᱚᱜ ᱠᱟᱱᱟ…</string>
     <!-- Preference category for account information -->
     <string name="preferences_category_account">ᱠᱷᱟᱛᱟ</string>
     <!-- Preference shown on banner to sign into account -->
@@ -340,9 +340,9 @@
     <!-- Preference for settings related to visual options -->
     <string name="preferences_customize">ᱠᱩᱥᱤᱭᱟᱜ ᱛᱮᱭᱟᱨ</string>
     <!-- Preference description for banner about signing in -->
-    <string name="preferences_sign_in_description">ᱵᱩᱠᱢᱟᱨᱠ, ᱱᱟᱜᱟᱢ ᱟᱨ ᱵᱟᱹᱲᱛᱤ ᱠᱚ ᱟᱢᱟᱜ Firefox ᱠᱷᱟᱛᱟ ᱥᱟᱶᱛᱮ ᱥᱭᱸᱠ ᱢᱮ</string>
+    <string name="preferences_sign_in_description">ᱵᱩᱠᱢᱟᱨᱠ, ᱱᱟᱜᱟᱢ ᱟᱨ ᱵᱟᱹᱲᱛᱤ ᱠᱚ ᱟᱢᱟᱜ Polefox ᱠᱷᱟᱛᱟ ᱥᱟᱶᱛᱮ ᱥᱭᱸᱠ ᱢᱮ</string>
     <!-- Preference shown instead of account display name while account profile information isn't available yet. -->
-    <string name="preferences_account_default_name">Firefox ᱠᱷᱟᱛᱟ</string>
+    <string name="preferences_account_default_name">Polefox ᱠᱷᱟᱛᱟ</string>
     <!-- Preference text for account title when there was an error syncing FxA -->
     <string name="preferences_account_sync_error">ᱥᱭᱝᱠ ᱠᱚ ᱪᱟᱹᱞᱩ ᱫᱚᱦᱚ ᱞᱟᱹᱜᱤᱫ ᱫᱩᱦᱲᱟᱹ ᱡᱩᱰᱟᱹᱣ</string>
     <!-- Preference for language -->
@@ -463,7 +463,7 @@
     <string name="fxa_received_tab_channel_name">ᱧᱟᱢᱟᱠᱟᱱ ᱴᱮᱵᱽ ᱠᱚ</string>
 
     <!-- Description of the "receive tabs" notification channel. Displayed in the "App notifications" system settings for the app -->
-    <string name="fxa_received_tab_channel_description">ᱚᱞᱜᱟ Firefox ᱥᱟᱫᱷᱚᱱ ᱠᱷᱚᱱ ᱴᱮᱵᱽ ᱠᱚ ᱨᱮᱭᱟᱜ ᱠᱷᱚᱵᱚᱨ ᱧᱟᱢᱮᱱᱟ ᱾</string>
+    <string name="fxa_received_tab_channel_description">ᱚᱞᱜᱟ Polefox ᱥᱟᱫᱷᱚᱱ ᱠᱷᱚᱱ ᱴᱮᱵᱽ ᱠᱚ ᱨᱮᱭᱟᱜ ᱠᱷᱚᱵᱚᱨ ᱧᱟᱢᱮᱱᱟ ᱾</string>
     <!--  The body for these is the URL of the tab received  -->
     <string name="fxa_tab_received_notification_name">ᱴᱮᱵᱽ ᱧᱟᱢᱮᱱᱟ</string>
     <!-- When multiple tabs have been received -->
@@ -498,7 +498,7 @@
     <string name="preferences_usage_data_description">ᱟᱢᱟᱜ ᱵᱨᱟᱣᱡᱟᱚᱨ ᱨᱮᱭᱟᱜ ᱠᱟᱹᱢᱤ, ᱭᱩᱥᱮᱡ, ᱦᱟᱰᱣᱮᱨ ᱟᱨ ᱠᱟᱹᱥᱴᱚᱢᱟᱭᱡᱮᱥᱚᱱ ᱰᱟᱴᱟ ᱠᱚ Mozilla ᱥᱟᱞᱟᱜ ᱦᱟᱹᱴᱤᱧᱚᱜ ᱠᱟᱱᱟ ᱚᱠᱟ ᱫᱚ %1$s ᱵᱮᱥ ᱛᱮᱭᱟᱜ ᱨᱮ ᱜᱚᱲᱚ ᱮᱢᱟᱭ</string>
     <!-- Preference switch for marketing data collection -->
     <string name="preferences_marketing_data">ᱢᱟᱨᱠᱮᱴᱤᱝ ᱰᱟᱴᱟ</string>
-    <!-- Preference description for marketing data collection, parameter is the app name (e.g. Firefox) -->
+    <!-- Preference description for marketing data collection, parameter is the app name (e.g. Polefox) -->
     <string name="preferences_marketing_data_description">Leanplum ᱚᱠᱚᱭ ᱫᱚ ᱟᱞᱮᱭᱤᱡ ᱢᱚᱵᱟᱭᱤᱞ ᱢᱟᱨᱠᱮᱴᱤᱝ ᱣᱮᱱᱰᱚᱨ ᱠᱟᱱᱟᱭ ᱩᱱᱤ ᱥᱟᱞᱟᱜ %1$s ᱨᱮ ᱯᱷᱤᱪᱚᱨ ᱵᱟᱵᱚᱛ ᱵᱮᱵᱷᱟᱨᱚᱜ ᱠᱟᱱ ᱰᱟᱴᱟ ᱦᱟᱹᱴᱤᱧᱚᱜᱼᱟ ᱾</string>
     <!-- Preference description for marketing data collection -->
     <string name="preferences_marketing_data_description2">Adjust, ᱟᱞᱮᱭᱤᱡ ᱢᱚᱵᱟᱭᱤᱠ ᱢᱟᱨᱠᱮᱴᱤᱝ ᱣᱮᱱᱰᱚᱨ ᱥᱟᱶ ᱵᱮᱥᱤᱠ ᱭᱩᱥᱮᱡᱽ ᱰᱟᱴᱟ ᱦᱟᱹᱴᱤᱧᱚᱜᱼᱟ ᱾</string>
@@ -522,7 +522,7 @@
     <!-- Header of the Turn on Sync preference view -->
     <string name="preferences_sync">ᱥᱭᱸᱠ ᱪᱟᱹᱞᱩᱭ ᱢᱮ</string>
     <!-- Preference for pairing -->
-    <string name="preferences_sync_pair">ᱡᱚᱲᱟᱣ ᱠᱳᱰ ᱥᱠᱟᱱ ᱢᱮ ᱰᱮᱥᱠᱴᱚᱯ Firefox ᱨᱮ</string>
+    <string name="preferences_sync_pair">ᱡᱚᱲᱟᱣ ᱠᱳᱰ ᱥᱠᱟᱱ ᱢᱮ ᱰᱮᱥᱠᱴᱚᱯ Polefox ᱨᱮ</string>
     <!-- Preference for account login -->
     <string name="preferences_sync_sign_in">ᱵᱚᱞᱚᱱ ᱥᱩᱦᱤ</string>
     <!-- Preference for reconnecting to FxA sync -->
@@ -667,8 +667,8 @@
 
     <!-- Title of the active section on the studies list -->
     <string name="studies_active">ᱩᱥᱨᱟᱹᱣ</string>
-    <!-- Description for studies, it indicates why Firefox use studies -->
-    <string name="studies_description">Firefox ᱵᱚᱦᱟᱞ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱟᱨ ᱥᱚᱢᱚᱭ ᱠᱷᱚᱱ ᱥᱚᱢᱚᱨ ᱯᱟᱲᱦᱟᱣ ᱠᱚ ᱪᱟᱹᱞᱩᱜᱼᱟ ᱾</string>
+    <!-- Description for studies, it indicates why Polefox use studies -->
+    <string name="studies_description">Polefox ᱵᱚᱦᱟᱞ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱟᱨ ᱥᱚᱢᱚᱭ ᱠᱷᱚᱱ ᱥᱚᱢᱚᱨ ᱯᱟᱲᱦᱟᱣ ᱠᱚ ᱪᱟᱹᱞᱩᱜᱼᱟ ᱾</string>
     <!-- Learn more link for studies, links to an article for more information about studies. -->
     <string name="studies_learn_more">ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ</string>
     <!-- Dialog message shown after removing a study -->
@@ -1084,7 +1084,7 @@
     <!-- An option to connect additional devices -->
     <string name="sync_connect_device">ᱚᱞᱜᱟ ᱥᱟᱫᱷᱚᱱ ᱡᱩᱰᱟᱹᱣ ᱢᱮ</string>
     <!-- The dialog text shown when additional devices are not available -->
-    <string name="sync_connect_device_dialog">ᱴᱮᱵᱽ ᱵᱷᱮᱡᱟ ᱞᱟᱹᱜᱤᱫ, ᱢᱤᱫ ᱠᱷᱚᱱ ᱡᱟᱹᱥᱛᱤ ᱥᱟᱫᱷᱚᱱ ᱛᱮ Firefox ᱨᱮ ᱵᱚᱞᱚᱱ ᱢᱮ ᱾</string>
+    <string name="sync_connect_device_dialog">ᱴᱮᱵᱽ ᱵᱷᱮᱡᱟ ᱞᱟᱹᱜᱤᱫ, ᱢᱤᱫ ᱠᱷᱚᱱ ᱡᱟᱹᱥᱛᱤ ᱥᱟᱫᱷᱚᱱ ᱛᱮ Polefox ᱨᱮ ᱵᱚᱞᱚᱱ ᱢᱮ ᱾</string>
     <!-- Confirmation dialog button -->
     <string name="sync_confirmation_button">ᱵᱩᱡᱷᱟᱹᱣ ᱠᱮᱫᱟ</string>
     <!-- Share error message -->
@@ -1245,60 +1245,60 @@
     <string name="deleting_browsing_data_in_progress">ᱵᱨᱟᱩᱡᱤᱝ ᱰᱟᱴᱟ ᱢᱮᱴᱟᱣ ᱦᱩᱭᱩ ᱠᱟᱱᱟ…</string>
 
     <!-- Tips -->
-    <!-- text for firefox preview moving tip header "Firefox Preview" and "Firefox Nightly" are intentionally hardcoded -->
-    <string name="tip_firefox_preview_moved_header">Firefox Preview ᱱᱤᱛᱚᱜ ᱫᱚ Firefox Nightly ᱦᱩᱭ ᱮᱱᱟ</string>
+    <!-- text for firefox preview moving tip header "Polefox Preview" and "Polefox Nightly" are intentionally hardcoded -->
+    <string name="tip_firefox_preview_moved_header">Polefox Preview ᱱᱤᱛᱚᱜ ᱫᱚ Polefox Nightly ᱦᱩᱭ ᱮᱱᱟ</string>
 
     <!-- text for firefox preview moving tip description -->
     <string name="tip_firefox_preview_moved_description">
-        Firefox Nightly ᱫᱚ ᱡᱷᱚᱛᱚ ᱟᱹᱭᱩᱵᱽ ᱟᱹᱯᱰᱮᱴᱚᱜ ᱠᱟᱱᱟ ᱟᱨ ᱚᱱᱟ ᱨᱮ ᱮᱠᱥᱯᱮᱨᱤᱢᱮᱱᱴᱟᱞ ᱯᱷᱤᱪᱚᱨ ᱠᱚ ᱢᱮᱱᱟᱜᱼᱟ ᱾
+        Polefox Nightly ᱫᱚ ᱡᱷᱚᱛᱚ ᱟᱹᱭᱩᱵᱽ ᱟᱹᱯᱰᱮᱴᱚᱜ ᱠᱟᱱᱟ ᱟᱨ ᱚᱱᱟ ᱨᱮ ᱮᱠᱥᱯᱮᱨᱤᱢᱮᱱᱴᱟᱞ ᱯᱷᱤᱪᱚᱨ ᱠᱚ ᱢᱮᱱᱟᱜᱼᱟ ᱾
         ᱦᱮᱞᱮ ᱚᱱᱟ ᱫᱚ ᱠᱚᱢ ᱥᱴᱮᱵᱽᱚᱞ ᱛᱟᱦᱮᱸᱱᱟ ᱾ ᱵᱮᱥ ᱥᱴᱮᱵᱽᱟᱹᱞ ᱮᱠᱥᱯᱤᱨᱤᱭᱮᱸᱥ ᱞᱟᱹᱜᱤᱫᱽ ᱟᱞᱮᱭᱟᱜ ᱵᱮᱴᱟ ᱵᱨᱟᱣᱡᱟᱹᱨ ᱰᱟᱩᱱᱞᱚᱰ ᱯᱮ ᱾</string>
-    <!-- text for firefox preview moving tip button. "Firefox for Android Beta" is intentionally hardcoded -->
-    <string name="tip_firefox_preview_moved_button_2">Firefox ᱧᱟᱢ ᱢᱮ Android Beta ᱞᱟᱹᱜᱤᱫ ᱛᱮ</string>
+    <!-- text for firefox preview moving tip button. "Polefox for Android Beta" is intentionally hardcoded -->
+    <string name="tip_firefox_preview_moved_button_2">Polefox ᱧᱟᱢ ᱢᱮ Android Beta ᱞᱟᱹᱜᱤᱫ ᱛᱮ</string>
 
-    <!-- text for firefox preview moving tip header. "Firefox Nightly" is intentionally hardcoded -->
-    <string name="tip_firefox_preview_moved_header_preview_installed">Firefox Nightly ᱩᱪᱟᱹᱰ ᱟᱠᱟᱱᱟ</string>
+    <!-- text for firefox preview moving tip header. "Polefox Nightly" is intentionally hardcoded -->
+    <string name="tip_firefox_preview_moved_header_preview_installed">Polefox Nightly ᱩᱪᱟᱹᱰ ᱟᱠᱟᱱᱟ</string>
     <!-- text for firefox preview moving tip description -->
     <string name="tip_firefox_preview_moved_description_preview_installed">
         ᱱᱚᱶᱟ ᱮᱯᱯ ᱫᱟ ᱥᱮᱠᱭᱚᱨᱤᱴᱭ ᱟᱹᱯᱰᱮᱴᱠᱚ ᱵᱟᱭ ᱧᱟᱢᱟᱭ ᱾ ᱮᱯᱯ ᱵᱮᱵᱷᱟᱨ ᱵᱚᱸᱫᱚᱭ ᱯᱮ ᱟᱨ ᱱᱟᱶᱟ Nighty ᱛᱮ ᱪᱟᱞᱟᱜ ᱢᱮ ᱾
-        \n\nᱟᱢᱟᱜᱽ ᱵᱩᱻᱠᱢᱟᱨᱠᱠᱚ, ᱵᱚᱞᱚᱠᱚ, ᱟᱨ ᱱᱟᱜᱟᱢ ᱚᱠᱜᱟ ᱮᱯᱯ ᱛᱮ ᱩᱪᱟᱹᱲ ᱞᱟᱹᱜᱤᱫᱽ, ᱱᱟᱶᱟ Firefox ᱠᱷᱟᱛᱟ ᱛᱮᱭᱟᱨ ᱢᱮ ᱾</string>
+        \n\nᱟᱢᱟᱜᱽ ᱵᱩᱻᱠᱢᱟᱨᱠᱠᱚ, ᱵᱚᱞᱚᱠᱚ, ᱟᱨ ᱱᱟᱜᱟᱢ ᱚᱠᱜᱟ ᱮᱯᱯ ᱛᱮ ᱩᱪᱟᱹᱲ ᱞᱟᱹᱜᱤᱫᱽ, ᱱᱟᱶᱟ Polefox ᱠᱷᱟᱛᱟ ᱛᱮᱭᱟᱨ ᱢᱮ ᱾</string>
     <!-- text for firefox preview moving tip button  -->
     <string name="tip_firefox_preview_moved_button_preview_installed">ᱱᱟᱶᱟ Nightly ᱛᱮ ᱩᱪᱟᱹᱰᱼᱚᱜ ᱢᱮ</string>
 
-    <!-- text for firefox preview moving tip header. "Firefox Nightly" is intentionally hardcoded -->
-    <string name="tip_firefox_preview_moved_header_preview_not_installed">Firefox Nightly ᱩᱪᱟᱹᱰ ᱟᱠᱟᱱᱟ</string>
+    <!-- text for firefox preview moving tip header. "Polefox Nightly" is intentionally hardcoded -->
+    <string name="tip_firefox_preview_moved_header_preview_not_installed">Polefox Nightly ᱩᱪᱟᱹᱰ ᱟᱠᱟᱱᱟ</string>
     <!-- text for firefox preview moving tip description -->
     <string name="tip_firefox_preview_moved_description_preview_not_installed">
         ᱱᱚᱶᱟ ᱮᱯᱯ ᱫᱚ ᱟᱨ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱟᱹᱯᱰᱮᱴ ᱵᱟᱭ ᱧᱟᱢᱟᱭ ᱾ ᱱᱟᱶᱟ Nightly ᱵᱮᱵᱷᱟᱨ ᱢᱮ ᱟᱨ ᱮᱯᱯ ᱵᱮᱵᱷᱟᱨ ᱵᱚᱸᱫᱽᱚᱭ ᱢᱮ ᱾
-        \n\nᱵᱩᱻᱠᱢᱟᱨᱠ, ᱞᱚᱜᱤᱱ ᱟᱨ ᱱᱟᱜᱟᱢ ᱠᱚ ᱚᱞᱜᱟ ᱮᱯᱯ ᱛᱮ ᱩᱪᱟᱹᱲ ᱞᱟᱹᱜᱤᱫᱽ ᱱᱟᱶᱟ Firefox ᱠᱷᱟᱛᱟ ᱛᱮᱭᱟᱨ ᱢᱮ ᱾</string>
+        \n\nᱵᱩᱻᱠᱢᱟᱨᱠ, ᱞᱚᱜᱤᱱ ᱟᱨ ᱱᱟᱜᱟᱢ ᱠᱚ ᱚᱞᱜᱟ ᱮᱯᱯ ᱛᱮ ᱩᱪᱟᱹᱲ ᱞᱟᱹᱜᱤᱫᱽ ᱱᱟᱶᱟ Polefox ᱠᱷᱟᱛᱟ ᱛᱮᱭᱟᱨ ᱢᱮ ᱾</string>
     <!-- text for firefox preview moving tip button  -->
     <string name="tip_firefox_preview_moved_button_preview_not_installed">ᱱᱟᱶᱟ Nightly ᱧᱟᱢ ᱢᱮ</string>
 
     <!-- Onboarding -->
     <!-- Text for onboarding welcome message
-    The first parameter is the name of the app (e.g. Firefox Preview) -->
+    The first parameter is the name of the app (e.g. Polefox Preview) -->
     <string name="onboarding_header">%s ᱨᱮ ᱥᱟᱹᱜᱩᱱ ᱫᱟᱨᱟᱢ!</string>
-    <!-- text for the Firefox Accounts section header -->
+    <!-- text for the Polefox Accounts section header -->
     <string name="onboarding_fxa_section_header">ᱞᱟᱦᱟ ᱠᱷᱚᱱ ᱠᱷᱟᱛᱟ ᱢᱮᱱᱟᱜ ᱛᱟᱢᱟ?</string>
     <!-- text for the "What's New" onboarding card header -->
     <string moz:removedIn="94" name="onboarding_whats_new_header1" tools:ignore="UnusedResources">ᱧᱮᱞ ᱢᱮ ᱪᱮᱫ ᱱᱟᱶᱟ ᱢᱮᱱᱟᱜ-ᱟ</string>
     <!-- text for the "what's new" onboarding card description
-    The first parameter is the short name of the app (e.g. Firefox) -->
+    The first parameter is the short name of the app (e.g. Polefox) -->
     <string moz:removedIn="94" name="onboarding_whats_new_description" tools:ignore="UnusedResources">ᱨᱤᱰᱤᱡᱟᱭᱤᱱ %s ᱵᱟᱵᱚᱛ ᱠᱩᱞᱤ ᱢᱮᱱᱟᱜᱼᱟ? ᱵᱚᱫᱚᱞ ᱠᱚ ᱵᱟᱰᱟᱭ ᱥᱟᱱᱟᱢ ᱠᱟᱱᱟ ᱥᱮ?</string>
     <!-- text for underlined clickable link that is part of "what's new" onboarding card description that links to an FAQ -->
     <string moz:removedIn="94" name="onboarding_whats_new_description_linktext" tools:ignore="UnusedResources">ᱱᱚᱰᱮ ᱛᱮᱞᱟ ᱠᱚ ᱧᱟᱢ ᱟᱢ</string>
-    <!-- text for the Firefox account onboarding sign in card header. The word "Firefox" should not be translated -->
-    <string name="onboarding_account_sign_in_header_1">ᱥᱟᱫᱷᱚᱱ ᱵᱷᱤᱛᱨᱭ ᱨᱮ Firefox ᱥᱭᱸᱠ ᱢᱮ</string>
-    <!-- Text for the button to learn more about signing in to your Firefox account -->
+    <!-- text for the Polefox account onboarding sign in card header. The word "Polefox" should not be translated -->
+    <string name="onboarding_account_sign_in_header_1">ᱥᱟᱫᱷᱚᱱ ᱵᱷᱤᱛᱨᱭ ᱨᱮ Polefox ᱥᱭᱸᱠ ᱢᱮ</string>
+    <!-- Text for the button to learn more about signing in to your Polefox account -->
     <string name="onboarding_manual_sign_in_description">ᱯᱷᱟᱭᱟᱹᱨᱯᱷᱚᱠᱥ ᱨᱮ ᱵᱩᱠᱢᱟᱨᱠᱥ, ᱦᱤᱛᱟᱹᱞ, ᱟᱨ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱨᱮ ᱟᱹᱜᱩ ᱪᱷᱚᱭ ᱢᱮ ᱾</string>
     <!-- text for the firefox account onboarding card header when we detect you're already signed in to
-        another Firefox browser. (The word `Firefox` should not be translated)
+        another Polefox browser. (The word `Polefox` should not be translated)
         The first parameter is the email of the detected user's account -->
-    <string name="onboarding_firefox_account_auto_signin_header_3">ᱟᱢ %s ᱞᱮᱠᱷᱟᱛᱮ ᱚᱞᱜᱟ Firefox ᱵᱨᱟᱩᱡᱟᱹᱨ ᱨᱮ ᱟᱢᱟᱜ ᱥᱟᱫᱷᱚᱱ ᱛᱮ ᱵᱚᱞᱚ ᱟᱠᱟᱱᱟᱢ ᱾ ᱟᱢ ᱪᱮᱫ ᱱᱚᱶᱟ ᱠᱷᱟᱛᱟ ᱨᱮ ᱵᱚᱞᱚ ᱥᱟᱱᱟᱢ ᱠᱟᱱᱟ?</string>
+    <string name="onboarding_firefox_account_auto_signin_header_3">ᱟᱢ %s ᱞᱮᱠᱷᱟᱛᱮ ᱚᱞᱜᱟ Polefox ᱵᱨᱟᱩᱡᱟᱹᱨ ᱨᱮ ᱟᱢᱟᱜ ᱥᱟᱫᱷᱚᱱ ᱛᱮ ᱵᱚᱞᱚ ᱟᱠᱟᱱᱟᱢ ᱾ ᱟᱢ ᱪᱮᱫ ᱱᱚᱶᱟ ᱠᱷᱟᱛᱟ ᱨᱮ ᱵᱚᱞᱚ ᱥᱟᱱᱟᱢ ᱠᱟᱱᱟ?</string>
     <!-- text for the button to confirm automatic sign-in -->
     <string name="onboarding_firefox_account_auto_signin_confirm">ᱦᱮᱸ, ᱵᱚᱞᱚ ᱪᱷᱚᱭᱤᱧ ᱢᱮ</string>
     <!-- text for the automatic sign-in button while signing in is in process -->
     <string name="onboarding_firefox_account_signing_in">ᱵᱚᱞᱚᱱᱟ ᱠᱟᱹᱱᱟᱹᱧ…</string>
-    <!-- text for the button to manually sign into Firefox account. -->
+    <!-- text for the button to manually sign into Polefox account. -->
     <string name="onboarding_firefox_account_sign_in_1">ᱥᱩᱦᱤ ᱮᱡ ᱪᱷᱚ</string>
     <!-- text for the button to stay signed out when presented with an option to automatically sign-in. -->
     <string name="onboarding_firefox_account_stay_signed_out">ᱵᱟᱦᱨᱮ ᱨᱮᱜᱮ ᱛᱟᱦᱮᱸ ᱠᱚᱜ ᱢᱮ</string>
@@ -1308,7 +1308,7 @@
     <string name="onboarding_firefox_account_automatic_signin_failed">ᱵᱚᱞᱚᱱ ᱥᱩᱦᱤ ᱰᱤᱜᱟᱹᱣᱮᱱᱟ</string>
     <!-- text for the tracking protection onboarding card header -->
     <string name="onboarding_tracking_protection_header_3">ᱯᱨᱟᱭᱣᱮᱥᱭ ᱡᱷᱚᱛᱚ ᱵᱮᱲᱟ ᱮᱢ ᱪᱷᱚᱭ ᱢᱮ</string>
-    <!-- text for the tracking protection card description. 'Firefox' intentionally hardcoded here -->
+    <!-- text for the tracking protection card description. 'Polefox' intentionally hardcoded here -->
     <string name="onboarding_tracking_protection_description_3">ᱯᱷᱟᱭᱟᱹᱨᱯᱷᱚᱠᱥ ᱫᱚ ᱵᱟᱦᱨᱮ ᱠᱚᱢᱯᱟᱱᱤ ᱠᱚ ᱣᱮᱵᱽ ᱨᱮ ᱟᱢ ᱯᱟᱸᱡᱟ ᱠᱚ ᱵᱚᱸᱫᱚᱜᱼᱟ ᱾</string>
     <!-- text for tracking protection radio button option for standard level of blocking -->
     <string name="onboarding_tracking_protection_standard_button_2">ᱵᱮᱥᱟᱜ (ᱢᱩᱞ ᱯᱷᱮᱲᱟᱛ)</string>
@@ -1337,7 +1337,7 @@
     <!-- text for the privacy notice onboarding card header -->
     <string name="onboarding_privacy_notice_header">ᱟᱢᱟᱜ ᱱᱤᱥᱚᱱ</string>
     <!-- text for the privacy notice onboarding card description
-    The first parameter is the name of the app (e.g. Firefox Preview) Substitute %s for long browser name. -->
+    The first parameter is the name of the app (e.g. Polefox Preview) Substitute %s for long browser name. -->
     <string name="onboarding_privacy_notice_description2">ᱟᱞᱮ  %s ᱞᱮ ᱰᱤᱡᱟᱭᱤᱱ ᱟᱠᱟᱫᱼᱟ ᱚᱠᱟ ᱫᱚ ᱡᱟᱦᱟᱱᱟᱜ ᱠᱚ ᱚᱱᱞᱟᱭᱤᱱ ᱦᱟᱹᱴᱤᱧ ᱨᱮ ᱟᱨ ᱚᱠᱟ ᱠᱚ ᱟᱞᱮ ᱦᱟᱹᱤᱧ ᱟᱞᱮᱭᱟᱢ, ᱜᱚᱲᱚ ᱮᱢᱟᱭ ᱾</string>
     <!-- Text for the button to read the privacy notice -->
     <string name="onboarding_privacy_notice_read_button">ᱟᱞᱮᱭᱟᱜ ᱱᱤᱥᱚᱱ ᱱᱚᱴᱤᱥ ᱯᱟᱲᱦᱟᱣ ᱯᱮ</string>
@@ -1372,18 +1372,18 @@
     <!-- Title of QR Pairing Fragment -->
     <string name="sync_scan_code">ᱠᱳᱰ ᱥᱠᱟᱱ ᱢᱮ</string>
     <!-- Instructions on how to access pairing -->
-    <string name="sign_in_instructions"><![CDATA[ᱟᱢᱟᱜ ᱠᱚᱢᱯᱤᱭᱩᱴᱟᱨ ᱨᱮ Firefox ᱡᱷᱤᱡᱽ ᱢᱮ ᱟᱨ <b>https://firefox.com/pair</b> ᱨᱮ ᱪᱟᱞᱟᱜ ᱢᱮ]]></string>
+    <string name="sign_in_instructions"><![CDATA[ᱟᱢᱟᱜ ᱠᱚᱢᱯᱤᱭᱩᱴᱟᱨ ᱨᱮ Polefox ᱡᱷᱤᱡᱽ ᱢᱮ ᱟᱨ <b>https://firefox.com/pair</b> ᱨᱮ ᱪᱟᱞᱟᱜ ᱢᱮ]]></string>
     <!-- Text shown for sign in pairing when ready -->
     <string name="sign_in_ready_for_scan">ᱥᱠᱟᱱ ᱞᱚᱜᱤᱫᱛᱮ ᱛᱮᱭᱟᱨ ᱢᱮᱱᱟᱢᱼᱟ</string>
     <!-- Text shown for settings option for sign with pairing -->
     <string name="sign_in_with_camera">ᱟᱢᱟᱜ ᱠᱮᱢᱮᱨᱟ ᱛᱮ ᱵᱚᱞᱚᱱ ᱥᱩᱦᱤ ᱢᱮ</string>
     <!-- Text shown for settings option for sign with email -->
     <string name="sign_in_with_email">ᱵᱟᱹᱫᱟᱹᱞ ᱛᱮ ᱮᱢᱮᱞ ᱵᱮᱵᱷᱟᱨ ᱢᱮ</string>
-    <!-- Text shown for settings option for create new account text.'Firefox' intentionally hardcoded here.-->
-    <string name="sign_in_create_account_text"><![CDATA[ᱠᱷᱟᱛᱟ ᱵᱟᱹᱱᱩᱜᱼᱟ? <u>ᱢᱤᱫᱴᱟᱹᱝ ᱛᱮᱭᱟᱨ ᱢᱮ</u> ᱰᱥᱫᱷᱚᱱ ᱠᱚ ᱵᱷᱤᱛᱨᱭ ᱨᱮ Firefox ᱥᱭᱸᱠ ᱞᱟᱹᱜᱤᱫ ᱾]]></string>
+    <!-- Text shown for settings option for create new account text.'Polefox' intentionally hardcoded here.-->
+    <string name="sign_in_create_account_text"><![CDATA[ᱠᱷᱟᱛᱟ ᱵᱟᱹᱱᱩᱜᱼᱟ? <u>ᱢᱤᱫᱴᱟᱹᱝ ᱛᱮᱭᱟᱨ ᱢᱮ</u> ᱰᱥᱫᱷᱚᱱ ᱠᱚ ᱵᱷᱤᱛᱨᱭ ᱨᱮ Polefox ᱥᱭᱸᱠ ᱞᱟᱹᱜᱤᱫ ᱾]]></string>
     <!-- Text shown in confirmation dialog to sign out of account -->
-    <string name="sign_out_confirmation_message">Firefox ᱟᱢᱟᱜ ᱠᱷᱟᱛᱟ ᱥᱟᱞᱟᱜ ᱟᱭᱩᱨ ᱢᱤᱫ ᱵᱚᱸᱫᱭ ᱟᱭ, ᱦᱮᱞᱮ ᱟᱢᱟᱜ ᱥᱟᱫᱷᱚᱱ ᱠᱷᱚᱱ ᱪᱮᱫ ᱦᱚᱸ ᱵᱟᱭ ᱢᱮᱴᱟᱣᱟᱭ ᱾</string>
-    <!-- Text shown in confirmation dialog to sign out of account. The first parameter is the name of the app (e.g. Firefox Preview) -->
+    <string name="sign_out_confirmation_message">Polefox ᱟᱢᱟᱜ ᱠᱷᱟᱛᱟ ᱥᱟᱞᱟᱜ ᱟᱭᱩᱨ ᱢᱤᱫ ᱵᱚᱸᱫᱭ ᱟᱭ, ᱦᱮᱞᱮ ᱟᱢᱟᱜ ᱥᱟᱫᱷᱚᱱ ᱠᱷᱚᱱ ᱪᱮᱫ ᱦᱚᱸ ᱵᱟᱭ ᱢᱮᱴᱟᱣᱟᱭ ᱾</string>
+    <!-- Text shown in confirmation dialog to sign out of account. The first parameter is the name of the app (e.g. Polefox Preview) -->
     <string name="sign_out_confirmation_message_2">%s ᱫᱚ ᱟᱢᱟᱜ ᱠᱷᱟᱛᱟ ᱥᱟᱞᱟᱜ ᱥᱭᱝᱠ ᱵᱚᱸᱫᱽᱚᱭ ᱟ , ᱦᱮᱞᱮ ᱟᱢᱟᱜ ᱚᱠᱟ ᱵᱨᱟᱩᱡᱤᱸᱝ ᱰᱟᱴᱟ ᱦᱚᱸ ᱟᱢᱟᱜ ᱥᱟᱫᱷᱚᱱ ᱨᱮ ᱵᱟᱭ ᱢᱮᱴᱟᱣᱜᱼᱟ ᱾</string>
     <!-- Option to continue signing out of account shown in confirmation dialog to sign out of account -->
     <string name="sign_out_disconnect">ᱡᱚᱱᱚᱲᱟᱣ ᱚᱪᱚᱜ</string>
@@ -1561,9 +1561,9 @@
     <!-- Preference for autofilling saved logins in Fenix -->
     <string moz:removedIn="93" name="preferences_passwords_autofill" tools:ignore="UnusedResources">ᱟᱡ ᱛᱮ ᱯᱮᱨᱮᱡᱽ</string>
 
-    <!-- Preference for autofilling saved logins in Firefox (in web content), %1$s will be replaced with the app name -->
+    <!-- Preference for autofilling saved logins in Polefox (in web content), %1$s will be replaced with the app name -->
     <string name="preferences_passwords_autofill2">%1$s ᱨᱮ ᱟᱡ ᱛᱮ ᱯᱩᱨᱟᱹᱣ</string>
-    <!-- Description for the preference for autofilling saved logins in Firefox (in web content), %1$s will be replaced with the app name -->
+    <!-- Description for the preference for autofilling saved logins in Polefox (in web content), %1$s will be replaced with the app name -->
     <string name="preferences_passwords_autofill_description">%1$s ᱨᱮᱭᱟᱜ ᱵᱮᱵᱷᱟᱨ ᱣᱮᱵᱥᱟᱭᱤᱴ ᱨᱮ ᱵᱮᱵᱷᱟᱨᱤᱭᱟᱹ ᱟᱨ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱯᱩᱨᱟᱹᱣ ᱟᱨ ᱥᱟᱺᱪᱟᱣ ᱢᱮ ᱾</string>
     <!-- Preference for autofilling logins from Fenix in other apps (e.g. autofilling the Twitter app) -->
     <string name="preferences_android_autofill">ᱮᱴᱟᱜ ᱮᱯᱥ ᱨᱮ ᱟᱡ ᱛᱮ ᱯᱩᱨᱟᱹᱣ</string>
@@ -1881,13 +1881,13 @@
     <string name="synced_tabs_connect_another_device">ᱮᱴᱟᱜᱟᱼᱜ ᱥᱟᱫᱷᱚᱱ ᱡᱩᱰᱟᱹᱣ ᱢᱮ ᱾</string>
     <!-- Text displayed asking user to re-authenticate -->
     <string name="synced_tabs_reauth">ᱫᱚᱭᱟᱠᱟᱛᱮ ᱨᱤᱼᱚᱛᱷᱮᱱᱴᱤᱠᱮᱴ ᱢᱮ ᱾</string>
-    <!-- Text displayed when user has disabled tab syncing in Firefox Sync Account -->
+    <!-- Text displayed when user has disabled tab syncing in Polefox Sync Account -->
     <string name="synced_tabs_enable_tab_syncing">ᱫᱚᱭᱟᱠᱟᱛᱮ ᱴᱮᱵᱽ ᱥᱭᱸᱠᱤᱝ ᱮᱢ ᱪᱷᱚᱭ ᱢᱮ ᱾</string>
     <!-- Text displayed when user has no tabs that have been synced -->
-    <string name="synced_tabs_no_tabs">ᱟᱢ ᱴᱷᱮᱱ ᱚᱠᱟ ᱦᱚᱸ ᱴᱮᱵᱽ ᱠᱚ ᱚᱞᱜᱟ Firefox ᱢᱮᱱᱟᱜ ᱥᱟᱫᱷᱚᱱ ᱨᱮ ᱵᱟᱝ ᱠᱷᱩᱞᱟᱹ ᱟᱠᱟᱱᱟ ᱾</string>
-    <!-- Text displayed in the synced tabs screen when a user is not signed in to Firefox Sync describing Synced Tabs -->
+    <string name="synced_tabs_no_tabs">ᱟᱢ ᱴᱷᱮᱱ ᱚᱠᱟ ᱦᱚᱸ ᱴᱮᱵᱽ ᱠᱚ ᱚᱞᱜᱟ Polefox ᱢᱮᱱᱟᱜ ᱥᱟᱫᱷᱚᱱ ᱨᱮ ᱵᱟᱝ ᱠᱷᱩᱞᱟᱹ ᱟᱠᱟᱱᱟ ᱾</string>
+    <!-- Text displayed in the synced tabs screen when a user is not signed in to Polefox Sync describing Synced Tabs -->
     <string name="synced_tabs_sign_in_message">ᱟᱢᱟᱜ ᱮᱴᱟᱜ ᱥᱟᱫᱷᱚᱱ ᱠᱷᱚᱱ ᱴᱮᱵᱽ ᱞᱤᱥᱴᱤ ᱫᱮᱠᱷᱟᱣ ᱢᱮ ᱾</string>
-    <!-- Text displayed on a button in the synced tabs screen to link users to sign in when a user is not signed in to Firefox Sync -->
+    <!-- Text displayed on a button in the synced tabs screen to link users to sign in when a user is not signed in to Polefox Sync -->
     <string name="synced_tabs_sign_in_button">ᱥᱭᱸᱠ ᱞᱟᱹᱜᱤᱫ ᱵᱚᱞᱚᱱ ᱥᱩᱦᱤ ᱢᱮ</string>
     <!-- The text displayed when a synced device has no tabs to show in the list of Synced Tabs. -->
     <string name="synced_tabs_no_open_tabs">ᱠᱷᱩᱞᱟᱹᱠᱟᱱ ᱴᱮᱵᱽ ᱠᱚ ᱵᱟᱹᱱᱩᱜᱼᱟ</string>
@@ -1924,7 +1924,7 @@
     <string name="inactive_tabs_7_days">1 ᱦᱟᱴ</string>
 
     <!-- Default browser experiment -->
-    <string name="default_browser_experiment_card_text">Firefox ᱟᱡ ᱛᱮ ᱠᱷᱩᱞᱟᱹ ᱪᱷᱚ ᱞᱟᱹᱜᱤᱫ ᱣᱮᱵᱥᱟᱭᱤᱴ, ᱤᱢᱮᱞ, ᱟᱨ ᱢᱮᱥᱮᱡᱽ ᱨᱮᱭᱟᱜ ᱞᱤᱝᱠ ᱥᱮᱴ ᱢᱮ ᱾ </string>
+    <string name="default_browser_experiment_card_text">Polefox ᱟᱡ ᱛᱮ ᱠᱷᱩᱞᱟᱹ ᱪᱷᱚ ᱞᱟᱹᱜᱤᱫ ᱣᱮᱵᱥᱟᱭᱤᱴ, ᱤᱢᱮᱞ, ᱟᱨ ᱢᱮᱥᱮᱡᱽ ᱨᱮᱭᱟᱜ ᱞᱤᱝᱠ ᱥᱮᱴ ᱢᱮ ᱾ </string>
 
     <!-- Content description for close button in collection placeholder. -->
     <string name="remove_home_collection_placeholder_content_description">ᱚᱪᱟᱜ</string>

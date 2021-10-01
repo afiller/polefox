@@ -85,8 +85,8 @@
     <string name="cfr_neg_button_text">Không, cảm ơn</string>
 
     <!-- Open in App "contextual feature recommendation" (CFR) -->
-    <!-- Text for the info message. 'Firefox' intentionally hardcoded here.-->
-    <string name="open_in_app_cfr_info_message">Bạn có thể đặt Firefox để tự động mở các liên kết trong ứng dụng.</string>
+    <!-- Text for the info message. 'Polefox' intentionally hardcoded here.-->
+    <string name="open_in_app_cfr_info_message">Bạn có thể đặt Polefox để tự động mở các liên kết trong ứng dụng.</string>
     <!-- Text for the positive action button -->
     <string name="open_in_app_cfr_positive_button_text">Đi đến cài đặt</string>
     <!-- Text for the negative action button -->
@@ -256,8 +256,8 @@
     <string name="search_engine_suggestions_description">Tìm kiếm trực tiếp từ thanh địa chỉ</string>
 
     <!-- Search Widget -->
-    <!-- Content description for searching with a widget. Firefox is intentionally hardcoded.-->
-    <string name="search_widget_content_description">Mở một thẻ Firefox mới</string>
+    <!-- Content description for searching with a widget. Polefox is intentionally hardcoded.-->
+    <string name="search_widget_content_description">Mở một thẻ Polefox mới</string>
     <!-- Text preview for smaller sized widgets -->
     <string name="search_widget_text_short">Tìm kiếm</string>
     <!-- Text preview for larger sized widgets -->
@@ -318,12 +318,12 @@
     <string name="preferences_add_private_browsing_shortcut">Thêm lối tắt duyệt web riêng tư</string>
     <!-- Preference for accessibility -->
     <string name="preferences_accessibility">Khả năng truy cập</string>
-    <!-- Preference to override the Firefox Account server -->
-    <string name="preferences_override_fxa_server">Tùy chỉnh máy chủ tài khoản Firefox</string>
+    <!-- Preference to override the Polefox Account server -->
+    <string name="preferences_override_fxa_server">Tùy chỉnh máy chủ tài khoản Polefox</string>
     <!-- Preference to override the Sync token server -->
     <string name="preferences_override_sync_tokenserver">Tùy chỉnh máy chủ đồng bộ hóa</string>
     <!-- Toast shown after updating the FxA/Sync server override preferences -->
-    <string name="toast_override_fxa_sync_server_done">Tài khoản máy chủ Firefox/đồng bộ hóa đã thay đổi. Thoát ứng dụng để áp dụng thay đổi…</string>
+    <string name="toast_override_fxa_sync_server_done">Tài khoản máy chủ Polefox/đồng bộ hóa đã thay đổi. Thoát ứng dụng để áp dụng thay đổi…</string>
     <!-- Preference category for account information -->
     <string name="preferences_category_account">Tài khoản</string>
     <!-- Preference shown on banner to sign into account -->
@@ -339,9 +339,9 @@
     <!-- Preference for settings related to visual options -->
     <string name="preferences_customize">Tùy biến</string>
     <!-- Preference description for banner about signing in -->
-    <string name="preferences_sign_in_description">Đồng bộ hóa dấu trang, lịch sử và hơn thế nữa với tài khoản Firefox của bạn</string>
+    <string name="preferences_sign_in_description">Đồng bộ hóa dấu trang, lịch sử và hơn thế nữa với tài khoản Polefox của bạn</string>
     <!-- Preference shown instead of account display name while account profile information isn't available yet. -->
-    <string name="preferences_account_default_name">Tài khoản Firefox</string>
+    <string name="preferences_account_default_name">Tài khoản Polefox</string>
     <!-- Preference text for account title when there was an error syncing FxA -->
     <string name="preferences_account_sync_error">Kết nối lại để tiếp tục đồng bộ hóa</string>
     <!-- Preference for language -->
@@ -463,7 +463,7 @@
     <!-- Name of the "receive tabs" notification channel. Displayed in the "App notifications" system settings for the app -->
     <string name="fxa_received_tab_channel_name">Các thẻ đã nhận</string>
     <!-- Description of the "receive tabs" notification channel. Displayed in the "App notifications" system settings for the app -->
-    <string name="fxa_received_tab_channel_description">Thông báo các thẻ nhận được từ các thiết bị Firefox khác.</string>
+    <string name="fxa_received_tab_channel_description">Thông báo các thẻ nhận được từ các thiết bị Polefox khác.</string>
     <!--  The body for these is the URL of the tab received  -->
     <string name="fxa_tab_received_notification_name">Thẻ đã nhận</string>
     <!-- When multiple tabs have been received -->
@@ -498,7 +498,7 @@
     <string name="preferences_usage_data_description">Chia sẻ hiệu năng, cách sử dụng, phần cứng và dữ liệu tùy biến liên quan đến trình duyệt của bạn với Mozilla để giúp chúng tôi tạo ra %1$s tốt hơn</string>
     <!-- Preference switch for marketing data collection -->
     <string name="preferences_marketing_data">Dữ liệu tiếp thị</string>
-    <!-- Preference description for marketing data collection, parameter is the app name (e.g. Firefox) -->
+    <!-- Preference description for marketing data collection, parameter is the app name (e.g. Polefox) -->
     <string name="preferences_marketing_data_description">Chia sẻ dữ liệu về những tính năng bạn sử dụng trong %1$s với Leanplum, nhà cung cấp tiếp thị di động của chúng tôi.</string>
     <!-- Preference description for marketing data collection -->
     <string name="preferences_marketing_data_description2">Chia sẻ dữ liệu sử dụng cơ bản với Adjust, nhà cung cấp tiếp thị di động của chúng tôi</string>
@@ -521,7 +521,7 @@
     <!-- Header of the Turn on Sync preference view -->
     <string name="preferences_sync">Bật đồng bộ hóa</string>
     <!-- Preference for pairing -->
-    <string name="preferences_sync_pair">Quét mã ghép nối trong máy tính để bàn Firefox</string>
+    <string name="preferences_sync_pair">Quét mã ghép nối trong máy tính để bàn Polefox</string>
     <!-- Preference for account login -->
     <string name="preferences_sync_sign_in">Đăng nhập</string>
     <!-- Preference for reconnecting to FxA sync -->
@@ -660,8 +660,8 @@
     <string name="studies_remove">Xóa</string>
     <!-- Title of the active section on the studies list -->
     <string name="studies_active">Hoạt động</string>
-    <!-- Description for studies, it indicates why Firefox use studies -->
-    <string name="studies_description">Firefox có thể cài đặt và chạy các nghiên cứu theo thời gian.</string>
+    <!-- Description for studies, it indicates why Polefox use studies -->
+    <string name="studies_description">Polefox có thể cài đặt và chạy các nghiên cứu theo thời gian.</string>
     <!-- Learn more link for studies, links to an article for more information about studies. -->
     <string name="studies_learn_more">Tìm hiểu thêm</string>
 
@@ -1078,7 +1078,7 @@
     <!-- An option to connect additional devices -->
     <string name="sync_connect_device">Kết nối thiết bị khác</string>
     <!-- The dialog text shown when additional devices are not available -->
-    <string name="sync_connect_device_dialog">Để gửi một thẻ, đăng nhập vào Firefox trên ít nhất một thiết bị khác.</string>
+    <string name="sync_connect_device_dialog">Để gửi một thẻ, đăng nhập vào Polefox trên ít nhất một thiết bị khác.</string>
     <!-- Confirmation dialog button -->
     <string name="sync_confirmation_button">Đã hiểu</string>
     <!-- Share error message -->
@@ -1235,57 +1235,57 @@
     <string name="deleting_browsing_data_in_progress">Đang xóa dữ liệu duyệt web…</string>
 
     <!-- Tips -->
-    <!-- text for firefox preview moving tip header "Firefox Preview" and "Firefox Nightly" are intentionally hardcoded -->
-    <string name="tip_firefox_preview_moved_header">Firefox Preview hiện là Firefox Nightly</string>
+    <!-- text for firefox preview moving tip header "Polefox Preview" and "Polefox Nightly" are intentionally hardcoded -->
+    <string name="tip_firefox_preview_moved_header">Polefox Preview hiện là Polefox Nightly</string>
     <!-- text for firefox preview moving tip description -->
-    <string name="tip_firefox_preview_moved_description">Firefox Nightly được cập nhật mỗi đêm và có các tính năng mới thử nghiệm.
+    <string name="tip_firefox_preview_moved_description">Polefox Nightly được cập nhật mỗi đêm và có các tính năng mới thử nghiệm.
         Tuy nhiên, nó có thể kém ổn định hơn. Tải xuống trình duyệt beta của chúng tôi để có trải nghiệm ổn định hơn.</string>
 
-    <!-- text for firefox preview moving tip button. "Firefox for Android Beta" is intentionally hardcoded -->
-    <string name="tip_firefox_preview_moved_button_2">Tải Firefox Beta dành cho Android</string>
+    <!-- text for firefox preview moving tip button. "Polefox for Android Beta" is intentionally hardcoded -->
+    <string name="tip_firefox_preview_moved_button_2">Tải Polefox Beta dành cho Android</string>
 
-    <!-- text for firefox preview moving tip header. "Firefox Nightly" is intentionally hardcoded -->
-    <string name="tip_firefox_preview_moved_header_preview_installed">Firefox Nightly đã di chuyển</string>
+    <!-- text for firefox preview moving tip header. "Polefox Nightly" is intentionally hardcoded -->
+    <string name="tip_firefox_preview_moved_header_preview_installed">Polefox Nightly đã di chuyển</string>
     <!-- text for firefox preview moving tip description -->
     <string name="tip_firefox_preview_moved_description_preview_installed">Ứng dụng này sẽ không còn nhận được cập nhật bảo mật. Ngừng sử dụng ứng dụng này và chuyển sang Nightly mới.
-        \n\nĐể chuyển dấu trang, thông tin đăng nhập và lịch sử của bạn sang một ứng dụng khác, hãy tạo một tài khoản Firefox.</string>
+        \n\nĐể chuyển dấu trang, thông tin đăng nhập và lịch sử của bạn sang một ứng dụng khác, hãy tạo một tài khoản Polefox.</string>
     <!-- text for firefox preview moving tip button  -->
     <string name="tip_firefox_preview_moved_button_preview_installed">Chuyển sang Nightly mới</string>
 
-    <!-- text for firefox preview moving tip header. "Firefox Nightly" is intentionally hardcoded -->
-    <string name="tip_firefox_preview_moved_header_preview_not_installed">Firefox Nightly đã di chuyển</string>
+    <!-- text for firefox preview moving tip header. "Polefox Nightly" is intentionally hardcoded -->
+    <string name="tip_firefox_preview_moved_header_preview_not_installed">Polefox Nightly đã di chuyển</string>
     <!-- text for firefox preview moving tip description -->
     <string name="tip_firefox_preview_moved_description_preview_not_installed">Ứng dụng này sẽ không còn nhận được cập nhật bảo mật. Tải Nightly mới và ngừng sử dụng ứng dụng này.
-        \n\nĐể chuyển dấu trang, thông tin đăng nhập và lịch sử của bạn sang một ứng dụng khác, hãy tạo một tài khoản Firefox.</string>
+        \n\nĐể chuyển dấu trang, thông tin đăng nhập và lịch sử của bạn sang một ứng dụng khác, hãy tạo một tài khoản Polefox.</string>
     <!-- text for firefox preview moving tip button  -->
     <string name="tip_firefox_preview_moved_button_preview_not_installed">Tải Nightly mới</string>
 
     <!-- Onboarding -->
     <!-- Text for onboarding welcome message
-    The first parameter is the name of the app (e.g. Firefox Preview) -->
+    The first parameter is the name of the app (e.g. Polefox Preview) -->
     <string name="onboarding_header">Chào mừng đến với %s!</string>
-    <!-- text for the Firefox Accounts section header -->
+    <!-- text for the Polefox Accounts section header -->
     <string name="onboarding_fxa_section_header">Đã có một tài khoản?</string>
     <!-- text for the "What's New" onboarding card header -->
     <string moz:removedIn="94" name="onboarding_whats_new_header1" tools:ignore="UnusedResources">Xem có gì mới</string>
     <!-- text for the "what's new" onboarding card description
-    The first parameter is the short name of the app (e.g. Firefox) -->
+    The first parameter is the short name of the app (e.g. Polefox) -->
     <string moz:removedIn="94" name="onboarding_whats_new_description" tools:ignore="UnusedResources">Có câu hỏi nào về %s được thiết kế lại không? Bạn muốn biết những gì đã thay đổi?</string>
     <!-- text for underlined clickable link that is part of "what's new" onboarding card description that links to an FAQ -->
     <string moz:removedIn="94" name="onboarding_whats_new_description_linktext" tools:ignore="UnusedResources">Nhận câu trả lời tại đây</string>
-    <!-- text for the Firefox account onboarding sign in card header. The word "Firefox" should not be translated -->
-    <string name="onboarding_account_sign_in_header_1">Đồng bộ hóa Firefox giữa các thiết bị</string>
-    <!-- Text for the button to learn more about signing in to your Firefox account -->
-    <string name="onboarding_manual_sign_in_description">Mang dấu trang, lịch sử và mật khẩu vào Firefox trên thiết bị này.</string>
+    <!-- text for the Polefox account onboarding sign in card header. The word "Polefox" should not be translated -->
+    <string name="onboarding_account_sign_in_header_1">Đồng bộ hóa Polefox giữa các thiết bị</string>
+    <!-- Text for the button to learn more about signing in to your Polefox account -->
+    <string name="onboarding_manual_sign_in_description">Mang dấu trang, lịch sử và mật khẩu vào Polefox trên thiết bị này.</string>
     <!-- text for the firefox account onboarding card header when we detect you're already signed in to
-        another Firefox browser. (The word `Firefox` should not be translated)
+        another Polefox browser. (The word `Polefox` should not be translated)
         The first parameter is the email of the detected user's account -->
-    <string name="onboarding_firefox_account_auto_signin_header_3">Bạn đã đăng nhập dưới dạng %s trên trình duyệt Firefox khác trên điện thoại này. Bạn có muốn đăng nhập bằng tài khoản này không?</string>
+    <string name="onboarding_firefox_account_auto_signin_header_3">Bạn đã đăng nhập dưới dạng %s trên trình duyệt Polefox khác trên điện thoại này. Bạn có muốn đăng nhập bằng tài khoản này không?</string>
     <!-- text for the button to confirm automatic sign-in -->
     <string name="onboarding_firefox_account_auto_signin_confirm">Có, đăng nhập cho tôi</string>
     <!-- text for the automatic sign-in button while signing in is in process -->
     <string name="onboarding_firefox_account_signing_in">Đang đăng nhập…</string>
-    <!-- text for the button to manually sign into Firefox account. -->
+    <!-- text for the button to manually sign into Polefox account. -->
     <string name="onboarding_firefox_account_sign_in_1">Đăng ký</string>
     <!-- text for the button to stay signed out when presented with an option to automatically sign-in. -->
     <string name="onboarding_firefox_account_stay_signed_out">Vẫn đăng xuất</string>
@@ -1295,8 +1295,8 @@
     <string name="onboarding_firefox_account_automatic_signin_failed">Không thể đăng nhập</string>
     <!-- text for the tracking protection onboarding card header -->
     <string name="onboarding_tracking_protection_header_3">Luôn bảo vệ quyền riêng tư</string>
-    <!-- text for the tracking protection card description. 'Firefox' intentionally hardcoded here -->
-    <string name="onboarding_tracking_protection_description_3">Firefox tự động ngăn các công ty bí mật theo dõi bạn trên web.</string>
+    <!-- text for the tracking protection card description. 'Polefox' intentionally hardcoded here -->
+    <string name="onboarding_tracking_protection_description_3">Polefox tự động ngăn các công ty bí mật theo dõi bạn trên web.</string>
     <!-- text for tracking protection radio button option for standard level of blocking -->
     <string name="onboarding_tracking_protection_standard_button_2">Tiêu chuẩn (mặc định)</string>
     <!-- text for standard blocking option button description -->
@@ -1323,7 +1323,7 @@
     <!-- text for the privacy notice onboarding card header -->
     <string name="onboarding_privacy_notice_header">Quyền riêng tư của bạn</string>
     <!-- text for the privacy notice onboarding card description
-    The first parameter is the name of the app (e.g. Firefox Preview) Substitute %s for long browser name. -->
+    The first parameter is the name of the app (e.g. Polefox Preview) Substitute %s for long browser name. -->
     <string name="onboarding_privacy_notice_description2">Chúng tôi đã thiết kế %s để cung cấp cho bạn quyền kiểm soát những gì bạn chia sẻ trực tuyến và những gì bạn chia sẻ với chúng tôi.</string>
     <!-- Text for the button to read the privacy notice -->
     <string name="onboarding_privacy_notice_read_button">Đọc thông báo bảo mật của chúng tôi</string>
@@ -1360,18 +1360,18 @@
     <!-- Title of QR Pairing Fragment -->
     <string name="sync_scan_code">Quét mã</string>
     <!-- Instructions on how to access pairing -->
-    <string name="sign_in_instructions"><![CDATA[Trên máy tính của bạn, hãy mở Firefox và truy cập <b>https://firefox.com/pair</b>]]></string>
+    <string name="sign_in_instructions"><![CDATA[Trên máy tính của bạn, hãy mở Polefox và truy cập <b>https://firefox.com/pair</b>]]></string>
     <!-- Text shown for sign in pairing when ready -->
     <string name="sign_in_ready_for_scan">Sẵn sàng để quét</string>
     <!-- Text shown for settings option for sign with pairing -->
     <string name="sign_in_with_camera">Đăng nhập bằng máy ảnh của bạn</string>
     <!-- Text shown for settings option for sign with email -->
     <string name="sign_in_with_email">Sử dụng email thay thế</string>
-    <!-- Text shown for settings option for create new account text.'Firefox' intentionally hardcoded here.-->
-    <string name="sign_in_create_account_text"><![CDATA[Không có tài khoản? <u>Tạo một cái</u> để đồng bộ hóa Firefox giữa các thiết bị.]]></string>
+    <!-- Text shown for settings option for create new account text.'Polefox' intentionally hardcoded here.-->
+    <string name="sign_in_create_account_text"><![CDATA[Không có tài khoản? <u>Tạo một cái</u> để đồng bộ hóa Polefox giữa các thiết bị.]]></string>
     <!-- Text shown in confirmation dialog to sign out of account -->
-    <string name="sign_out_confirmation_message">Firefox sẽ ngừng đồng bộ hóa với tài khoản của bạn, nhưng sẽ không xóa mọi dữ liệu duyệt web của bạn trên thiết bị này.</string>
-    <!-- Text shown in confirmation dialog to sign out of account. The first parameter is the name of the app (e.g. Firefox Preview) -->
+    <string name="sign_out_confirmation_message">Polefox sẽ ngừng đồng bộ hóa với tài khoản của bạn, nhưng sẽ không xóa mọi dữ liệu duyệt web của bạn trên thiết bị này.</string>
+    <!-- Text shown in confirmation dialog to sign out of account. The first parameter is the name of the app (e.g. Polefox Preview) -->
     <string name="sign_out_confirmation_message_2">%s sẽ ngừng đồng bộ hóa với tài khoản của bạn, nhưng sẽ không xóa bất kỳ dữ liệu duyệt web nào của bạn trên thiết bị này.</string>
     <!-- Option to continue signing out of account shown in confirmation dialog to sign out of account -->
     <string name="sign_out_disconnect">Ngắt kết nối</string>
@@ -1547,9 +1547,9 @@
     <string name="preferences_passwords_save_logins_never_save">Không bao giờ lưu</string>
     <!-- Preference for autofilling saved logins in Fenix -->
     <string moz:removedIn="93" name="preferences_passwords_autofill" tools:ignore="UnusedResources">Tự động điền</string>
-    <!-- Preference for autofilling saved logins in Firefox (in web content), %1$s will be replaced with the app name -->
+    <!-- Preference for autofilling saved logins in Polefox (in web content), %1$s will be replaced with the app name -->
     <string name="preferences_passwords_autofill2">Tự động điền trong %1$s</string>
-    <!-- Description for the preference for autofilling saved logins in Firefox (in web content), %1$s will be replaced with the app name -->
+    <!-- Description for the preference for autofilling saved logins in Polefox (in web content), %1$s will be replaced with the app name -->
     <string name="preferences_passwords_autofill_description">Điền và lưu tên người dùng và mật khẩu trong các trang web khi sử dụng %1$s.</string>
     <!-- Preference for autofilling logins from Fenix in other apps (e.g. autofilling the Twitter app) -->
     <string name="preferences_android_autofill">Tự động điền vào các ứng dụng khác</string>
@@ -1866,13 +1866,13 @@
     <string name="synced_tabs_connect_another_device">Kết nối thiết bị khác.</string>
     <!-- Text displayed asking user to re-authenticate -->
     <string name="synced_tabs_reauth">Vui lòng xác thực lại.</string>
-    <!-- Text displayed when user has disabled tab syncing in Firefox Sync Account -->
+    <!-- Text displayed when user has disabled tab syncing in Polefox Sync Account -->
     <string name="synced_tabs_enable_tab_syncing">Vui lòng kích hoạt đồng bộ hóa thẻ.</string>
     <!-- Text displayed when user has no tabs that have been synced -->
-    <string name="synced_tabs_no_tabs">Bạn không có bất kỳ thẻ nào mở trong Firefox trên các thiết bị khác của bạn.</string>
-    <!-- Text displayed in the synced tabs screen when a user is not signed in to Firefox Sync describing Synced Tabs -->
+    <string name="synced_tabs_no_tabs">Bạn không có bất kỳ thẻ nào mở trong Polefox trên các thiết bị khác của bạn.</string>
+    <!-- Text displayed in the synced tabs screen when a user is not signed in to Polefox Sync describing Synced Tabs -->
     <string name="synced_tabs_sign_in_message">Xem danh sách các thẻ từ các thiết bị khác của bạn.</string>
-    <!-- Text displayed on a button in the synced tabs screen to link users to sign in when a user is not signed in to Firefox Sync -->
+    <!-- Text displayed on a button in the synced tabs screen to link users to sign in when a user is not signed in to Polefox Sync -->
     <string name="synced_tabs_sign_in_button">Đăng nhập vào đồng bộ hóa</string>
 
     <!-- The text displayed when a synced device has no tabs to show in the list of Synced Tabs. -->
@@ -1911,7 +1911,7 @@
     <string name="inactive_tabs_7_days">1 tuần</string>
 
     <!-- Default browser experiment -->
-    <string name="default_browser_experiment_card_text">Đặt các liên kết từ trang web, email và tin nhắn để tự động mở trong Firefox.</string>
+    <string name="default_browser_experiment_card_text">Đặt các liên kết từ trang web, email và tin nhắn để tự động mở trong Polefox.</string>
 
     <!-- Content description for close button in collection placeholder. -->
     <string name="remove_home_collection_placeholder_content_description">Xóa</string>

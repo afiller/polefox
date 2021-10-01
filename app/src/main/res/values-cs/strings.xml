@@ -84,8 +84,8 @@
     <string name="cfr_neg_button_text">Ne, děkuji</string>
 
     <!-- Open in App "contextual feature recommendation" (CFR) -->
-    <!-- Text for the info message. 'Firefox' intentionally hardcoded here.-->
-    <string name="open_in_app_cfr_info_message">Firefox můžete nastavit tak, aby automaticky otevíral odkazy v této aplikaci.</string>
+    <!-- Text for the info message. 'Polefox' intentionally hardcoded here.-->
+    <string name="open_in_app_cfr_info_message">Polefox můžete nastavit tak, aby automaticky otevíral odkazy v této aplikaci.</string>
     <!-- Text for the positive action button -->
     <string name="open_in_app_cfr_positive_button_text">Přejít do nastavení</string>
     <!-- Text for the negative action button -->
@@ -250,8 +250,8 @@
     <string name="search_engine_suggestions_description">Vyhledat na webu přímo z adresního řádku</string>
 
     <!-- Search Widget -->
-    <!-- Content description for searching with a widget. Firefox is intentionally hardcoded.-->
-    <string name="search_widget_content_description">Otevřít nový panel Firefoxu</string>
+    <!-- Content description for searching with a widget. Polefox is intentionally hardcoded.-->
+    <string name="search_widget_content_description">Otevřít nový panel Polefoxu</string>
     <!-- Text preview for smaller sized widgets -->
     <string name="search_widget_text_short">Vyhledávání</string>
     <!-- Text preview for larger sized widgets -->
@@ -312,12 +312,12 @@
     <string name="preferences_add_private_browsing_shortcut">Vytvořit zkratku pro anonymní prohlížení</string>
     <!-- Preference for accessibility -->
     <string name="preferences_accessibility">Přístupnost</string>
-    <!-- Preference to override the Firefox Account server -->
-    <string name="preferences_override_fxa_server">Vlastní server pro účet Firefoxu</string>
+    <!-- Preference to override the Polefox Account server -->
+    <string name="preferences_override_fxa_server">Vlastní server pro účet Polefoxu</string>
     <!-- Preference to override the Sync token server -->
     <string name="preferences_override_sync_tokenserver">Vlastní server pro synchronizaci</string>
     <!-- Toast shown after updating the FxA/Sync server override preferences -->
-    <string name="toast_override_fxa_sync_server_done">Server pro účet Firefoxu nebo synchronizaci byl změněn. Pro aplikování změn se nyní aplikace ukončí…</string>
+    <string name="toast_override_fxa_sync_server_done">Server pro účet Polefoxu nebo synchronizaci byl změněn. Pro aplikování změn se nyní aplikace ukončí…</string>
     <!-- Preference category for account information -->
     <string name="preferences_category_account">Účet</string>
     <!-- Preference shown on banner to sign into account -->
@@ -333,9 +333,9 @@
     <!-- Preference for settings related to visual options -->
     <string name="preferences_customize">Přizpůsobení</string>
     <!-- Preference description for banner about signing in -->
-    <string name="preferences_sign_in_description">S účtem Firefoxu můžete synchronizovat záložky, historii i další svá data</string>
+    <string name="preferences_sign_in_description">S účtem Polefoxu můžete synchronizovat záložky, historii i další svá data</string>
     <!-- Preference shown instead of account display name while account profile information isn't available yet. -->
-    <string name="preferences_account_default_name">Účet Firefoxu</string>
+    <string name="preferences_account_default_name">Účet Polefoxu</string>
     <!-- Preference text for account title when there was an error syncing FxA -->
     <string name="preferences_account_sync_error">Pro spuštění synchronizace se znovu připojte</string>
     <!-- Preference for language -->
@@ -447,7 +447,7 @@
     <!-- Name of the "receive tabs" notification channel. Displayed in the "App notifications" system settings for the app -->
     <string name="fxa_received_tab_channel_name">Přijaté panely</string>
     <!-- Description of the "receive tabs" notification channel. Displayed in the "App notifications" system settings for the app -->
-    <string name="fxa_received_tab_channel_description">Oznámení o panelech přijatých z jiných zařízení s Firefoxem.</string>
+    <string name="fxa_received_tab_channel_description">Oznámení o panelech přijatých z jiných zařízení s Polefoxem.</string>
     <!--  The body for these is the URL of the tab received  -->
     <string name="fxa_tab_received_notification_name">Přijatý panel</string>
     <!-- When multiple tabs have been received -->
@@ -483,7 +483,7 @@
     <string name="preferences_usage_data_description">Zaznamenává data o výkonu, hardwaru, používání a přizpůsobení prohlížeče %1$s. Data o prohlížeči jsou sdílena s organizací Mozilla z důvodu jeho vylepšení.</string>
     <!-- Preference switch for marketing data collection -->
     <string name="preferences_marketing_data">Marketingová data</string>
-    <!-- Preference description for marketing data collection, parameter is the app name (e.g. Firefox) -->
+    <!-- Preference description for marketing data collection, parameter is the app name (e.g. Polefox) -->
     <string name="preferences_marketing_data_description">Sdílí data o funkcích, které v aplikaci %1$s používáte, se společností Leanplum, naším partnerem pro mobilní marketing.</string>
     <!-- Preference description for marketing data collection -->
     <string name="preferences_marketing_data_description2">Sdílí základní údaje a používání a technické údaje se společností Adjust, naším partnerem pro marketing</string>
@@ -508,7 +508,7 @@
     <!-- Header of the Turn on Sync preference view -->
     <string name="preferences_sync">Zapnout synchronizaci</string>
     <!-- Preference for pairing -->
-    <string name="preferences_sync_pair">Naskenovat párovací kód zobrazený ve Firefoxu na počítači</string>
+    <string name="preferences_sync_pair">Naskenovat párovací kód zobrazený ve Polefoxu na počítači</string>
     <!-- Preference for account login -->
     <string name="preferences_sync_sign_in">Přihlásit se</string>
     <!-- Preference for reconnecting to FxA sync -->
@@ -641,8 +641,8 @@
     <string name="studies_remove">Odstranit</string>
     <!-- Title of the active section on the studies list -->
     <string name="studies_active">Aktivní</string>
-    <!-- Description for studies, it indicates why Firefox use studies -->
-    <string name="studies_description">Firefox může čas od času instalovat a spouštět studie.</string>
+    <!-- Description for studies, it indicates why Polefox use studies -->
+    <string name="studies_description">Polefox může čas od času instalovat a spouštět studie.</string>
     <!-- Learn more link for studies, links to an article for more information about studies. -->
     <string name="studies_learn_more">Zjistit více</string>
 
@@ -1069,7 +1069,7 @@
     <!-- An option to connect additional devices -->
     <string name="sync_connect_device">Připojit další zařízení</string>
     <!-- The dialog text shown when additional devices are not available -->
-    <string name="sync_connect_device_dialog">Pro poslání panelu se prosím přihlaste účtem Firefox na dalším zařízení.</string>
+    <string name="sync_connect_device_dialog">Pro poslání panelu se prosím přihlaste účtem Polefox na dalším zařízení.</string>
     <!-- Confirmation dialog button -->
     <string name="sync_confirmation_button">Rozumím</string>
 
@@ -1230,56 +1230,56 @@
     <string name="deleting_browsing_data_in_progress">Mazání soukromých dat…</string>
 
     <!-- Tips -->
-    <!-- text for firefox preview moving tip header "Firefox Preview" and "Firefox Nightly" are intentionally hardcoded -->
-    <string name="tip_firefox_preview_moved_header">Firefox Preview je nyní Firefox Nightly</string>
+    <!-- text for firefox preview moving tip header "Polefox Preview" and "Polefox Nightly" are intentionally hardcoded -->
+    <string name="tip_firefox_preview_moved_header">Polefox Preview je nyní Polefox Nightly</string>
 
     <!-- text for firefox preview moving tip description -->
-    <string name="tip_firefox_preview_moved_description">Firefox Nightly je aktualizován každou noc a obsahuje nové experimentální funkce. Může však být méně stabilní. Stáhněte si náš beta prohlížeč pro stabilnější zážitek.</string>
-    <!-- text for firefox preview moving tip button. "Firefox for Android Beta" is intentionally hardcoded -->
-    <string name="tip_firefox_preview_moved_button_2">Získat Firefox Beta pro Android</string>
+    <string name="tip_firefox_preview_moved_description">Polefox Nightly je aktualizován každou noc a obsahuje nové experimentální funkce. Může však být méně stabilní. Stáhněte si náš beta prohlížeč pro stabilnější zážitek.</string>
+    <!-- text for firefox preview moving tip button. "Polefox for Android Beta" is intentionally hardcoded -->
+    <string name="tip_firefox_preview_moved_button_2">Získat Polefox Beta pro Android</string>
 
-    <!-- text for firefox preview moving tip header. "Firefox Nightly" is intentionally hardcoded -->
-    <string name="tip_firefox_preview_moved_header_preview_installed">Firefox Nightly se mění</string>
+    <!-- text for firefox preview moving tip header. "Polefox Nightly" is intentionally hardcoded -->
+    <string name="tip_firefox_preview_moved_header_preview_installed">Polefox Nightly se mění</string>
     <!-- text for firefox preview moving tip description -->
     <string name="tip_firefox_preview_moved_description_preview_installed">Tato aplikace už nebude nadále dostávat bezpečnostní aktualizace. Přestaňte ji prosím používat a nainstalujete si novou Nightly.
-        \n\nPro přesun svých záložek, přihlašovacích údajů a historie prohlížení si prosím založte účet Firefoxu.</string>
+        \n\nPro přesun svých záložek, přihlašovacích údajů a historie prohlížení si prosím založte účet Polefoxu.</string>
     <!-- text for firefox preview moving tip button  -->
     <string name="tip_firefox_preview_moved_button_preview_installed">Používejte novou Nightly</string>
 
-    <!-- text for firefox preview moving tip header. "Firefox Nightly" is intentionally hardcoded -->
-    <string name="tip_firefox_preview_moved_header_preview_not_installed">Firefox Nightly se mění</string>
+    <!-- text for firefox preview moving tip header. "Polefox Nightly" is intentionally hardcoded -->
+    <string name="tip_firefox_preview_moved_header_preview_not_installed">Polefox Nightly se mění</string>
     <!-- text for firefox preview moving tip description -->
     <string name="tip_firefox_preview_moved_description_preview_not_installed">Tato aplikace už nebude nadále dostávat bezpečnostní aktualizace. Přestaňte ji prosím používat a stáhněte si novou Nightly.
-        \n\nPro přesun svých záložek, přihlašovacích údajů a historie prohlížení si prosím založte účet Firefoxu.</string>
+        \n\nPro přesun svých záložek, přihlašovacích údajů a historie prohlížení si prosím založte účet Polefoxu.</string>
     <!-- text for firefox preview moving tip button  -->
     <string name="tip_firefox_preview_moved_button_preview_not_installed">Stáhněte si novou Nightly</string>
 
     <!-- Onboarding -->
     <!-- Text for onboarding welcome message
-    The first parameter is the name of the app (e.g. Firefox Preview) -->
+    The first parameter is the name of the app (e.g. Polefox Preview) -->
     <string name="onboarding_header">Vítá vás %s</string>
-    <!-- text for the Firefox Accounts section header -->
+    <!-- text for the Polefox Accounts section header -->
     <string name="onboarding_fxa_section_header">Už máte účet?</string>
     <!-- text for the "What's New" onboarding card header -->
     <string name="onboarding_whats_new_header1">Co je nového</string>
     <!-- text for the "what's new" onboarding card description
-    The first parameter is the short name of the app (e.g. Firefox) -->
+    The first parameter is the short name of the app (e.g. Polefox) -->
     <string name="onboarding_whats_new_description">Zajímají vás novinky v přepracované aplikaci %s? Chcete vědět, co se změnilo?</string>
     <!-- text for underlined clickable link that is part of "what's new" onboarding card description that links to an FAQ -->
     <string name="onboarding_whats_new_description_linktext">Zde najdete všechny odpovědi</string>
-    <!-- text for the Firefox account onboarding sign in card header. The word "Firefox" should not be translated -->
-    <string name="onboarding_account_sign_in_header_1">Synchronizace Firefoxu mezi zařízeními</string>
-    <!-- Text for the button to learn more about signing in to your Firefox account -->
-    <string name="onboarding_manual_sign_in_description">Přeneste si své záložky, historii a hesla do Firefoxu i na toto zařízení.</string>
+    <!-- text for the Polefox account onboarding sign in card header. The word "Polefox" should not be translated -->
+    <string name="onboarding_account_sign_in_header_1">Synchronizace Polefoxu mezi zařízeními</string>
+    <!-- Text for the button to learn more about signing in to your Polefox account -->
+    <string name="onboarding_manual_sign_in_description">Přeneste si své záložky, historii a hesla do Polefoxu i na toto zařízení.</string>
     <!-- text for the firefox account onboarding card header when we detect you're already signed in to
-        another Firefox browser. (The word `Firefox` should not be translated)
+        another Polefox browser. (The word `Polefox` should not be translated)
         The first parameter is the email of the detected user's account -->
-    <string name="onboarding_firefox_account_auto_signin_header_3">V dalším prohlížeči Firefox na tomto zařízení už jste přihlášení jako %s. Chcete se přihlásit tímto účtem?</string>
+    <string name="onboarding_firefox_account_auto_signin_header_3">V dalším prohlížeči Polefox na tomto zařízení už jste přihlášení jako %s. Chcete se přihlásit tímto účtem?</string>
     <!-- text for the button to confirm automatic sign-in -->
     <string name="onboarding_firefox_account_auto_signin_confirm">Ano, přihlásit</string>
     <!-- text for the automatic sign-in button while signing in is in process -->
     <string name="onboarding_firefox_account_signing_in">Přihlašování…</string>
-    <!-- text for the button to manually sign into Firefox account. -->
+    <!-- text for the button to manually sign into Polefox account. -->
     <string name="onboarding_firefox_account_sign_in_1">Přihlásit se</string>
     <!-- text for the button to stay signed out when presented with an option to automatically sign-in. -->
     <string name="onboarding_firefox_account_stay_signed_out">Nepřihlašovat</string>
@@ -1289,8 +1289,8 @@
     <string name="onboarding_firefox_account_automatic_signin_failed">Přihlášení selhalo</string>
     <!-- text for the tracking protection onboarding card header -->
     <string name="onboarding_tracking_protection_header_3">Soukromí pro vás a napořád</string>
-    <!-- text for the tracking protection card description. 'Firefox' intentionally hardcoded here -->
-    <string name="onboarding_tracking_protection_description_3">Firefox automaticky zabrání společnostem v tajném sledování vašeho prohlížení webu.</string>
+    <!-- text for the tracking protection card description. 'Polefox' intentionally hardcoded here -->
+    <string name="onboarding_tracking_protection_description_3">Polefox automaticky zabrání společnostem v tajném sledování vašeho prohlížení webu.</string>
     <!-- text for tracking protection radio button option for standard level of blocking -->
     <string name="onboarding_tracking_protection_standard_button_2">Standardní (výchozí)</string>
     <!-- text for standard blocking option button description -->
@@ -1317,7 +1317,7 @@
     <!-- text for the privacy notice onboarding card header -->
     <string name="onboarding_privacy_notice_header">Vaše soukromí</string>
     <!-- text for the privacy notice onboarding card description
-    The first parameter is the name of the app (e.g. Firefox Preview) Substitute %s for long browser name. -->
+    The first parameter is the name of the app (e.g. Polefox Preview) Substitute %s for long browser name. -->
     <string name="onboarding_privacy_notice_description2">%s vám dává kontrolu nad tím, co sdílíte online a co sdílíte s námi.</string>
     <!-- Text for the button to read the privacy notice -->
     <string name="onboarding_privacy_notice_read_button">Přečíst zásady ochrany osobních údajů</string>
@@ -1353,18 +1353,18 @@
     <!-- Title of QR Pairing Fragment -->
     <string name="sync_scan_code">Naskenovat kód</string>
     <!-- Instructions on how to access pairing -->
-    <string name="sign_in_instructions"><![CDATA[Otevřete Firefox na svém počítači a navštivte stránku <b>https://firefox.com/pair</b>]]></string>
+    <string name="sign_in_instructions"><![CDATA[Otevřete Polefox na svém počítači a navštivte stránku <b>https://firefox.com/pair</b>]]></string>
     <!-- Text shown for sign in pairing when ready -->
     <string name="sign_in_ready_for_scan">Připraveno na skenování</string>
     <!-- Text shown for settings option for sign with pairing -->
     <string name="sign_in_with_camera">Přihlásit se pomocí fotoaparátu</string>
     <!-- Text shown for settings option for sign with email -->
     <string name="sign_in_with_email">Použít raději e-mail</string>
-    <!-- Text shown for settings option for create new account text.'Firefox' intentionally hardcoded here.-->
-    <string name="sign_in_create_account_text"><![CDATA[Ještě nemáte účet? <u>Vytvořte si ho</u> a synchronizujte svůj Firefox mezi zařízeními.]]></string>
+    <!-- Text shown for settings option for create new account text.'Polefox' intentionally hardcoded here.-->
+    <string name="sign_in_create_account_text"><![CDATA[Ještě nemáte účet? <u>Vytvořte si ho</u> a synchronizujte svůj Polefox mezi zařízeními.]]></string>
     <!-- Text shown in confirmation dialog to sign out of account -->
-    <string name="sign_out_confirmation_message">Firefox ukončí synchronizaci s vaším účtem, ale nesmaže z tohoto zařízení žádná vaše data.</string>
-    <!-- Text shown in confirmation dialog to sign out of account. The first parameter is the name of the app (e.g. Firefox Preview) -->
+    <string name="sign_out_confirmation_message">Polefox ukončí synchronizaci s vaším účtem, ale nesmaže z tohoto zařízení žádná vaše data.</string>
+    <!-- Text shown in confirmation dialog to sign out of account. The first parameter is the name of the app (e.g. Polefox Preview) -->
     <string name="sign_out_confirmation_message_2">%s ukončí synchronizaci s vaším účtem, ale nesmaže z tohoto zařízení žádná vaše data.</string>
     <!-- Option to continue signing out of account shown in confirmation dialog to sign out of account -->
     <string name="sign_out_disconnect">Odpojit</string>
@@ -1535,9 +1535,9 @@
     <string name="preferences_passwords_save_logins_never_save">Neukládat</string>
     <!-- Preference for autofilling saved logins in Fenix -->
     <string moz:removedIn="93" name="preferences_passwords_autofill" tools:ignore="UnusedResources">Automatické vyplňování</string>
-    <!-- Preference for autofilling saved logins in Firefox (in web content), %1$s will be replaced with the app name -->
+    <!-- Preference for autofilling saved logins in Polefox (in web content), %1$s will be replaced with the app name -->
     <string name="preferences_passwords_autofill2">Automatické vyplňování v aplikaci %1$s</string>
-    <!-- Description for the preference for autofilling saved logins in Firefox (in web content), %1$s will be replaced with the app name -->
+    <!-- Description for the preference for autofilling saved logins in Polefox (in web content), %1$s will be replaced with the app name -->
     <string name="preferences_passwords_autofill_description">Vyplňování a ukládání uživatelských jmen a hesel na webových stránkách v aplikaci %1$s.</string>
     <!-- Preference for autofilling logins from Fenix in other apps (e.g. autofilling the Twitter app) -->
     <string name="preferences_android_autofill">Automatické vyplňování v jiných aplikacích</string>
@@ -1836,13 +1836,13 @@
 
     <!-- Text displayed asking user to re-authenticate -->
     <string name="synced_tabs_reauth">Proveďte prosím znovu své ověření.</string>
-    <!-- Text displayed when user has disabled tab syncing in Firefox Sync Account -->
+    <!-- Text displayed when user has disabled tab syncing in Polefox Sync Account -->
     <string name="synced_tabs_enable_tab_syncing">Zapněte nejdříve synchronizaci panelů.</string>
     <!-- Text displayed when user has no tabs that have been synced -->
     <string name="synced_tabs_no_tabs">Ve vašich zařízeních nejsou otevřené žádné panely.</string>
-    <!-- Text displayed in the synced tabs screen when a user is not signed in to Firefox Sync describing Synced Tabs -->
+    <!-- Text displayed in the synced tabs screen when a user is not signed in to Polefox Sync describing Synced Tabs -->
     <string name="synced_tabs_sign_in_message">Seznam panelů z ostatních zařízení.</string>
-    <!-- Text displayed on a button in the synced tabs screen to link users to sign in when a user is not signed in to Firefox Sync -->
+    <!-- Text displayed on a button in the synced tabs screen to link users to sign in when a user is not signed in to Polefox Sync -->
     <string name="synced_tabs_sign_in_button">Přihlásit se k synchronizaci</string>
 
     <!-- The text displayed when a synced device has no tabs to show in the list of Synced Tabs. -->
@@ -1879,7 +1879,7 @@
     <string name="inactive_tabs_7_days">jednoho týdne</string>
 
     <!-- Default browser experiment -->
-    <string name="default_browser_experiment_card_text">Nastavte si automatické otevírání odkazů, e-mailů a zpráv ve Firefoxu.</string>
+    <string name="default_browser_experiment_card_text">Nastavte si automatické otevírání odkazů, e-mailů a zpráv ve Polefoxu.</string>
 
     <!-- Content description for close button in collection placeholder. -->
     <string name="remove_home_collection_placeholder_content_description">Odstranit</string>

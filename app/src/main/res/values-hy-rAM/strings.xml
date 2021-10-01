@@ -84,8 +84,8 @@
     <string name="cfr_neg_button_text">Ոչ, շնորհակալ եմ</string>
 
     <!-- Open in App "contextual feature recommendation" (CFR) -->
-    <!-- Text for the info message. 'Firefox' intentionally hardcoded here.-->
-    <string name="open_in_app_cfr_info_message">Դուք կարող եք կայել Firefox-ը ինքնաշխատ բացել հղումները հավելվածներում:</string>
+    <!-- Text for the info message. 'Polefox' intentionally hardcoded here.-->
+    <string name="open_in_app_cfr_info_message">Դուք կարող եք կայել Polefox-ը ինքնաշխատ բացել հղումները հավելվածներում:</string>
     <!-- Text for the positive action button -->
     <string name="open_in_app_cfr_positive_button_text">Անցնել Կարգավորումներին</string>
     <!-- Text for the negative action button -->
@@ -256,8 +256,8 @@
     <string name="search_engine_suggestions_description">Որոնել ուղղակիրոեն հասցեագոտուց</string>
 
     <!-- Search Widget -->
-    <!-- Content description for searching with a widget. Firefox is intentionally hardcoded.-->
-    <string name="search_widget_content_description">Բացել Firefox-ի նոր ներդիր</string>
+    <!-- Content description for searching with a widget. Polefox is intentionally hardcoded.-->
+    <string name="search_widget_content_description">Բացել Polefox-ի նոր ներդիր</string>
     <!-- Text preview for smaller sized widgets -->
     <string name="search_widget_text_short">Որոնել</string>
     <!-- Text preview for larger sized widgets -->
@@ -318,12 +318,12 @@
     <string name="preferences_add_private_browsing_shortcut">Ավելացնել գաղտնի դիտարկման դյուրանցում</string>
     <!-- Preference for accessibility -->
     <string name="preferences_accessibility">Մատչելիություն</string>
-    <!-- Preference to override the Firefox Account server -->
-    <string name="preferences_override_fxa_server">Ընտրովի Firefox հաշվի սերվեր</string>
+    <!-- Preference to override the Polefox Account server -->
+    <string name="preferences_override_fxa_server">Ընտրովի Polefox հաշվի սերվեր</string>
     <!-- Preference to override the Sync token server -->
     <string name="preferences_override_sync_tokenserver">Ընտրովի համաժամեցման սերվեր</string>
     <!-- Toast shown after updating the FxA/Sync server override preferences -->
-    <string name="toast_override_fxa_sync_server_done">Firefox հաշիվը / համաժամեցման սերվերը փոփոխված է: Հայտը դադարեցվում է՝ փոփոխությունները գործադրելու համար…</string>
+    <string name="toast_override_fxa_sync_server_done">Polefox հաշիվը / համաժամեցման սերվերը փոփոխված է: Հայտը դադարեցվում է՝ փոփոխությունները գործադրելու համար…</string>
     <!-- Preference category for account information -->
     <string name="preferences_category_account">Հաշիվ</string>
     <!-- Preference shown on banner to sign into account -->
@@ -339,9 +339,9 @@
     <!-- Preference for settings related to visual options -->
     <string name="preferences_customize">Հարմարեցնել</string>
     <!-- Preference description for banner about signing in -->
-    <string name="preferences_sign_in_description">Համաժամեցրեք էջանիշները, պատմությունը և ավելին ձեր Firefox հաշվի հետ</string>
+    <string name="preferences_sign_in_description">Համաժամեցրեք էջանիշները, պատմությունը և ավելին ձեր Polefox հաշվի հետ</string>
     <!-- Preference shown instead of account display name while account profile information isn't available yet. -->
-    <string name="preferences_account_default_name">Firefox-ի հաշիվ</string>
+    <string name="preferences_account_default_name">Polefox-ի հաշիվ</string>
     <!-- Preference text for account title when there was an error syncing FxA -->
     <string name="preferences_account_sync_error">Կրկին կապակցվեք՝ համաժամեցումը վերսկսելու համար</string>
     <!-- Preference for language -->
@@ -464,7 +464,7 @@
     <!-- Name of the "receive tabs" notification channel. Displayed in the "App notifications" system settings for the app -->
     <string name="fxa_received_tab_channel_name">Ստացված ներդիրներ</string>
     <!-- Description of the "receive tabs" notification channel. Displayed in the "App notifications" system settings for the app -->
-    <string name="fxa_received_tab_channel_description">Ծանուցումներ Firefox-ի այլ սարքերից ստացված ներդիրների վերաբերյալ:</string>
+    <string name="fxa_received_tab_channel_description">Ծանուցումներ Polefox-ի այլ սարքերից ստացված ներդիրների վերաբերյալ:</string>
     <!--  The body for these is the URL of the tab received  -->
     <string name="fxa_tab_received_notification_name">Ներդիր է ստացվել</string>
     <!-- When multiple tabs have been received -->
@@ -498,7 +498,7 @@
     <string name="preferences_usage_data_description">Կիսվում է արագագործության, օգտագործման, սարքակազմի և ձեր դիտարկիչի կարգավորումներով Mozilla-ի հետ՝ %1$s-ը էլ ավելի լավը դարձնելու համար</string>
     <!-- Preference switch for marketing data collection -->
     <string name="preferences_marketing_data">Շուկայավարման տվյալներ</string>
-    <!-- Preference description for marketing data collection, parameter is the app name (e.g. Firefox) -->
+    <!-- Preference description for marketing data collection, parameter is the app name (e.g. Polefox) -->
     <string name="preferences_marketing_data_description">Համօգտագործում է տվյալներն այն գործառույթների վերաբերյալ, որոնք դուք օգտագործում եք %1$s-ում Leanplum-ի հետ, բջջային մարկետինգի մեր մատակարարի:</string>
     <!-- Preference description for marketing data collection -->
     <string name="preferences_marketing_data_description2">Օգտագործման հիմնական տվյալները կիսում է Adjust- ի՝ մեր բջջային շուկայավարման մատակարարի հետ</string>
@@ -521,7 +521,7 @@
     <!-- Header of the Turn on Sync preference view -->
     <string name="preferences_sync">Միացնել համաժամեցումը</string>
     <!-- Preference for pairing -->
-    <string name="preferences_sync_pair">Firefox-ում աշխատասեղանի զուգավորման կոդ սկանավորեք</string>
+    <string name="preferences_sync_pair">Polefox-ում աշխատասեղանի զուգավորման կոդ սկանավորեք</string>
     <!-- Preference for account login -->
     <string name="preferences_sync_sign_in">Մուտք գործել</string>
     <!-- Preference for reconnecting to FxA sync -->
@@ -661,8 +661,8 @@
     <string name="studies_remove">Հեռացնել</string>
     <!-- Title of the active section on the studies list -->
     <string name="studies_active">Գործուն</string>
-    <!-- Description for studies, it indicates why Firefox use studies -->
-    <string name="studies_description">Firefox-ը կարող է ժամանակ առ ժամանակ տեղադրել և գործարկել ուսումնասիրություններ:</string>
+    <!-- Description for studies, it indicates why Polefox use studies -->
+    <string name="studies_description">Polefox-ը կարող է ժամանակ առ ժամանակ տեղադրել և գործարկել ուսումնասիրություններ:</string>
     <!-- Learn more link for studies, links to an article for more information about studies. -->
     <string name="studies_learn_more">Իմանալ ավելին</string>
 
@@ -1081,7 +1081,7 @@
     <!-- An option to connect additional devices -->
     <string name="sync_connect_device">Կապակցվել այլ սարքի</string>
     <!-- The dialog text shown when additional devices are not available -->
-    <string name="sync_connect_device_dialog">Ներդիր ուղարկելու համար մուտք գործեք Firefox առնվազն մեկ այլ սարքի վրա:</string>
+    <string name="sync_connect_device_dialog">Ներդիր ուղարկելու համար մուտք գործեք Polefox առնվազն մեկ այլ սարքի վրա:</string>
     <!-- Confirmation dialog button -->
     <string name="sync_confirmation_button">Հասկացա</string>
     <!-- Share error message -->
@@ -1240,58 +1240,58 @@
     <string name="deleting_browsing_data_in_progress">Ջնջել դիտարկման տվյալները…</string>
 
     <!-- Tips -->
-    <!-- text for firefox preview moving tip header "Firefox Preview" and "Firefox Nightly" are intentionally hardcoded -->
-    <string name="tip_firefox_preview_moved_header">Firefox Preview-ն այժմ Firefox Nightly-ն է</string>
+    <!-- text for firefox preview moving tip header "Polefox Preview" and "Polefox Nightly" are intentionally hardcoded -->
+    <string name="tip_firefox_preview_moved_header">Polefox Preview-ն այժմ Polefox Nightly-ն է</string>
     <!-- text for firefox preview moving tip description -->
-    <string name="tip_firefox_preview_moved_description">Firefox Nightly-ին ամեն երեկո թարմացվում է և ունի նորարարական հնարավորություններ:
+    <string name="tip_firefox_preview_moved_description">Polefox Nightly-ին ամեն երեկո թարմացվում է և ունի նորարարական հնարավորություններ:
         Այնուամենայնիվ, այն կարող է լինել ավելի քիչ կայուն: Ներբեռնեք մեր բետա դիտարկիչը՝ ավելի կայուն փորձի համար:</string>
 
-    <!-- text for firefox preview moving tip button. "Firefox for Android Beta" is intentionally hardcoded -->
-    <string name="tip_firefox_preview_moved_button_2">Ստանալ Firefox for Android Beta-ն</string>
+    <!-- text for firefox preview moving tip button. "Polefox for Android Beta" is intentionally hardcoded -->
+    <string name="tip_firefox_preview_moved_button_2">Ստանալ Polefox for Android Beta-ն</string>
 
-    <!-- text for firefox preview moving tip header. "Firefox Nightly" is intentionally hardcoded -->
-    <string name="tip_firefox_preview_moved_header_preview_installed">Firefox Nightly-ն հեռացված է</string>
+    <!-- text for firefox preview moving tip header. "Polefox Nightly" is intentionally hardcoded -->
+    <string name="tip_firefox_preview_moved_header_preview_installed">Polefox Nightly-ն հեռացված է</string>
     <!-- text for firefox preview moving tip description -->
     <string name="tip_firefox_preview_moved_description_preview_installed">Այս հավելվածը այլևս չի ստանա անվտանգության թարմացումներ: Դադարեք օգտագործել այս հավելվածը և անցեք նոր Nightly-ին:
-        \n\nՁեր էջանիշերը, մուտքերը և պատմությունը այլ հավելված փոխանցելու համար ստեղծել Firefox հաշիվ:</string>
+        \n\nՁեր էջանիշերը, մուտքերը և պատմությունը այլ հավելված փոխանցելու համար ստեղծել Polefox հաշիվ:</string>
     <!-- text for firefox preview moving tip button  -->
     <string name="tip_firefox_preview_moved_button_preview_installed">Անցում կատարեք նոր Nightly-ին</string>
 
-    <!-- text for firefox preview moving tip header. "Firefox Nightly" is intentionally hardcoded -->
-    <string name="tip_firefox_preview_moved_header_preview_not_installed">Firefox Nightly-ն հեռացված է</string>
+    <!-- text for firefox preview moving tip header. "Polefox Nightly" is intentionally hardcoded -->
+    <string name="tip_firefox_preview_moved_header_preview_not_installed">Polefox Nightly-ն հեռացված է</string>
     <!-- text for firefox preview moving tip description -->
     <string name="tip_firefox_preview_moved_description_preview_not_installed">Այս հավելվածը այլևս չի ստանա անվտանգության թարմացումներ: Դադարեք օգտագործել այս հավելվածը և անցեք նոր Nightly-ին:
-        \n\nՁեր էջանիշերը, մուտքերը և պատմությունը այլ հավելված փոխանցելու համար ստեղծել Firefox հաշիվ:</string>
+        \n\nՁեր էջանիշերը, մուտքերը և պատմությունը այլ հավելված փոխանցելու համար ստեղծել Polefox հաշիվ:</string>
     <!-- text for firefox preview moving tip button  -->
     <string name="tip_firefox_preview_moved_button_preview_not_installed">Ստացեք նոր Nightly-ին</string>
 
     <!-- Onboarding -->
     <!-- Text for onboarding welcome message
-    The first parameter is the name of the app (e.g. Firefox Preview) -->
+    The first parameter is the name of the app (e.g. Polefox Preview) -->
     <string name="onboarding_header">Բարի գալուստ %s:</string>
-    <!-- text for the Firefox Accounts section header -->
+    <!-- text for the Polefox Accounts section header -->
     <string name="onboarding_fxa_section_header">Արդեն ունե՞ք հաշիվ</string>
     <!-- text for the "What's New" onboarding card header -->
     <string moz:removedIn="94" name="onboarding_whats_new_header1" tools:ignore="UnusedResources">Տեսեք, թե ինչն է նոր</string>
     <!-- text for the "what's new" onboarding card description
-    The first parameter is the short name of the app (e.g. Firefox) -->
+    The first parameter is the short name of the app (e.g. Polefox) -->
     <string moz:removedIn="94" name="onboarding_whats_new_description" tools:ignore="UnusedResources">Հարցեր ունեք վերափոխված %s-ի հետ: Ցանկանո՞ւմ եք իմանալ, թե ինչ է փոխվել:</string>
 
     <!-- text for underlined clickable link that is part of "what's new" onboarding card description that links to an FAQ -->
     <string moz:removedIn="94" name="onboarding_whats_new_description_linktext" tools:ignore="UnusedResources">Ստացեք պատասխանները այստեղ</string>
-    <!-- text for the Firefox account onboarding sign in card header. The word "Firefox" should not be translated -->
-    <string name="onboarding_account_sign_in_header_1">Համաժամեցնել Firefox-ը</string>
-    <!-- Text for the button to learn more about signing in to your Firefox account -->
-    <string name="onboarding_manual_sign_in_description">Բերեք էջանիշերը, պատմությունը և գաղտնաբառերը Firefox՝ այս սարքում:</string>
+    <!-- text for the Polefox account onboarding sign in card header. The word "Polefox" should not be translated -->
+    <string name="onboarding_account_sign_in_header_1">Համաժամեցնել Polefox-ը</string>
+    <!-- Text for the button to learn more about signing in to your Polefox account -->
+    <string name="onboarding_manual_sign_in_description">Բերեք էջանիշերը, պատմությունը և գաղտնաբառերը Polefox՝ այս սարքում:</string>
     <!-- text for the firefox account onboarding card header when we detect you're already signed in to
-        another Firefox browser. (The word `Firefox` should not be translated)
+        another Polefox browser. (The word `Polefox` should not be translated)
         The first parameter is the email of the detected user's account -->
-    <string name="onboarding_firefox_account_auto_signin_header_3">Դուք մուտք եք գործել որպես %s տվյալ սարքից այլ Firefox դիտարկիչում: Ցանկանո՞ւմ եք մուտք գործել այս հաշիվ:</string>
+    <string name="onboarding_firefox_account_auto_signin_header_3">Դուք մուտք եք գործել որպես %s տվյալ սարքից այլ Polefox դիտարկիչում: Ցանկանո՞ւմ եք մուտք գործել այս հաշիվ:</string>
     <!-- text for the button to confirm automatic sign-in -->
     <string name="onboarding_firefox_account_auto_signin_confirm">Այո, գրանցեք ինձ</string>
     <!-- text for the automatic sign-in button while signing in is in process -->
     <string name="onboarding_firefox_account_signing_in">Մուտք է գործում...</string>
-    <!-- text for the button to manually sign into Firefox account. -->
+    <!-- text for the button to manually sign into Polefox account. -->
     <string name="onboarding_firefox_account_sign_in_1">Գրանցվել</string>
     <!-- text for the button to stay signed out when presented with an option to automatically sign-in. -->
     <string name="onboarding_firefox_account_stay_signed_out">Մնացեք դուրս գրված</string>
@@ -1301,8 +1301,8 @@
     <string name="onboarding_firefox_account_automatic_signin_failed">Չհաջողվեց մուտք գործել</string>
     <!-- text for the tracking protection onboarding card header -->
     <string name="onboarding_tracking_protection_header_3">Միշտ գաղտնիություն</string>
-    <!-- text for the tracking protection card description. 'Firefox' intentionally hardcoded here -->
-    <string name="onboarding_tracking_protection_description_3">Firefox-ը ինքնաշխատ կանգնեցնում է ընկերությունների՝ հետևելու Ձեզ առցանց:</string>
+    <!-- text for the tracking protection card description. 'Polefox' intentionally hardcoded here -->
+    <string name="onboarding_tracking_protection_description_3">Polefox-ը ինքնաշխատ կանգնեցնում է ընկերությունների՝ հետևելու Ձեզ առցանց:</string>
     <!-- text for tracking protection radio button option for standard level of blocking -->
     <string name="onboarding_tracking_protection_standard_button_2">Ստանդարտ (սկզբնադիր)</string>
     <!-- text for standard blocking option button description -->
@@ -1330,7 +1330,7 @@
     <string name="onboarding_privacy_notice_header">Ձեր գաղտնիությունը</string>
 
     <!-- text for the privacy notice onboarding card description
-    The first parameter is the name of the app (e.g. Firefox Preview) Substitute %s for long browser name. -->
+    The first parameter is the name of the app (e.g. Polefox Preview) Substitute %s for long browser name. -->
     <string name="onboarding_privacy_notice_description2">Մենք պատրաստել ենք %s-ը, որպեսզի դուք կառավարեք այն, ինչ համօգտագործում եք առցանց և թե ինչով եք կիսվում մեզ հետ:</string>
     <!-- Text for the button to read the privacy notice -->
     <string name="onboarding_privacy_notice_read_button">Կարդացեք մեր գաղտնիության ծանուցումը</string>
@@ -1366,18 +1366,18 @@
     <!-- Title of QR Pairing Fragment -->
     <string name="sync_scan_code">Սկանավորել կոդը</string>
     <!-- Instructions on how to access pairing -->
-    <string name="sign_in_instructions"><![CDATA[Ձեր համակարգչում բացեք Firefox-ը և անցեք <b>https://firefox.com/pair</b>]]></string>
+    <string name="sign_in_instructions"><![CDATA[Ձեր համակարգչում բացեք Polefox-ը և անցեք <b>https://firefox.com/pair</b>]]></string>
     <!-- Text shown for sign in pairing when ready -->
     <string name="sign_in_ready_for_scan">Պատրաստ է սկանավորել</string>
     <!-- Text shown for settings option for sign with pairing -->
     <string name="sign_in_with_camera">Մուտք գործեք ձեր տեսախցիկի հետ</string>
     <!-- Text shown for settings option for sign with email -->
     <string name="sign_in_with_email">Փոխարենը օգտ. էլ. փոստ</string>
-    <!-- Text shown for settings option for create new account text.'Firefox' intentionally hardcoded here.-->
-    <string name="sign_in_create_account_text"><![CDATA[Չունե՞ք հաշիվ: <u>Ստեղծեք նորը</u>՝ Firefox-ը տարբեր սարքերի միջև համաժամեցնելու համար:]]></string>
+    <!-- Text shown for settings option for create new account text.'Polefox' intentionally hardcoded here.-->
+    <string name="sign_in_create_account_text"><![CDATA[Չունե՞ք հաշիվ: <u>Ստեղծեք նորը</u>՝ Polefox-ը տարբեր սարքերի միջև համաժամեցնելու համար:]]></string>
     <!-- Text shown in confirmation dialog to sign out of account -->
-    <string name="sign_out_confirmation_message">Firefox-ը կկանգնեցնի համաժամացումը ձեր հաշվի հետ, բայց չի ջնջվի այս սարքում ձեր դիտարկման որևէ տվյալ։</string>
-    <!-- Text shown in confirmation dialog to sign out of account. The first parameter is the name of the app (e.g. Firefox Preview) -->
+    <string name="sign_out_confirmation_message">Polefox-ը կկանգնեցնի համաժամացումը ձեր հաշվի հետ, բայց չի ջնջվի այս սարքում ձեր դիտարկման որևէ տվյալ։</string>
+    <!-- Text shown in confirmation dialog to sign out of account. The first parameter is the name of the app (e.g. Polefox Preview) -->
     <string name="sign_out_confirmation_message_2">%s-ը կդադարեցնի համաժամացումը ձեր հաշվի հետ, բայց չի ջնջի այս սարքի ձեր զննարկման որևէ տվյալ։</string>
     <!-- Option to continue signing out of account shown in confirmation dialog to sign out of account -->
     <string name="sign_out_disconnect">Ապակապակցել</string>
@@ -1555,9 +1555,9 @@
     <string name="preferences_passwords_save_logins_never_save">Երբեք չպահպանել</string>
     <!-- Preference for autofilling saved logins in Fenix -->
     <string moz:removedIn="93" name="preferences_passwords_autofill" tools:ignore="UnusedResources">Ինքնալցնում</string>
-    <!-- Preference for autofilling saved logins in Firefox (in web content), %1$s will be replaced with the app name -->
+    <!-- Preference for autofilling saved logins in Polefox (in web content), %1$s will be replaced with the app name -->
     <string name="preferences_passwords_autofill2">Ինքնալցնել %1$s-ում</string>
-    <!-- Description for the preference for autofilling saved logins in Firefox (in web content), %1$s will be replaced with the app name -->
+    <!-- Description for the preference for autofilling saved logins in Polefox (in web content), %1$s will be replaced with the app name -->
     <string name="preferences_passwords_autofill_description">%1$s-ը օգտագործելիս կայքերում լցրեք և պահեք օգտվողի անունները և գաղտնաբառերը:</string>
     <!-- Preference for autofilling logins from Fenix in other apps (e.g. autofilling the Twitter app) -->
     <string name="preferences_android_autofill">Ինքնալցնել այլ հավելվածներում</string>
@@ -1875,14 +1875,14 @@
     <string name="synced_tabs_connect_another_device">Կապակցել այլ սարքի:</string>
     <!-- Text displayed asking user to re-authenticate -->
     <string name="synced_tabs_reauth">Խնդրում ենք վերահաստատել:</string>
-    <!-- Text displayed when user has disabled tab syncing in Firefox Sync Account -->
+    <!-- Text displayed when user has disabled tab syncing in Polefox Sync Account -->
     <string name="synced_tabs_enable_tab_syncing">Խնդրում ենք միացնել ներդիրի համաժամացումը:</string>
 
     <!-- Text displayed when user has no tabs that have been synced -->
-    <string name="synced_tabs_no_tabs">Դուք չունեք բացված որևէ ներդիր Firefox-ի ձեր մյուս սարքերում:</string>
-    <!-- Text displayed in the synced tabs screen when a user is not signed in to Firefox Sync describing Synced Tabs -->
+    <string name="synced_tabs_no_tabs">Դուք չունեք բացված որևէ ներդիր Polefox-ի ձեր մյուս սարքերում:</string>
+    <!-- Text displayed in the synced tabs screen when a user is not signed in to Polefox Sync describing Synced Tabs -->
     <string name="synced_tabs_sign_in_message">Դիտեք այլ սարքերում ձեր ներդիրների ցանկը:</string>
-    <!-- Text displayed on a button in the synced tabs screen to link users to sign in when a user is not signed in to Firefox Sync -->
+    <!-- Text displayed on a button in the synced tabs screen to link users to sign in when a user is not signed in to Polefox Sync -->
     <string name="synced_tabs_sign_in_button">Մուտք գործեք՝ համաժամեցնելու համար</string>
 
     <!-- The text displayed when a synced device has no tabs to show in the list of Synced Tabs. -->
@@ -1921,7 +1921,7 @@
     <string name="inactive_tabs_7_days">1 շաբաթ</string>
 
     <!-- Default browser experiment -->
-    <string name="default_browser_experiment_card_text">Կայեք հղումներ կայքերից, էլ. նամակներից և հաղորդագրություններից, որոնք ինքնաբար կերպով կբացվեն Firefox-ում:</string>
+    <string name="default_browser_experiment_card_text">Կայեք հղումներ կայքերից, էլ. նամակներից և հաղորդագրություններից, որոնք ինքնաբար կերպով կբացվեն Polefox-ում:</string>
 
     <!-- Content description for close button in collection placeholder. -->
     <string name="remove_home_collection_placeholder_content_description">Հեռացնել</string>
