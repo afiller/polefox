@@ -31,7 +31,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "org.filler.polefox"
+        applicationId "org.mozilla"
         minSdkVersion Config.minSdkVersion
         targetSdkVersion Config.targetSdkVersion
         versionCode 1
