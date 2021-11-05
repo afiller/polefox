@@ -1113,7 +1113,7 @@ class Settings(private val appContext: Context) : PreferencesHolder {
      */
     var openNextTabInDesktopMode by booleanPreference(
         appContext.getPreferenceKey(R.string.pref_key_open_next_tab_desktop_mode),
-        default = false
+        default = true
     )
 
     var signedInFxaAccount by booleanPreference(
